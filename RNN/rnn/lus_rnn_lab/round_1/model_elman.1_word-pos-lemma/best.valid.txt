@@ -1,0 +1,2759 @@
+BOS O O
+<UNK> O O
+cars#car#NNS O O
+EOS O O
+
+BOS O O
+who#who#WP O O
+acted#act#VVD O O
+in#in#IN O O
+black#black#JJ B-movie.name B-movie.name
+swan#swan#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find#find#VV O O
+some#some#DT O O
+zombie#zombie#NN B-movie.subject B-movie.subject
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+<UNK> O O
+of#of#IN O O
+in#in#IN B-movie.name B-movie.name
+july#July#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+will#will#MD B-person.name B-actor.name
+ferrell#Ferrell#NP I-person.name I-actor.name
+'s#'s#POS O O
+biography#biography#NN O O
+EOS O O
+
+BOS O O
+dutch#dutch#NN B-country.name B-country.name
+movie#movie#NN O O
+listing#listing#NN O O
+EOS O O
+
+BOS O O
+when#when#WRB O O
+was#be#VBD O O
+top#top#JJ B-movie.name B-movie.name
+gun#gun#NN I-movie.name I-movie.name
+released#release#VVN O O
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+movies#movie#NNS O O
+that#that#IN/that O O
+tom#tom#NN B-director.name B-director.name
+hanks#hank#NNS I-director.name I-director.name
+directed#direct#VVD O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+'s#be#VBZ O O
+the#the#DT O O
+latest#late#JJS O O
+on#on#IN O O
+brad#brad#NN B-actor.name B-actor.name
+pitt#pitt#NN I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+movies#movie#NNS O O
+with#with#IN O O
+harrison#harrison#NN B-actor.name B-actor.name
+ford#ford#NN I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+i#i#NNS O O
+want#want#VVP O O
+to#to#TO O O
+see#see#VV O O
+anne#anne#NN B-actor.name B-actor.name
+hathaway#hathaway#NN I-actor.name I-actor.name
+'s#'s#POS O O
+latest#late#JJS O O
+movie#movie#NN O O
+EOS O O
+
+BOS O O
+how#how#WRB O O
+old#old#JJ O O
+for#for#IN O O
+black#black#JJ B-movie.name B-movie.name
+swan#swan#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+search#search#NN O O
+for#for#IN O O
+movies#movie#NNS O O
+rated#rate#VVN O O
+g#g#NN B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+find#find#VV O O
+time#time#NN B-movie.subject B-movie.subject
+travel#travel#NN I-movie.subject I-movie.subject
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+is#be#VBZ O O
+the#the#DT O O
+rating#rating#NN O O
+for#for#IN O O
+the#the#DT O O
+movie#movie#NN O O
+ants#ant#NNS B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+the#the#DT O O
+directors#director#NNS O O
+of#of#IN O O
+gone#go#VVN B-movie.name B-movie.name
+with#with#IN I-movie.name I-movie.name
+the#the#DT I-movie.name I-movie.name
+wind#wind#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what#what#WP O O
+are#be#VBP O O
+recent#recent#JJ O O
+films#film#NNS O O
+by#by#IN O O
+will#will#NN B-actor.name B-actor.name
+ferrell#ferrell#NN I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+how#how#WRB O O
+old#old#JJ O O
+do#do#VVP O O
+you#you#PP O O
+have#have#VHP O O
+to#to#TO O O
+be#be#VB O O
+to#to#TO O O
+see#see#VV O O
+an#an#DT O O
+r#r#NN B-rating.name B-rating.name
+rated#rate#VVN O O
+movie#movie#NN O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+other#other#JJ O O
+movies#movie#NNS O O
+did#do#VVD O O
+ray#ray#NN B-director.name B-producer.name
+stark#stark#RB I-director.name I-producer.name
+do#do#VVP O O
+EOS O O
+
+BOS O O
+display#display#NN O O
+movies#movie#NNS O O
+in#in#IN O O
+german#german#NN B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+famous#famous#JJ O O
+directors#director#NNS O O
+EOS O O
+
+BOS O O
+look#look#VV O O
+for#for#IN O O
+information#information#NN O O
+about#about#IN O O
+charles#charles#NNS B-person.name B-person.name
+vidor#vidor#NN I-person.name I-person.name
+EOS O O
+
+BOS O O
+when#when#WRB O O
+was#be#VBD O O
+<UNK> B-movie.name B-movie.name
+released#release#VVN O O
+EOS O O
+
+BOS O O
+are#be#VBP O O
+the#the#DT O O
+<UNK> O O
+<UNK> O O
+<UNK> O O
+as#as#IN O O
+small#small#JJ O O
+or#or#CC O O
+<UNK> O O
+<UNK> O O
+EOS O O
+
+BOS O O
+on#on#IN B-movie.name O
+july#july#RB I-movie.name O
+EOS O O
+
+BOS O O
+what#what#WP O O
+other#other#JJ O O
+films#film#NNS O O
+has#have#VHZ O O
+george#george#NN B-director.name B-director.name
+vidor#vidor#NN I-director.name I-director.name
+done#do#VVN O O
+EOS O O
+
+BOS O O
+list#list#NN O O
+ice#ice#NN B-movie.subject B-movie.subject
+skating#skating#NN I-movie.subject I-movie.subject
+movies#movie#NNS O O
+please#please#VVP O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+are#be#VBP O O
+the#the#DT O O
+<UNK> O O
+<UNK> O O
+for#for#IN O O
+a#a#DT O O
+pg#pg#NN B-rating.name B-rating.name
+thirteen#thirteen#CD I-rating.name I-rating.name
+movie#movie#NN O O
+EOS O O
+
+BOS O O
+movies#movie#NNS O O
+rated#rate#VVD O O
+pg#pg#NN B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+what#what#WP O O
+are#be#VBP O O
+the#the#DT O O
+three#three#CD O O
+latest#late#JJS O O
+films#film#NNS O O
+with#with#IN O O
+will#will#NN B-actor.name B-actor.name
+ferrell#ferrell#NN I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+sort#sort#NN O O
+in#in#IN O O
+all#all#DT O O
+diving#diving#JJ B-movie.subject B-movie.subject
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+movies#movie#NNS O O
+about#about#IN O O
+zombies#zombie#NNS B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+find#find#VV O O
+hindi#Hindi#NN B-movie.language B-movie.language
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+get#get#VV O O
+a#a#DT O O
+list#list#NN O O
+of#of#IN O O
+<UNK> B-movie.genre B-movie.name
+films#film#NNS O O
+EOS O O
+
+BOS O O
+how#how#WRB O O
+much#much#RB O O
+did#do#VVD O O
+house#house#NN B-movie.name B-movie.name
+at#at#IN I-movie.name I-movie.name
+the#the#DT I-movie.name I-movie.name
+end#end#NN I-movie.name I-movie.name
+of#of#IN I-movie.name I-movie.name
+the#the#DT I-movie.name I-movie.name
+street#street#NN I-movie.name I-movie.name
+make#make#VV O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+was#be#VBD O O
+the#the#DT O O
+budget#budget#NN O O
+for#for#IN O O
+<UNK> B-movie.name B-movie.name
+<UNK> I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+kareena#kareena#NP B-actor.name B-actor.name
+'s#'s#POS O O
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+is#be#VBZ O O
+terry#terry#NN B-person.name B-person.name
+<UNK> I-person.name I-person.name
+<UNK> O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+are#be#VBP O O
+some#some#DT O O
+movies#movie#NNS O O
+made#make#VVN O O
+by#by#IN O O
+searchlight#searchlight#NN B-producer.name B-producer.name
+films#film#NNS I-producer.name O
+EOS O O
+
+BOS O O
+what#what#WP O O
+actors#actor#NNS O O
+were#be#VBD O O
+in#in#IN O O
+dirty#dirty#JJ B-movie.name B-movie.name
+dancing#dancing#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what#what#WP O O
+was#be#VBD O O
+the#the#DT O O
+budget#budget#NN O O
+of#of#IN O O
+the#the#DT O O
+movie#movie#NN O O
+avatar#avatar#NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+do#do#VV O O
+they#they#PP O O
+have#have#VHP O O
+oscar#oscar#NN B-award.ceremony B-award.ceremony
+awards#award#NNS O O
+in#in#IN O O
+india#india#NN B-country.name B-country.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+information#information#NN O O
+for#for#IN O O
+the#the#DT O O
+movie#movie#NN O O
+the#the#DT B-movie.name B-movie.name
+campaign#campaign#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+when#when#WRB O O
+was#be#VBD O O
+life#life#NN B-movie.name B-movie.name
+is#be#VBZ I-movie.name I-movie.name
+beautiful#beautiful#JJ I-movie.name I-movie.name
+released#release#VVD O O
+EOS O O
+
+BOS O O
+how#how#WRB O O
+much#much#JJ O O
+money#money#NN O O
+did#do#VVD O O
+shrek#shrek#RB B-movie.name B-movie.name
+bring#bring#VV O I-movie.name
+in#in#IN O O
+EOS O O
+
+BOS O O
+want#want#VVP O O
+to#to#TO O O
+see#see#VV O O
+charles#charles#NNS B-person.name B-person.name
+vidor#vidor#NN I-person.name I-person.name
+EOS O O
+
+BOS O O
+who#who#WP O O
+produced#produce#VVD O O
+the#the#DT B-movie.name B-movie.name
+godfather#godfather#NN I-movie.name I-movie.name
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+more#more#JJR O O
+details#detail#NNS O O
+about#about#IN O O
+the#the#DT O O
+information#information#NN O O
+highlighted#highlight#VVN O O
+in#in#IN B-movie.name B-movie.name
+orange#orange#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+some#some#DT O O
+alfred#alfred#NN B-director.name B-director.name
+hitchcock#hitchcock#NN I-director.name I-director.name
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+bring#bring#VV O O
+up#up#RP O O
+a#a#DT O O
+bio#bio#NN O O
+on#on#IN O O
+will#will#NN B-person.name B-person.name
+ferrell#ferrell#NN I-person.name I-person.name
+EOS O O
+
+BOS O O
+search#search#NN O O
+twenty#twenty#CD B-movie.release_date B-movie.release_date
+twelve#twelve#NN I-movie.release_date I-movie.release_date
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+list#list#NN O O
+of#of#IN O O
+20#@card@#CD B-producer.name B-producer.name
+th#th#NN I-producer.name I-producer.name
+century#century#NN I-producer.name I-producer.name
+fox#fox#NN I-producer.name I-producer.name
+films#film#NNS O O
+EOS O O
+
+BOS O O
+search#search#NN O O
+for#for#IN O O
+the#the#DT O O
+genre#genre#NN O O
+step#step#VV B-movie.name B-movie.name
+up#up#RP I-movie.name I-movie.name
+in#in#IN O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+is#be#VBZ O O
+the#the#DT O O
+movie#movie#NN O O
+rating#rating#NN O O
+for#for#IN O O
+<UNK> B-movie.name B-movie.name
+<UNK> I-movie.name O
+EOS O O
+
+BOS O O
+what#what#WP O O
+movies#movie#NNS O O
+did#do#VVD O O
+hitchcock#hitchcock#NN B-director.name B-director.name
+direct#direct#JJ O O
+EOS O O
+
+BOS O O
+movie#movie#NN O O
+type#type#NN O O
+EOS O O
+
+BOS O O
+videos#video#NNS O O
+of#of#IN O O
+steven#steven#JJ B-director.name B-person.name
+spielberg#spielberg#NN I-director.name I-person.name
+EOS O O
+
+BOS O O
+i#i#NP O O
+would#would#MD O O
+like#like#VV O O
+to#to#TO O O
+know#know#VV O O
+about#about#IN O O
+some#some#DT O O
+famous#famous#JJ O O
+movies#movie#NNS O O
+by#by#IN O O
+director#director#NN O O
+martin#martin#NN B-director.name B-director.name
+scorsese#scorsese#NN I-director.name I-director.name
+EOS O O
+
+BOS O O
+tell#tell#VV O O
+me#me#PP O O
+what#what#WP O O
+movies#movie#NNS O O
+tom#tom#NN B-actor.name B-actor.name
+hanks#hank#VVZ I-actor.name I-actor.name
+star#star#NN O O
+in#in#IN O O
+EOS O O
+
+BOS O O
+how#how#WRB O O
+directed#direct#VVN O O
+alfred#alfred#NN B-producer.name B-director.name
+hitchcock#hitchcock#NN B-producer.name I-director.name
+shows#show#NNS O O
+EOS O O
+
+BOS O O
+who#who#WP O O
+directed#direct#VVD O O
+the#the#DT O O
+musical#musical#JJ O B-movie.genre
+<UNK> O O
+in#in#IN O O
+barfi#barfi#NNS B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+this#this#DT B-movie.release_date O
+years#year#NNS O O
+<UNK> O O
+rated#rate#VVN O O
+italian#Italian#JJ B-country.name B-country.name
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+how#how#WRB O O
+do#do#VVP O O
+i#i#NNS O O
+find#find#VV O O
+out#out#RP O O
+information#information#NN O O
+about#about#IN O O
+kristen#Kristen#NP B-person.name B-person.name
+stewart#stewart#NN I-person.name I-person.name
+EOS O O
+
+BOS O O
+when#when#WRB O O
+was#be#VBD O O
+house#house#NN B-movie.name B-movie.name
+at#at#IN I-movie.name I-movie.name
+the#the#DT I-movie.name I-movie.name
+end#end#NN I-movie.name I-movie.name
+of#of#IN I-movie.name I-movie.name
+the#the#DT I-movie.name I-movie.name
+street#street#NN I-movie.name I-movie.name
+released#release#VVD O O
+EOS O O
+
+BOS O O
+change#change#NN O O
+rating#rating#NN O O
+<UNK> O O
+<UNK> O O
+<UNK> O O
+<UNK> O B-rating.name
+kids#kid#NNS O B-rating.name
+EOS O O
+
+BOS O O
+when#when#WRB O O
+the#the#DT O O
+movie#movie#NN O O
+top#top#JJ B-movie.name B-movie.name
+gun#gun#NN I-movie.name I-movie.name
+was#be#VBD O O
+released#release#VVN O O
+EOS O O
+
+BOS O O
+tell#tell#VV O O
+me#me#PP O O
+where#where#WRB O O
+is#be#VBZ O O
+<UNK> B-movie.name B-movie.name
+from#from#IN O O
+EOS O O
+
+BOS O O
+the#the#DT O O
+movie#movie#NN O O
+gilda#gilda#NN B-movie.name B-movie.name
+director#director#NN O O
+EOS O O
+
+BOS O O
+show#show#VVP O O
+me#me#PP O O
+all#all#PDT O O
+the#the#DT O O
+information#information#NN O O
+about#about#IN O O
+the#the#DT O O
+movie#movie#NN O O
+dirty#dirty#JJ B-movie.name B-movie.name
+dancing#dancing#NN I-movie.name I-movie.name
+like#like#IN O O
+story#story#NN O O
+reviews#review#NNS O O
+cast#cast#VVD O O
+<UNK> O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+twenty#twenty#CD B-movie.release_date B-movie.release_date
+twelve#twelve#NN I-movie.release_date I-movie.release_date
+movies#movie#NNS O O
+were#be#VBD O O
+rated#rate#VVN O O
+pg#pg#NN B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+have#have#VHP O O
+any#any#DT O O
+new#new#JJ O O
+movies#movie#NNS O O
+by#by#IN O O
+twentieth#twentieth#JJ B-producer.name B-producer.name
+century#century#NN I-producer.name I-producer.name
+fox#fox#NN I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+what#what#WP O O
+movies#movie#NNS O O
+came#come#VVD O O
+out#out#RP O O
+of#of#IN O O
+russia#russia#NN B-country.name B-country.name
+last#last#JJ B-movie.release_date B-movie.release_date
+year#year#NN I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+finding#find#VVG B-movie.name B-movie.name
+nemo#nemo#NN I-movie.name I-movie.name
+info#info#NN O O
+EOS O O
+
+BOS O O
+when#when#WRB O O
+was#be#VBD O O
+dirty#dirty#JJ B-movie.name B-movie.name
+dancing#dancing#NN I-movie.name I-movie.name
+released#release#VVN O O
+EOS O O
+
+BOS O O
+i#i#NNS O O
+want#want#VVP O O
+to#to#TO O O
+see#see#VV O O
+movies#movie#NNS O O
+that#that#WDT O O
+are#be#VBP O O
+rated#rate#VVN O O
+pg#pg#NN B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+synopsis#synopsis#NN O O
+for#for#IN O O
+in#in#IN B-movie.name B-movie.name
+july#July#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+brad#brad#NN B-actor.name B-actor.name
+pitt#pitt#NN I-actor.name I-actor.name
+popular#popular#JJ O O
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+i#i#NNS O O
+am#be#VBP O O
+looking#look#VVG O O
+for#for#IN O O
+movies#movie#NNS O O
+in#in#IN O O
+spanish#Spanish#NN B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+avatar#avatar#NN B-movie.name B-movie.name
+must#must#MD O I-movie.name
+<UNK> O I-movie.name
+<UNK> O I-movie.name
+a#a#DT O O
+bundle#bundle#NN O O
+EOS O O
+
+BOS O O
+who#who#WP O O
+directed#direct#VVD O O
+the#the#DT O O
+movie#movie#NN O O
+cabin#cabin#NN I-movie.name B-movie.name
+in#in#IN I-movie.name I-movie.name
+the#the#DT I-movie.name I-movie.name
+woods#wood#NNS I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+production#production#NN O O
+company#company#NN O O
+for#for#IN O O
+spiderman#spiderman#NN B-movie.name O
+EOS O O
+
+BOS O O
+what#what#WP O O
+<UNK> O O
+is#be#VBZ O O
+<UNK> B-movie.name B-movie.name
+good#good#JJ O I-movie.name
+for#for#IN O O
+EOS O O
+
+BOS O O
+find#find#VV O O
+the#the#DT O O
+guy#guy#NN O O
+who#who#WP O O
+plays#play#VVZ O O
+charlie#charlie#NN B-character.name B-character.name
+on#on#IN O O
+charlie#charlie#NN B-movie.name B-person.name
+'s#'s#POS I-movie.name O
+<UNK> I-movie.name O
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+movies#movie#NNS O O
+in#in#IN O O
+french#French#NNS B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+cast#cast#NN O O
+and#and#CC O O
+crew#crew#NN O O
+for#for#IN O O
+apollo#apollo#NN B-movie.name B-movie.name
+thirteen#thirteen#CD I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+comedy#comedy#NN B-movie.genre B-movie.genre
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+pictures#picture#NNS O O
+of#of#IN O O
+famous#famous#JJ O O
+<UNK> O O
+EOS O O
+
+BOS O O
+list#list#NN O O
+movie#movie#NN O O
+info#info#NN O O
+kristen#kristen#NN B-actor.name B-actor.name
+stewart#stewart#NN I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+show#show#NN O O
+movie#movie#NN O O
+evil#evil#NN B-movie.name B-movie.name
+goes#go#VVZ I-movie.name I-movie.name
+global#global#JJ I-movie.name I-movie.name
+on#on#IN O O
+oh#oh#UH B-movie.release_date B-movie.release_date
+nine#nine#CD I-movie.release_date I-movie.release_date
+fourteen#fourteen#NN I-movie.release_date I-movie.release_date
+twelve#twelve#NN I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+some#some#DT O O
+movies#movie#NNS O O
+about#about#IN O O
+apartheid#apartheid#NN B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+i#i#NP O O
+would#would#MD O O
+like#like#VV O O
+to#to#TO O O
+know#know#VV O O
+the#the#DT O O
+rating#rating#NN O O
+for#for#IN O O
+cabin#cabin#NN I-movie.name B-movie.name
+in#in#IN I-movie.name I-movie.name
+the#the#DT I-movie.name I-movie.name
+woods#wood#NNS I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+the#the#DT O O
+reviews#review#NNS O O
+on#on#IN O O
+the#the#DT O O
+movie#movie#NN O O
+the#the#DT B-movie.name B-movie.name
+campaign#campaign#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who#who#WP O O
+produced#produce#VVD O O
+et#et#NP B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what#what#WP O O
+type#type#NN O O
+of#of#IN O O
+movie#movie#NN O O
+is#be#VBZ O O
+gilda#gilda#NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+search#search#NN O O
+by#by#IN O O
+<UNK> O B-country.name
+rating#rating#NN O O
+EOS O O
+
+BOS O O
+robert#robert#JJ B-person.name B-person.name
+wise#wise#JJ I-person.name I-person.name
+life#life#NN O O
+EOS O O
+
+BOS O O
+i#i#NNS O O
+want#want#VVP O O
+to#to#TO O O
+see#see#VV O O
+a#a#DT O O
+comedy#comedy#NN B-movie.genre B-movie.genre
+in#in#IN O O
+spanish#Spanish#NN B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+arabic#Arabic#JJ B-country.name B-country.name
+actors#actor#NNS O O
+EOS O O
+
+BOS O O
+how#how#WRB O O
+many#many#JJ O O
+<UNK> B-movie.name O
+movies#movie#NNS O O
+are#be#VBP O O
+there#there#RB O O
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+movies#movie#NNS O O
+from#from#IN O O
+brazil#brazil#NN B-country.name B-country.name
+EOS O O
+
+BOS O O
+search#search#NN O O
+for#for#IN O O
+movies#movie#NNS O O
+about#about#IN O O
+<UNK> B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+who#who#WP O O
+played#play#VVD O O
+the#the#DT B-character.name O
+<UNK> I-character.name O
+in#in#IN O O
+<UNK> B-movie.name B-movie.name
+<UNK> I-movie.name I-movie.name
+'s#'s#POS I-movie.name O
+day#day#NN I-movie.name O
+<UNK> I-movie.name O
+EOS O O
+
+BOS O O
+tell#tell#VV O O
+me#me#PP O O
+the#the#DT O O
+language#language#NN O O
+of#of#IN O O
+ju#ju#NN B-movie.name B-movie.name
+on#on#IN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+movies#movie#NNS O O
+from#from#IN O O
+germany#germany#NN B-country.name B-country.name
+EOS O O
+
+BOS O O
+what#what#WP O O
+was#be#VBD O O
+the#the#DT O O
+<UNK> O O
+date#date#NN O O
+for#for#IN O O
+men#man#NNS B-movie.name B-movie.name
+in#in#IN I-movie.name I-movie.name
+black#black#JJ I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who#who#WP O O
+starred#star#VVD O O
+in#in#IN O O
+the#the#DT B-movie.name B-movie.name
+parent#parent#NN I-movie.name I-movie.name
+trap#trap#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find#find#VV O O
+budget#budget#NN O O
+for#for#IN O O
+epic#epic#NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+did#do#VVD O O
+albert#albert#NN B-producer.name B-producer.name
+ruddy#ruddy#JJ I-producer.name I-producer.name
+produce#produce#VVP O O
+all#all#DT O O
+of#of#IN O O
+the#the#DT B-movie.name B-movie.name
+godfather#godfather#NN I-movie.name I-movie.name
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+country#country#NN O O
+is#be#VBZ O O
+outside#outside#IN B-movie.name B-country.name
+the#the#DT I-movie.name I-movie.name
+<UNK> I-movie.name I-movie.name
+from#from#IN O O
+EOS O O
+
+BOS O O
+how#how#WRB O O
+much#much#RB O O
+was#be#VBD O O
+the#the#DT O O
+budget#budget#NN O O
+for#for#IN O O
+paranorman#paranorman#NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+find#find#VV O O
+indian#Indian#JJ B-movie.language B-movie.language
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+how#how#WRB O O
+much#much#JJ O O
+money#money#NN O O
+did#do#VVD O O
+black#black#JJ B-movie.name B-movie.name
+swan#swan#NN I-movie.name I-movie.name
+bring#bring#VV O O
+EOS O O
+
+BOS O O
+sort#sort#NN O O
+by#by#IN O O
+all#all#DT O O
+brad#brad#NN B-actor.name B-actor.name
+pitt#pitt#NN B-actor.name I-actor.name
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+genre#genre#NN O O
+is#be#VBZ O O
+looper#looper#NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what#what#WP O O
+is#be#VBZ O O
+the#the#DT O O
+movie#movie#NN O O
+with#with#IN O O
+patrick#patrick#NN B-actor.name B-actor.name
+swayze#swayze#NNS I-actor.name I-actor.name
+and#and#CC O O
+jennifer#jennifer#NN B-actor.name B-actor.name
+grey#grey#NN I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+my#my#PP$ O B-movie.name
+spielberg#spielberg#NN B-person.name B-person.name
+info#info#NN O O
+EOS O O
+
+BOS O O
+tell#tell#VV O O
+me#me#PP O O
+about#about#IN O O
+inception#inception#NN B-movie.name B-movie.name
+'s#'s#POS O O
+director#director#NN O O
+EOS O O
+
+BOS O O
+find#find#VV O O
+japanese#Japanese#JJ B-country.name B-country.name
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+cast#cast#NN O O
+and#and#CC O O
+crew#crew#NN O O
+for#for#IN O O
+the#the#DT O O
+movie#movie#NN O O
+house#house#NN B-movie.name B-movie.name
+at#at#IN I-movie.name I-movie.name
+the#the#DT I-movie.name I-movie.name
+end#end#NN I-movie.name I-movie.name
+of#of#IN I-movie.name I-movie.name
+the#the#DT I-movie.name I-movie.name
+street#street#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what#what#WP O O
+are#be#VBP O O
+some#some#DT O O
+universal#universal#JJ B-producer.name B-producer.name
+pictures#picture#NNS I-producer.name I-producer.name
+films#film#NNS O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+is#be#VBZ O O
+a#a#DT O O
+list#list#NN O O
+of#of#IN O O
+g#g#NN B-rating.name B-rating.name
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+<UNK> B-director.name O
+<UNK> I-director.name O
+'s#'s#POS O O
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+i#i#NNS O O
+need#need#VVP O O
+a#a#DT O O
+list#list#NN O O
+of#of#IN O O
+movies#movie#NNS O O
+produced#produce#VVN O O
+by#by#IN O O
+clint#clint#NN B-producer.name B-producer.name
+eastwood#eastwood#NN I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+get#get#VV O O
+me#me#PP O O
+star#star#NN B-movie.name B-movie.name
+wars#war#NNS I-movie.name I-movie.name
+director#director#NN O O
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+information#information#NN O O
+on#on#IN O O
+tom#tom#NN B-person.name B-person.name
+hanks#hank#NNS I-person.name I-person.name
+EOS O O
+
+BOS O O
+what#what#WP O O
+are#be#VBP O O
+some#some#DT O O
+flags#flag#NNS O O
+of#of#IN O O
+the#the#DT O O
+world#world#NN O O
+EOS O O
+
+BOS O O
+name#name#VV O O
+the#the#DT O O
+movies#movie#NNS O O
+clive#clive#JJ B-actor.name B-actor.name
+owen#owen#NN I-actor.name I-actor.name
+has#have#VHZ O O
+been#be#VBN O O
+in#in#IN O O
+EOS O O
+
+BOS O O
+find#find#VV O O
+a#a#DT O O
+list#list#NN O O
+of#of#IN O O
+movies#movie#NNS O O
+directed#direct#VVN O O
+by#by#IN O O
+spielberg#Spielberg#NP B-director.name B-director.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+pictures#picture#NNS O O
+of#of#IN O O
+beautiful#beautiful#JJ O O
+women#woman#NNS O O
+EOS O O
+
+BOS O O
+find#find#VV O O
+some#some#DT O O
+musical#musical#JJ B-movie.genre B-movie.genre
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+new#new#JJ O O
+movies#movie#NNS O O
+does#do#VVZ O O
+lionsgate#lionsgate#NNS B-producer.name B-producer.name
+have#have#VHP O O
+out#out#RB O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+movies#movie#NNS O O
+did#do#VVD O O
+harry#harry#VV B-producer.name B-movie.name
+<UNK> I-producer.name I-movie.name
+produce#produce#NN O O
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+the#the#DT O O
+films#film#NNS O O
+from#from#IN O O
+paramount#paramount#NN B-producer.name B-producer.name
+that#that#WDT O O
+won#win#VVD O O
+oscars#oscar#NNS B-award.ceremony B-country.name
+EOS O O
+
+BOS O O
+rocky#rocky#JJ B-movie.name B-movie.name
+director#director#NN O O
+'s#'s#POS O O
+name#name#NN O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+kind#kind#NN O O
+of#of#IN O O
+movie#movie#NN O O
+is#be#VBZ O O
+black#black#JJ B-movie.name B-movie.name
+swan#swan#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+information#information#NN O O
+for#for#IN O O
+<UNK> B-person.name B-movie.name
+<UNK> I-person.name I-movie.name
+EOS O O
+
+BOS O O
+search#search#NN O O
+for#for#IN O O
+the#the#DT O O
+director#director#NN O O
+of#of#IN O O
+step#step#NN B-movie.name B-movie.name
+up#up#RB I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+send#send#VV O O
+me#me#PP O O
+movies#movie#NNS O O
+that#that#WDT O O
+are#be#VBP O O
+in#in#IN O O
+spanish#Spanish#NN B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+find#find#VV O O
+synopsis#synopsis#NN O O
+for#for#IN O O
+life#life#NN B-movie.name B-movie.name
+is#be#VBZ I-movie.name I-movie.name
+beautiful#beautiful#JJ I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+where#where#WRB O O
+is#be#VBZ O O
+movie#movie#NN O O
+playing#playing#NN O O
+EOS O O
+
+BOS O O
+movies#movie#NNS O O
+about#about#IN O O
+the#the#DT B-movie.subject O
+<UNK> I-movie.subject O
+EOS O O
+
+BOS O O
+list#list#VV O O
+the#the#DT O O
+actors#actor#NNS O O
+in#in#IN O O
+forager#forager#NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+find#find#VV O O
+spanish#Spanish#JJ B-movie.language B-movie.language
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+when#when#WRB O O
+will#will#MD O O
+the#the#DT B-movie.name B-movie.name
+hobbit#hobbit#NN I-movie.name I-movie.name
+be#be#VB O O
+released#release#VVN O O
+EOS O O
+
+BOS O O
+search#search#NN O O
+movies#movie#NNS O O
+acted#act#VVN O O
+in#in#IN O O
+<UNK> B-movie.location B-movie.location
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+<UNK> B-country.name B-country.name
+films#film#NNS O O
+EOS O O
+
+BOS O O
+gross#gross#JJ O O
+earnings#earning#NNS O O
+for#for#IN O O
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+titles#title#NNS O O
+of#of#IN O O
+movies#movie#NNS O O
+about#about#IN O O
+libraries#library#NNS B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+<UNK> O O
+EOS O O
+
+BOS O O
+italian#Italian#JJ B-country.name B-country.name
+films#film#NNS O O
+EOS O O
+
+BOS O O
+<UNK> O O
+EOS O O
+
+BOS O O
+list#list#NN O O
+movies#movie#NNS O O
+released#release#VVN O O
+in#in#IN O O
+italy#italy#RB B-movie.release_region B-country.name
+in#in#IN O O
+2012#@card@#CD B-movie.release_date B-movie.release_date
+EOS O O
+
+BOS O O
+find#find#VV O O
+movies#movie#NNS O O
+directed#direct#VVN O O
+by#by#IN O O
+steven#steven#JJ B-director.name B-director.name
+spielberg#spielberg#NN I-director.name I-director.name
+EOS O O
+
+BOS O O
+how#how#WRB O O
+would#would#MD O O
+you#you#PP O O
+<UNK> O O
+the#the#DT O O
+movie#movie#NN O O
+EOS O O
+
+BOS O O
+producer#producer#NN O O
+of#of#IN O O
+heroine#heroine#NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+give#give#VV O O
+me#me#PP O O
+a#a#DT O O
+list#list#NN O O
+of#of#IN O O
+movies#movie#NNS O O
+made#make#VVN O O
+in#in#IN O O
+france#france#NN B-country.name B-country.name
+EOS O O
+
+BOS O O
+who#who#WP O O
+directed#direct#VVD O O
+finding#find#VVG B-movie.name B-movie.name
+nemo#nemo#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who#who#WP O O
+does#do#VVZ O O
+<UNK> B-actor.name O
+<UNK> I-actor.name O
+play#play#VVP O O
+in#in#IN O O
+finding#find#VVG B-movie.name B-movie.name
+nemo#nemo#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what#what#WP O O
+were#be#VBD O O
+the#the#DT O O
+box#box#NN O O
+office#office#NN O O
+sales#sale#NNS O O
+for#for#IN O O
+looper#looper#NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+budget#budget#NN O O
+for#for#IN O O
+titanic#titanic#JJ B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+flags#flag#NNS O O
+of#of#IN O O
+the#the#DT O O
+world#world#NN O O
+EOS O O
+
+BOS O O
+complete#complete#JJ O O
+cast#cast#NN O O
+and#and#CC O O
+crew#crew#NN O O
+of#of#IN O O
+apollo#apollo#NN B-movie.name B-movie.name
+thirteen#thirteen#CD I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+movies#movie#NNS O O
+produced#produce#VVN O O
+in#in#IN O O
+french#French#NNS B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+movies#movie#NNS O O
+alfred#alfred#NN B-director.name B-director.name
+hitchcock#hitchcock#NN I-director.name I-director.name
+EOS O O
+
+BOS O O
+show#show#NN O O
+mission#mission#NN B-movie.name B-movie.name
+impossible#impossible#JJ I-movie.name I-movie.name
+in#in#IN O O
+spanish#Spanish#NN B-movie.language B-movie.language
+please#please#RB O O
+EOS O O
+
+BOS O O
+where#where#WRB O O
+can#can#MD O O
+i#i#NNS O O
+find#find#VV O O
+movies#movie#NNS O O
+in#in#IN O O
+russian#Russian#JJ B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+how#how#WRB O O
+many#many#JJ O O
+movies#movie#NNS O O
+has#have#VHZ O O
+lionsgate#lionsgate#RB B-producer.name B-producer.name
+done#do#VVN O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+are#be#VBP O O
+the#the#DT O O
+<UNK> O O
+of#of#IN O O
+hotel#hotel#NN B-movie.name B-movie.name
+rwanda#rwanda#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+mission#mission#NN B-movie.name B-movie.name
+impossible#impossible#JJ I-movie.name I-movie.name
+in#in#IN O O
+spanish#Spanish#NN B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+is#be#VBZ O O
+a#a#DT O O
+hard#hard#JJ B-movie.name I-movie.name
+day#day#NN I-movie.name O
+'s#'s#POS I-movie.name I-movie.name
+night#night#NN I-movie.name I-movie.name
+a#a#DT O O
+<UNK> B-movie.genre O
+EOS O O
+
+BOS O O
+most#most#RBS O O
+<UNK> O O
+foreign#foreign#JJ B-movie.language O
+film#film#NN O O
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+a#a#DT O O
+popular#popular#JJ O O
+robert#robert#NN B-director.name B-director.name
+wise#wise#JJ I-director.name I-director.name
+movie#movie#NN O O
+EOS O O
+
+BOS O O
+i#i#NNS O O
+want#want#VVP O O
+to#to#TO O O
+watch#watch#VV O O
+movies#movie#NNS O O
+like#like#IN O O
+finding#find#VVG B-movie.name B-movie.name
+nemo#nemo#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who#who#WP O O
+directed#direct#VVD O O
+the#the#DT O O
+movie#movie#NN O O
+the#the#DT B-movie.name B-movie.name
+dark#dark#JJ I-movie.name I-movie.name
+knight#knight#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+<UNK> O O
+d#d#SYM O O
+like#like#IN O O
+to#to#TO O O
+know#know#VV O O
+who#who#WP O O
+the#the#DT O O
+producer#producer#NN O O
+of#of#IN O O
+the#the#DT B-movie.name B-movie.name
+terminator#terminator#NN I-movie.name I-movie.name
+is#be#VBZ O I-movie.name
+EOS O O
+
+BOS O O
+looper#looper#NN B-movie.name B-movie.name
+revenue#revenue#NN O O
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+movies#movie#NNS O O
+about#about#IN O O
+gardening#gardening#NN B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+directors#director#NNS O O
+of#of#IN O O
+famous#famous#JJ O O
+films#film#NNS O O
+EOS O O
+
+BOS O O
+<UNK> O O
+d#d#SYM O O
+like#like#IN O O
+to#to#TO O O
+know#know#VV O O
+the#the#DT O O
+genre#genre#NN O O
+of#of#IN O O
+the#the#DT O O
+film#film#NN O O
+grease#grease#NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+who#who#WP O O
+starred#star#VVD O O
+in#in#IN O O
+finding#find#VVG B-movie.name B-movie.name
+nemo#nemo#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find#find#VV O O
+the#the#DT O O
+director#director#NN O O
+of#of#IN O O
+star#star#NN B-movie.name B-movie.name
+wars#war#NNS I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+g#g#NN B-rating.name B-rating.name
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+movies#movie#NNS O O
+gross#gross#JJ O O
+revenue#revenue#NN O O
+of#of#IN O O
+seven#seven#CD B-movie.gross_revenue O
+point#point#NN I-movie.gross_revenue O
+two#two#CD I-movie.gross_revenue I-movie.gross_revenue
+million#million#CD I-movie.gross_revenue I-movie.release_date
+dollars#dollar#NNS I-movie.gross_revenue I-movie.gross_revenue
+EOS O O
+
+BOS O O
+what#what#WP O O
+language#language#NN O O
+is#be#VBZ O O
+spoken#speak#VVN O O
+in#in#IN O O
+the#the#DT O O
+movie#movie#NN O O
+on#on#IN B-movie.name O
+a#a#DT I-movie.name O
+<UNK> I-movie.name O
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+korean#Korean#JJ B-country.name B-country.name
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+i#i#NNS O O
+want#want#VVP O O
+to#to#TO O O
+find#find#VV O O
+information#information#NN O O
+about#about#IN O O
+the#the#DT O O
+cast#cast#NN O O
+of#of#IN O O
+apollo#apollo#NN B-movie.name B-movie.name
+thirteen#thirteen#CD I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what#what#WP O O
+is#be#VBZ O O
+the#the#DT O O
+rating#rating#NN O O
+for#for#IN O O
+dark#dark#JJ I-movie.name B-movie.name
+knight#knight#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what#what#WP O O
+type#type#NN O O
+of#of#IN O O
+movie#movie#NN O O
+is#be#VBZ O O
+parenthood#parenthood#NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+list#list#VV O O
+all#all#DT O O
+movies#movie#NNS O O
+rated#rate#VVN O O
+pg#pg#NN B-rating.name B-rating.name
+and#and#CC B-movie.release_date O
+pg-13#pg-13#NN B-rating.name B-rating.name
+released#release#VVN O O
+in#in#IN O O
+<UNK> B-movie.release_date B-movie.release_date
+EOS O O
+
+BOS O O
+if#if#IN O O
+the#the#DT O O
+movie#movie#NN O O
+was#be#VBD O O
+<UNK> O O
+how#how#WRB O O
+<UNK> O O
+do#do#VVP O O
+you#you#PP O O
+think#think#VVP O O
+the#the#DT O O
+<UNK> O O
+would#would#MD O O
+be#be#VB O O
+EOS O O
+
+BOS O O
+is#be#VBZ O O
+this#this#DT O O
+movie#movie#NN O O
+in#in#IN O O
+<UNK> B-movie.language B-country.name
+EOS O O
+
+BOS O O
+the#the#DT O O
+movie#movie#NN O O
+that#that#WDT O O
+has#have#VHZ O O
+a#a#DT O O
+kid#kid#NN B-movie.subject O
+who#who#WP I-movie.subject O
+<UNK> I-movie.subject O
+<UNK> I-movie.subject O
+a#a#DT I-movie.subject O
+man#man#NN I-movie.subject O
+EOS O O
+
+BOS O O
+how#how#WRB O O
+much#much#JJ O O
+revenue#revenue#NN O O
+did#do#VVD O O
+the#the#DT O O
+movie#movie#NN O O
+avatar#avatar#NN B-movie.name B-movie.name
+generate#generate#VV O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+is#be#VBZ O O
+grease#grease#NN B-movie.name B-movie.name
+rated#rate#VVN O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+genre#genre#NN O O
+is#be#VBZ O O
+the#the#DT B-movie.name B-movie.name
+hunger#hunger#NN I-movie.name I-movie.name
+games#game#NNS I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+please#please#VV O O
+show#show#VV O O
+me#me#PP O O
+who#who#WP O O
+produces#produce#VVZ O O
+<UNK> B-movie.name O
+EOS O O
+
+BOS O O
+who#who#WP O O
+directed#direct#VVD O O
+star#star#NN B-movie.name B-movie.name
+wars#war#NNS I-movie.name I-movie.name
+four#four#CD I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+<UNK> O O
+this#this#DT O O
+movie#movie#NN O O
+is#be#VBZ O O
+in#in#IN O O
+english#English#NN B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+brad#brad#NN B-actor.name B-actor.name
+pitt#pitt#NN I-actor.name I-actor.name
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+i#i#NP O O
+would#would#MD O O
+like#like#VV O O
+to#to#TO O O
+know#know#VV O O
+the#the#DT O O
+genre#genre#NN O O
+of#of#IN O O
+grease#grease#NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+pg#pg#NN B-rating.name B-rating.name
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+search#search#NN O O
+for#for#IN O O
+the#the#DT O O
+actor#actor#NN O O
+that#that#WDT O O
+sings#sing#VVZ O O
+let#let#VV O O
+me#me#PP O O
+love#love#VV O O
+you#you#PP O O
+EOS O O
+
+BOS O O
+who#who#WP O O
+played#play#VVD O O
+<UNK> B-character.name O
+on#on#IN O O
+finding#find#VVG B-movie.name B-movie.name
+nemo#nemo#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+send#send#VV O O
+dredd#dredd#NN B-movie.name B-producer.name
+movie#movie#NN O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+language#language#NN O O
+is#be#VBZ O O
+ju#ju#NN B-movie.name B-movie.name
+on#on#IN I-movie.name I-movie.name
+on#on#IN O O
+EOS O O
+
+BOS O O
+select#select#VV O O
+the#the#DT O O
+option#option#NN O O
+to#to#TO O O
+search#search#VV O O
+for#for#IN O O
+movies#movie#NNS O O
+produced#produce#VVN O O
+by#by#IN O O
+stephen#stephen#NN B-producer.name B-producer.name
+spielberg#spielberg#NN I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+who#who#WP O O
+made#make#VVD O O
+steel#steel#NN B-movie.name B-movie.name
+magnolias#magnolia#NNS I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+can#can#MD O O
+you#you#PP O O
+locate#locate#VV O O
+movies#movie#NNS O O
+produced#produce#VVN O O
+by#by#IN O O
+clint#clint#NN B-producer.name B-producer.name
+eastwood#eastwood#NN I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+zombie#zombie#NN B-movie.subject B-movie.subject
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+show#show#NN O O
+movie#movie#NN O O
+ratings#rating#NNS O O
+for#for#IN O O
+us#us#PP B-country.name B-country.name
+movie#movie#NN O O
+looper#looper#NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+give#give#VV O O
+me#me#PP O O
+<UNK> B-country.name B-country.name
+films#film#NNS O O
+EOS O O
+
+BOS O O
+want#want#VV O O
+page#page#NN O O
+EOS O O
+
+BOS O O
+films#film#NNS O O
+produced#produce#VVN O O
+by#by#IN O O
+twentieth#twentieth#JJ B-producer.name B-producer.name
+century#century#NN I-producer.name I-producer.name
+fox#fox#NN I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+budget#budget#NN O O
+request#request#NN O B-movie.name
+for#for#IN O O
+my#my#PP$ B-movie.name B-movie.name
+big#big#JJ I-movie.name I-movie.name
+fat#fat#JJ I-movie.name I-movie.name
+greek#Greek#NN I-movie.name I-movie.name
+wedding#wedding#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+movies#movie#NNS O O
+from#from#IN O O
+<UNK> B-country.name B-country.name
+EOS O O
+
+BOS O O
+find#find#VV O O
+movies#movie#NNS O O
+with#with#IN O O
+pg#pg#NN B-rating.name B-rating.name
+ratings#rating#NNS O O
+only#only#RB O O
+EOS O O
+
+BOS O O
+please#please#UH O O
+tell#tell#VV O O
+me#me#PP O O
+about#about#IN O O
+movies#movie#NNS O O
+from#from#IN O O
+the#the#DT B-country.name B-country.name
+usa#usa#NN I-country.name I-movie.location
+EOS O O
+
+BOS O O
+how#how#WRB O O
+old#old#NN O O
+is#be#VBZ O O
+kristen#kristen#NN B-person.name B-person.name
+stewart#stewart#NN I-person.name I-person.name
+EOS O O
+
+BOS O O
+reviews#review#NNS O O
+for#for#IN O O
+star#star#NN B-movie.name B-movie.name
+wars#war#NNS I-movie.name I-movie.name
+iv#iv#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what#what#WP O O
+was#be#VBD O O
+the#the#DT O O
+budget#budget#NN O O
+for#for#IN O O
+hotel#hotel#NN B-movie.name B-movie.name
+translyvania#translyvania#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+twentieth#twentieth#JJ B-producer.name B-producer.name
+century#century#NN I-producer.name I-producer.name
+fox#fox#NN I-producer.name I-producer.name
+movies#movie#NNS O O
+<UNK> B-movie.release_date O
+<UNK> I-movie.release_date O
+EOS O O
+
+BOS O O
+what#what#WP O O
+video#video#NN O O
+clips#clip#NNS O O
+have#have#VHP O O
+will#will#NN B-actor.name B-actor.name
+ferrell#ferrell#NN I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+what#what#WP O O
+is#be#VBZ O O
+the#the#DT O O
+revenue#revenue#NN O O
+for#for#IN O O
+<UNK> B-movie.name B-movie.name
+and#and#CC I-movie.name I-movie.name
+the#the#DT I-movie.name I-movie.name
+<UNK> I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+<UNK> O O
+of#of#IN O O
+apollo#apollo#NN B-movie.name B-movie.name
+thirteen#thirteen#CD I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find#find#VV O O
+me#me#PP O O
+pg#pg#NN B-rating.name B-rating.name
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+i#i#NNS O O
+want#want#VVP O O
+to#to#TO O O
+see#see#VV O O
+all#all#DT O O
+movies#movie#NNS O O
+with#with#IN O O
+a#a#DT O O
+r#r#NN B-rating.name B-rating.name
+rating#rating#NN O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+movies#movie#NNS O O
+that#that#DT O O
+clint#clint#NN B-director.name B-actor.name
+eastwood#eastwood#NN I-director.name I-actor.name
+starred#star#VVN O O
+in#in#IN O O
+did#do#VVD O O
+he#he#PP O O
+also#also#RB O O
+direct#direct#JJ O O
+EOS O O
+
+BOS O O
+<UNK> O O
+<UNK> B-country.name O
+have#have#VHP O O
+any#any#DT O O
+movie#movie#NN O O
+<UNK> O O
+EOS O O
+
+BOS O O
+i#i#NP O O
+would#would#MD O O
+like#like#VV O O
+a#a#DT O O
+list#list#NN O O
+of#of#IN O O
+paramount#paramount#JJ B-producer.name B-producer.name
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+i#i#NP O O
+need#need#NN O O
+details#detail#NNS O O
+steven#steven#JJ B-person.name B-person.name
+spielberg#spielberg#NN I-person.name I-person.name
+now#now#RB O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+movies#movie#NNS O O
+has#have#VHZ O O
+<UNK> B-director.name B-producer.name
+howard#howard#RB I-director.name I-producer.name
+directed#direct#VVN O O
+EOS O O
+
+BOS O O
+old#old#JJ B-movie.name B-movie.name
+man#man#NN I-movie.name I-movie.name
+director#director#NN O O
+EOS O O
+
+BOS O O
+information#information#NN O O
+about#about#IN O O
+movie#movie#NN O O
+EOS O O
+
+BOS O O
+find#find#VV O O
+movies#movie#NNS O O
+directed#direct#VVN O O
+by#by#IN O O
+stephen#stephen#NN B-director.name B-director.name
+spielberg#spielberg#NN I-director.name I-director.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+movies#movie#NNS O O
+that#that#WDT O O
+are#be#VBP O O
+in#in#IN O O
+korean#Korean#NN B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+when#when#WRB O O
+was#be#VBD O O
+<UNK> B-movie.name B-movie.name
+be#be#VB O O
+released#release#VVN O O
+EOS O O
+
+BOS O O
+bio#bio#NN O O
+on#on#IN O O
+will#will#NN B-person.name B-person.name
+ferrell#ferrell#NN I-person.name I-person.name
+EOS O O
+
+BOS O O
+who#who#WP O O
+<UNK> O O
+<UNK> O O
+zombie#zombie#NN O B-movie.subject
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+find#find#VV O O
+name#name#NN O O
+of#of#IN O O
+main#main#JJ O O
+actor#actor#NN O O
+in#in#IN O O
+the#the#DT O O
+movie#movie#NN O O
+the#the#DT B-movie.name B-movie.name
+help#help#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+i#i#NP O O
+only#only#RB O O
+want#want#VVP O O
+to#to#TO O O
+see#see#VV O O
+movies#movie#NNS O O
+in#in#IN O O
+german#german#NN B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+lionsgate#lionsgate#JJ B-producer.name B-movie.subject
+list#list#NN O O
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+the#the#DT O O
+producer#producer#NN O O
+of#of#IN O O
+the#the#DT B-movie.name B-movie.name
+godfather#godfather#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+appropriate#appropriate#JJ B-rating.name O
+for#for#IN I-rating.name O
+kids#kid#NNS I-rating.name B-rating.name
+EOS O O
+
+BOS O O
+when#when#WRB O O
+can#can#MD O O
+i#i#NNS O O
+see#see#VV O O
+top#top#JJ B-movie.name B-movie.name
+gun#gun#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+search#search#NN O O
+by#by#IN O O
+type#type#NN O O
+EOS O O
+
+BOS O O
+i#i#NP O O
+'d#will#MD O O
+like#like#VV O O
+to#to#TO O O
+see#see#VV O O
+foreign#foreign#JJ B-country.name B-country.name
+films#film#NNS O O
+EOS O O
+
+BOS O O
+who#who#WP O O
+is#be#VBZ O O
+bruce#bruce#NN B-person.name B-person.name
+<UNK> I-person.name O
+EOS O O
+
+BOS O O
+who#who#WP O O
+produced#produce#VVD O O
+avatar#avatar#NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+get#get#VV O O
+movie#movie#NN O O
+information#information#NN O O
+for#for#IN O O
+lionsgate#lionsgate#NNS B-producer.name B-producer.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+finding#find#VVG B-movie.name B-movie.name
+nemo#nemo#NN I-movie.name I-movie.name
+director#director#NN O O
+EOS O O
+
+BOS O O
+when#when#WRB O O
+was#be#VBD O O
+avatar#avatar#NN B-movie.name B-movie.name
+released#release#VVN O O
+EOS O O
+
+BOS O O
+is#be#VBZ O O
+kristen#kristen#NN B-person.name B-actor.name
+stewart#stewart#NN I-person.name I-actor.name
+really#really#RB O O
+<UNK> O O
+robert#robert#NN B-person.name B-director.name
+<UNK> I-person.name O
+EOS O O
+
+BOS O O
+what#what#WP O O
+has#have#VHZ O O
+tom#tom#NN B-actor.name B-actor.name
+cruise#cruise#NN I-actor.name I-actor.name
+acted#act#VVD O O
+in#in#IN O O
+lately#lately#RB O B-country.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+all#all#DT O O
+african#African#JJ B-country.name B-country.name
+movies#movie#NNS O O
+for#for#IN O O
+twenty#twenty#CD B-movie.release_date B-movie.release_date
+eleven#eleven#NN I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+find#find#VV O O
+classic#classic#JJ B-movie.subject B-movie.subject
+car#car#NN I-movie.subject I-movie.subject
+documentaries#documentary#NNS B-movie.genre B-movie.genre
+EOS O O
+
+BOS O O
+find#find#VV O O
+the#the#DT O O
+director#director#NN O O
+<UNK> B-person.name B-person.name
+stanton#stanton#NN I-person.name I-person.name
+EOS O O
+
+BOS O O
+i#i#NP O O
+would#would#MD O O
+like#like#VV O O
+to#to#TO O O
+know#know#VV O O
+the#the#DT O O
+release#release#NN O O
+date#date#NN O O
+of#of#IN O O
+the#the#DT O O
+movie#movie#NN O O
+barfi#barfi#NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what#what#WP O O
+does#do#VVZ O O
+rated#rate#VVN O O
+r#r#NN B-rating.name B-rating.name
+mean#mean#NN O O
+EOS O O
+
+BOS O O
+goto#Goto#NP O O
+warner#warner#NN B-producer.name B-producer.name
+brothers#brother#NNS I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+where#where#WRB O O
+was#be#VBD O O
+<UNK> B-movie.name B-movie.name
+made#make#VVN O O
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+movies#movie#NNS O O
+in#in#IN O O
+italian#Italian#NN B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+how#how#WRB O O
+long#long#RB O O
+is#be#VBZ O O
+the#the#DT O O
+movie#movie#NN O O
+EOS O O
+
+BOS O O
+countries#country#NNS O O
+flags#flag#NNS O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+was#be#VBD O O
+the#the#DT O O
+budget#budget#NN O O
+for#for#IN O O
+avatar#avatar#NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+show#show#NN O O
+movies#movie#NNS O O
+done#do#VVN O O
+by#by#IN O O
+7#7#CD B-producer.name O
+arts#art#NNS I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+what#what#WP O O
+movies#movie#NNS O O
+have#have#VHP O O
+robert#robert#JJ B-producer.name B-producer.name
+<UNK> I-producer.name I-producer.name
+produced#produce#VVD O O
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+more#more#JJR O O
+details#detail#NNS O O
+for#for#IN O O
+the#the#DT O O
+movie#movie#NN O O
+dirty#dirty#JJ B-movie.name B-movie.name
+dancing#dancing#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what#what#WP O O
+is#be#VBZ O O
+the#the#DT O O
+movie#movie#NN O O
+category#category#NN O O
+EOS O O
+
+BOS O O
+who#who#WP O O
+played#play#VVD O O
+<UNK> B-character.name O
+in#in#IN O O
+life#life#NN B-movie.name B-movie.name
+is#be#VBZ I-movie.name I-movie.name
+beautiful#beautiful#JJ I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what#what#WP O O
+was#be#VBD O O
+the#the#DT O O
+release#release#NN O O
+date#date#NN O O
+of#of#IN O O
+the#the#DT O O
+movie#movie#NN O O
+avatar#avatar#NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+look#look#VV O O
+up#up#RP O O
+what#what#WP O O
+language#language#NN O O
+the#the#DT B-movie.name B-movie.name
+chaser#chaser#NN I-movie.name I-movie.name
+is#be#VBZ O O
+in#in#IN O O
+EOS O O
+
+BOS O O
+who#who#WP O O
+directed#direct#VVD O O
+finding#find#VVG B-movie.name B-movie.name
+nemo#nemo#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find#find#VV O O
+expensive#expensive#JJ O O
+movies#movie#NNS O O
+<UNK> O O
+EOS O O
+
+BOS O O
+steven#steven#JJ B-director.name B-actor.name
+spielberg#spielberg#NN I-director.name I-actor.name
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+apollo#apollo#NN B-movie.name B-movie.name
+thirteen#thirteen#CD I-movie.name I-movie.name
+cast#cast#NN O O
+members#member#NNS O O
+EOS O O
+
+BOS O O
+look#look#VV O O
+for#for#IN O O
+the#the#DT O O
+producer#producer#NN O O
+of#of#IN O O
+heroine#heroine#NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+movies#movie#NNS O O
+<UNK> O O
+the#the#DT B-movie.subject O
+<UNK> I-movie.subject O
+of#of#IN I-movie.subject O
+chess#chess#NN I-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+who#who#WP O O
+produced#produce#VVD O O
+the#the#DT O O
+<UNK> O O
+film#film#NN O O
+the#the#DT B-movie.name B-movie.name
+devil#devil#NN I-movie.name I-movie.name
+wears#wear#VVZ I-movie.name I-movie.name
+prada#prada#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+list#list#NN O O
+movies#movie#NNS O O
+directed#direct#VVN O O
+by#by#IN O O
+clint#clint#NN B-director.name B-director.name
+eastwood#eastwood#NN I-director.name I-director.name
+EOS O O
+
+BOS O O
+look#look#VV O O
+up#up#RP O O
+the#the#DT O O
+rating#rating#NN O O
+for#for#IN O O
+the#the#DT O O
+movie#movie#NN O O
+dredd#dredd#NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+search#search#NN O O
+for#for#IN O O
+will#will#NN B-person.name B-person.name
+ferrell#ferrell#NN I-person.name I-person.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+life#life#NN B-movie.name B-movie.name
+is#be#VBZ I-movie.name I-movie.name
+beautiful#beautiful#JJ I-movie.name I-movie.name
+information#information#NN O O
+EOS O O
+
+BOS O O
+i#i#NNS O O
+want#want#VVP O O
+information#information#NN O O
+about#about#IN O O
+angelina#angelina#NN B-person.name B-person.name
+jolie#jolie#NN I-person.name I-person.name
+EOS O O
+
+BOS O O
+when#when#WRB O O
+is#be#VBZ O O
+the#the#DT O O
+release#release#NN O O
+date#date#NN O O
+of#of#IN O O
+resident#resident#JJ B-movie.name B-movie.name
+evil#evil#NN I-movie.name I-movie.name
+:#:#: I-movie.name I-movie.name
+retribution#retribution#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+all#all#DT O O
+movies#movie#NNS O O
+kristen#kristen#NN B-actor.name B-actor.name
+stewart#stewart#NN I-actor.name I-actor.name
+has#have#VHZ O O
+been#be#VBN O O
+in#in#IN O O
+EOS O O
+
+BOS O O
+what#what#WP O O
+movies#movie#NNS O O
+made#make#VVD O O
+the#the#DT O O
+<UNK> O O
+money#money#NN O O
+EOS O O
+
+BOS O O
+who#who#WP O O
+directed#direct#VVD O O
+the#the#DT O O
+movie#movie#NN O O
+EOS O O
+
+BOS O O
+who#who#WP O O
+is#be#VBZ O O
+the#the#DT O O
+guy#guy#NN O O
+who#who#WP O O
+played#play#VVD O O
+the#the#DT O O
+red#red#JJ B-character.name B-character.name
+ranger#ranger#NN I-character.name I-character.name
+in#in#IN O O
+power#power#NN B-movie.name B-movie.name
+rangers#ranger#NNS I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show#show#VV O O
+me#me#PP O O
+movies#movie#NNS O O
+about#about#IN O O
+time#time#NN B-movie.subject B-movie.subject
+travel#travel#NN I-movie.subject I-movie.subject
+EOS O O
+
+BOS O O
+zombies#zombie#NNS O B-movie.subject
+EOS O O
+
+BOS O O
+find#find#VV O O
+me#me#PP O O
+<UNK> O O
+about#about#IN O O
+steven#steven#JJ B-person.name B-person.name
+spielberg#spielberg#NN I-person.name I-person.name
+EOS O O
+
+BOS O O
+who#who#WP O O
+was#be#VBD O O
+in#in#IN O O
+black#black#JJ B-movie.name B-movie.name
+swan#swan#NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+can#can#MD O O
+you#you#PP O O
+please#please#VV O O
+search#search#NN O O
+movies#movie#NNS O O
+of#of#IN O O
+tom#tom#NN B-actor.name B-actor.name
+cruise#cruise#NN I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+can#can#MD O O
+you#you#PP O O
+tell#tell#VV O O
+me#me#PP O O
+the#the#DT O O
+name#name#NN O O
+of#of#IN O O
+the#the#DT O O
+actor#actor#NN O O
+who#who#WP O O
+played#play#VVD O O
+todd#todd#NNS B-character.name B-character.name
+in#in#IN O O
+the#the#DT O O
+tv#tv#NN O O
+show#show#VVP O O
+one#one#CD B-movie.name B-movie.name
+life#life#NN I-movie.name I-movie.name
+to#to#TO I-movie.name I-movie.name
+live#live#VV I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+get#get#VV O O
+me#me#PP O O
+information#information#NN O O
+about#about#IN O O
+the#the#DT O O
+movie#movie#NN O O
+star#star#NN B-movie.name B-movie.name
+wars#war#NNS I-movie.name I-movie.name
+four#four#CD I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what#what#WP O O
+year#year#NN O O
+did#do#VVD O O
+spielberg#spielberg#RB B-director.name B-producer.name
+start#start#VV O O
+directing#direct#VVG O O
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+can#can#MD O O
+you#you#PP O O
+please#please#VV O O
+list#list#NN O O
+the#the#DT O O
+movies#movie#NNS O O
+brad#brad#NN B-actor.name B-actor.name
+pitt#pitt#NN I-actor.name I-actor.name
+has#have#VHZ O O
+acted#act#VVN O O
+in#in#RP O O
+EOS O O
+
+BOS O O
+was#be#VBD O O
+kevin#kevin#NN B-actor.name B-actor.name
+bacon#bacon#NN I-actor.name I-actor.name
+in#in#IN O O
+apollo#apollo#NN B-movie.name B-movie.name
+thirteen#thirteen#CD I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+time#time#NN B-movie.subject B-movie.subject
+travel#travel#NN I-movie.subject I-movie.subject
+movies#movie#NNS O O
+EOS O O
+
+BOS O O
+movies#movie#NNS O O
+by#by#IN O O
+steven#steven#JJ B-director.name B-director.name
+spielberg#spielberg#NN I-director.name I-director.name
+EOS O O
+

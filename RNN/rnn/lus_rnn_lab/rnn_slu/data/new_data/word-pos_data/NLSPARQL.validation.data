@@ -1,0 +1,2159 @@
+unique#JJ	O
+cars#NNS	O
+
+who#WP	O
+acted#VVD	O
+in#IN	O
+black#JJ	B-movie.name
+swan#NN	I-movie.name
+
+find#VV	O
+some#DT	O
+zombie#NN	B-movie.subject
+movies#NNS	O
+
+summary#NN	O
+of#IN	O
+in#IN	B-movie.name
+july#NN	I-movie.name
+
+will#MD	B-person.name
+ferrell#NP	I-person.name
+'s#POS	O
+biography#NN	O
+
+dutch#NN	B-country.name
+movie#NN	O
+listing#NN	O
+
+when#WRB	O
+was#VBD	O
+top#JJ	B-movie.name
+gun#NN	I-movie.name
+released#VVN	O
+
+show#VV	O
+me#PP	O
+movies#NNS	O
+that#IN/that	O
+tom#NN	B-director.name
+hanks#NNS	I-director.name
+directed#VVD	O
+
+what#WP	O
+'s#VBZ	O
+the#DT	O
+latest#JJS	O
+on#IN	O
+brad#NN	B-actor.name
+pitt#NN	I-actor.name
+
+movies#NNS	O
+with#IN	O
+harrison#NN	B-actor.name
+ford#NN	I-actor.name
+
+i#NNS	O
+want#VVP	O
+to#TO	O
+see#VV	O
+anne#NN	B-actor.name
+hathaway#NN	I-actor.name
+'s#POS	O
+latest#JJS	O
+movie#NN	O
+
+how#WRB	O
+old#JJ	O
+for#IN	O
+black#JJ	B-movie.name
+swan#NN	I-movie.name
+
+search#NN	O
+for#IN	O
+movies#NNS	O
+rated#VVN	O
+g#NN	B-rating.name
+
+find#VV	O
+time#NN	B-movie.subject
+travel#NN	I-movie.subject
+movies#NNS	O
+
+what#WP	O
+is#VBZ	O
+the#DT	O
+rating#NN	O
+for#IN	O
+the#DT	O
+movie#NN	O
+ants#NNS	B-movie.name
+
+show#VV	O
+me#PP	O
+the#DT	O
+directors#NNS	O
+of#IN	O
+gone#VVN	B-movie.name
+with#IN	I-movie.name
+the#DT	I-movie.name
+wind#NN	I-movie.name
+
+what#WP	O
+are#VBP	O
+recent#JJ	O
+films#NNS	O
+by#IN	O
+will#NN	B-actor.name
+ferrell#NN	I-actor.name
+
+how#WRB	O
+old#JJ	O
+do#VVP	O
+you#PP	O
+have#VHP	O
+to#TO	O
+be#VB	O
+to#TO	O
+see#VV	O
+an#DT	O
+r#NN	B-rating.name
+rated#VVN	O
+movie#NN	O
+
+what#WP	O
+other#JJ	O
+movies#NNS	O
+did#VVD	O
+ray#NN	B-director.name
+stark#RB	I-director.name
+do#VVP	O
+
+display#NN	O
+movies#NNS	O
+in#IN	O
+german#NN	B-movie.language
+
+show#VV	O
+me#PP	O
+famous#JJ	O
+directors#NNS	O
+
+look#VV	O
+for#IN	O
+information#NN	O
+about#IN	O
+charles#NNS	B-person.name
+vidor#NN	I-person.name
+
+when#WRB	O
+was#VBD	O
+herione#RB	B-movie.name
+released#VVN	O
+
+are#VBP	O
+the#DT	O
+animated#JJ	O
+charactors#NNS	O
+protrayed#VVN	O
+as#IN	O
+small#JJ	O
+or#CC	O
+human#JJ	O
+size#NN	O
+
+on#IN	B-movie.name
+july#RB	I-movie.name
+
+what#WP	O
+other#JJ	O
+films#NNS	O
+has#VHZ	O
+george#NN	B-director.name
+vidor#NN	I-director.name
+done#VVN	O
+
+list#NN	O
+ice#NN	B-movie.subject
+skating#NN	I-movie.subject
+movies#NNS	O
+please#VVP	O
+
+what#WP	O
+are#VBP	O
+the#DT	O
+recommended#JJ	O
+ages#NNS	O
+for#IN	O
+a#DT	O
+pg#NN	B-rating.name
+thirteen#CD	I-rating.name
+movie#NN	O
+
+movies#NNS	O
+rated#VVD	O
+pg#NN	B-rating.name
+
+what#WP	O
+are#VBP	O
+the#DT	O
+three#CD	O
+latest#JJS	O
+films#NNS	O
+with#IN	O
+will#NN	B-actor.name
+ferrell#NN	I-actor.name
+
+sort#NN	O
+in#IN	O
+all#DT	O
+diving#JJ	B-movie.subject
+movies#NNS	O
+
+show#VV	O
+me#PP	O
+movies#NNS	O
+about#IN	O
+zombies#NNS	B-movie.subject
+
+find#VV	O
+hindi#NN	B-movie.language
+movies#NNS	O
+
+get#VV	O
+a#DT	O
+list#NN	O
+of#IN	O
+animated#JJ	B-movie.genre
+films#NNS	O
+
+how#WRB	O
+much#RB	O
+did#VVD	O
+house#NN	B-movie.name
+at#IN	I-movie.name
+the#DT	I-movie.name
+end#NN	I-movie.name
+of#IN	I-movie.name
+the#DT	I-movie.name
+street#NN	I-movie.name
+make#VV	O
+
+what#WP	O
+was#VBD	O
+the#DT	O
+budget#NN	O
+for#IN	O
+wrong#JJ	B-movie.name
+turn#NN	I-movie.name
+
+kareena#NP	B-actor.name
+'s#POS	O
+movies#NNS	O
+
+what#WP	O
+is#VBZ	O
+terry#NN	B-person.name
+georges#NNS	I-person.name
+background#NN	O
+
+what#WP	O
+are#VBP	O
+some#DT	O
+movies#NNS	O
+made#VVN	O
+by#IN	O
+searchlight#NN	B-producer.name
+films#NNS	I-producer.name
+
+what#WP	O
+actors#NNS	O
+were#VBD	O
+in#IN	O
+dirty#JJ	B-movie.name
+dancing#NN	I-movie.name
+
+what#WP	O
+was#VBD	O
+the#DT	O
+budget#NN	O
+of#IN	O
+the#DT	O
+movie#NN	O
+avatar#NN	B-movie.name
+
+do#VV	O
+they#PP	O
+have#VHP	O
+oscar#NN	B-award.ceremony
+awards#NNS	O
+in#IN	O
+india#NN	B-country.name
+
+show#VV	O
+me#PP	O
+information#NN	O
+for#IN	O
+the#DT	O
+movie#NN	O
+the#DT	B-movie.name
+campaign#NN	I-movie.name
+
+when#WRB	O
+was#VBD	O
+life#NN	B-movie.name
+is#VBZ	I-movie.name
+beautiful#JJ	I-movie.name
+released#VVD	O
+
+how#WRB	O
+much#JJ	O
+money#NN	O
+did#VVD	O
+shrek#RB	B-movie.name
+bring#VV	O
+in#IN	O
+
+want#VVP	O
+to#TO	O
+see#VV	O
+charles#NNS	B-person.name
+vidor#NN	I-person.name
+
+who#WP	O
+produced#VVD	O
+the#DT	B-movie.name
+godfather#NN	I-movie.name
+movies#NNS	O
+
+show#VV	O
+me#PP	O
+more#JJR	O
+details#NNS	O
+about#IN	O
+the#DT	O
+information#NN	O
+highlighted#VVN	O
+in#IN	B-movie.name
+orange#NN	I-movie.name
+
+show#VV	O
+me#PP	O
+some#DT	O
+alfred#NN	B-director.name
+hitchcock#NN	I-director.name
+movies#NNS	O
+
+bring#VV	O
+up#RP	O
+a#DT	O
+bio#NN	O
+on#IN	O
+will#NN	B-person.name
+ferrell#NN	I-person.name
+
+search#NN	O
+twenty#CD	B-movie.release_date
+twelve#NN	I-movie.release_date
+movies#NNS	O
+
+list#NN	O
+of#IN	O
+20#CD	B-producer.name
+th#NN	I-producer.name
+century#NN	I-producer.name
+fox#NN	I-producer.name
+films#NNS	O
+
+search#NN	O
+for#IN	O
+the#DT	O
+genre#NN	O
+step#VV	B-movie.name
+up#RP	I-movie.name
+in#IN	O
+
+what#WP	O
+is#VBZ	O
+the#DT	O
+movie#NN	O
+rating#NN	O
+for#IN	O
+die#NN	B-movie.name
+hard#RB	I-movie.name
+
+what#WP	O
+movies#NNS	O
+did#VVD	O
+hitchcock#NN	B-director.name
+direct#JJ	O
+
+movie#NN	O
+type#NN	O
+
+videos#NNS	O
+of#IN	O
+steven#JJ	B-director.name
+spielberg#NN	I-director.name
+
+i#NP	O
+would#MD	O
+like#VV	O
+to#TO	O
+know#VV	O
+about#IN	O
+some#DT	O
+famous#JJ	O
+movies#NNS	O
+by#IN	O
+director#NN	O
+martin#NN	B-director.name
+scorsese#NN	I-director.name
+
+tell#VV	O
+me#PP	O
+what#WP	O
+movies#NNS	O
+tom#NN	B-actor.name
+hanks#VVZ	I-actor.name
+star#NN	O
+in#IN	O
+
+how#WRB	O
+directed#VVN	O
+alfred#NN	B-producer.name
+hitchcock#NN	B-producer.name
+shows#NNS	O
+
+who#WP	O
+directed#VVD	O
+the#DT	O
+musical#JJ	O
+score#NN	O
+in#IN	O
+barfi#NNS	B-movie.name
+
+show#VV	O
+me#PP	O
+this#DT	B-movie.release_date
+years#NNS	O
+top#NN	O
+rated#VVN	O
+italian#JJ	B-country.name
+movies#NNS	O
+
+how#WRB	O
+do#VVP	O
+i#NNS	O
+find#VV	O
+out#RP	O
+information#NN	O
+about#IN	O
+kristen#NP	B-person.name
+stewart#NN	I-person.name
+
+when#WRB	O
+was#VBD	O
+house#NN	B-movie.name
+at#IN	I-movie.name
+the#DT	I-movie.name
+end#NN	I-movie.name
+of#IN	I-movie.name
+the#DT	I-movie.name
+street#NN	I-movie.name
+released#VVD	O
+
+change#NN	O
+rating#NN	O
+because#IN	O
+sometimes#RB	O
+monsters#NNS	O
+scare#VVP	O
+kids#NNS	O
+
+when#WRB	O
+the#DT	O
+movie#NN	O
+top#JJ	B-movie.name
+gun#NN	I-movie.name
+was#VBD	O
+released#VVN	O
+
+tell#VV	O
+me#PP	O
+where#WRB	O
+is#VBZ	O
+trainspotting#VVG	B-movie.name
+from#IN	O
+
+the#DT	O
+movie#NN	O
+gilda#NN	B-movie.name
+director#NN	O
+
+show#VVP	O
+me#PP	O
+all#PDT	O
+the#DT	O
+information#NN	O
+about#IN	O
+the#DT	O
+movie#NN	O
+dirty#JJ	B-movie.name
+dancing#NN	I-movie.name
+like#IN	O
+story#NN	O
+reviews#NNS	O
+cast#VVD	O
+etc#FW	O
+
+what#WP	O
+twenty#CD	B-movie.release_date
+twelve#NN	I-movie.release_date
+movies#NNS	O
+were#VBD	O
+rated#VVN	O
+pg#NN	B-rating.name
+
+have#VHP	O
+any#DT	O
+new#JJ	O
+movies#NNS	O
+by#IN	O
+twentieth#JJ	B-producer.name
+century#NN	I-producer.name
+fox#NN	I-producer.name
+
+what#WP	O
+movies#NNS	O
+came#VVD	O
+out#RP	O
+of#IN	O
+russia#NN	B-country.name
+last#JJ	B-movie.release_date
+year#NN	I-movie.release_date
+
+finding#VVG	B-movie.name
+nemo#NN	I-movie.name
+info#NN	O
+
+when#WRB	O
+was#VBD	O
+dirty#JJ	B-movie.name
+dancing#NN	I-movie.name
+released#VVN	O
+
+i#NNS	O
+want#VVP	O
+to#TO	O
+see#VV	O
+movies#NNS	O
+that#WDT	O
+are#VBP	O
+rated#VVN	O
+pg#NN	B-rating.name
+
+synopsis#NN	O
+for#IN	O
+in#IN	B-movie.name
+july#NN	I-movie.name
+
+brad#NN	B-actor.name
+pitt#NN	I-actor.name
+popular#JJ	O
+movies#NNS	O
+
+i#NNS	O
+am#VBP	O
+looking#VVG	O
+for#IN	O
+movies#NNS	O
+in#IN	O
+spanish#NN	B-movie.language
+
+avatar#NN	B-movie.name
+must#MD	O
+have#VH	O
+cost#VVN	O
+a#DT	O
+bundle#NN	O
+
+who#WP	O
+directed#VVD	O
+the#DT	O
+movie#NN	O
+cabin#NN	I-movie.name
+in#IN	I-movie.name
+the#DT	I-movie.name
+woods#NNS	I-movie.name
+
+production#NN	O
+company#NN	O
+for#IN	O
+spiderman#NN	B-movie.name
+
+what#WP	O
+ages#VVZ	O
+is#VBZ	O
+wall-e#RB	B-movie.name
+good#JJ	O
+for#IN	O
+
+find#VV	O
+the#DT	O
+guy#NN	O
+who#WP	O
+plays#VVZ	O
+charlie#NN	B-character.name
+on#IN	O
+charlie#NN	B-movie.name
+'s#POS	I-movie.name
+angels#NNS	I-movie.name
+
+show#VV	O
+me#PP	O
+movies#NNS	O
+in#IN	O
+french#NNS	B-movie.language
+
+cast#NN	O
+and#CC	O
+crew#NN	O
+for#IN	O
+apollo#NN	B-movie.name
+thirteen#CD	I-movie.name
+
+show#VV	O
+me#PP	O
+comedy#NN	B-movie.genre
+movies#NNS	O
+
+show#VV	O
+me#PP	O
+pictures#NNS	O
+of#IN	O
+famous#JJ	O
+blondes#NNS	O
+
+list#NN	O
+movie#NN	O
+info#NN	O
+kristen#NN	B-actor.name
+stewart#NN	I-actor.name
+
+show#NN	O
+movie#NN	O
+evil#NN	B-movie.name
+goes#VVZ	I-movie.name
+global#JJ	I-movie.name
+on#IN	O
+oh#UH	B-movie.release_date
+nine#CD	I-movie.release_date
+fourteen#NN	I-movie.release_date
+twelve#NN	I-movie.release_date
+
+show#VV	O
+me#PP	O
+some#DT	O
+movies#NNS	O
+about#IN	O
+apartheid#NN	B-movie.subject
+
+i#NP	O
+would#MD	O
+like#VV	O
+to#TO	O
+know#VV	O
+the#DT	O
+rating#NN	O
+for#IN	O
+cabin#NN	I-movie.name
+in#IN	I-movie.name
+the#DT	I-movie.name
+woods#NNS	I-movie.name
+
+show#VV	O
+me#PP	O
+the#DT	O
+reviews#NNS	O
+on#IN	O
+the#DT	O
+movie#NN	O
+the#DT	B-movie.name
+campaign#NN	I-movie.name
+
+who#WP	O
+produced#VVD	O
+et#NP	B-movie.name
+
+what#WP	O
+type#NN	O
+of#IN	O
+movie#NN	O
+is#VBZ	O
+gilda#NN	B-movie.name
+
+search#NN	O
+by#IN	O
+box-office#NN	O
+rating#NN	O
+
+robert#JJ	B-person.name
+wise#JJ	I-person.name
+life#NN	O
+
+i#NNS	O
+want#VVP	O
+to#TO	O
+see#VV	O
+a#DT	O
+comedy#NN	B-movie.genre
+in#IN	O
+spanish#NN	B-movie.language
+
+arabic#JJ	B-country.name
+actors#NNS	O
+
+how#WRB	O
+many#JJ	O
+shaft#NN	B-movie.name
+movies#NNS	O
+are#VBP	O
+there#RB	O
+
+show#VV	O
+me#PP	O
+movies#NNS	O
+from#IN	O
+brazil#NN	B-country.name
+
+search#NN	O
+for#IN	O
+movies#NNS	O
+about#IN	O
+hair#NN	B-movie.subject
+
+who#WP	O
+played#VVD	O
+the#DT	B-character.name
+principal#NN	I-character.name
+in#IN	O
+ferris#NN	B-movie.name
+bueller#NN	I-movie.name
+'s#POS	I-movie.name
+day#NN	I-movie.name
+off#RB	I-movie.name
+
+tell#VV	O
+me#PP	O
+the#DT	O
+language#NN	O
+of#IN	O
+ju#NN	B-movie.name
+on#IN	I-movie.name
+
+movies#NNS	O
+from#IN	O
+germany#NN	B-country.name
+
+what#WP	O
+was#VBD	O
+the#DT	O
+relase#NN	O
+date#NN	O
+for#IN	O
+men#NNS	B-movie.name
+in#IN	I-movie.name
+black#JJ	I-movie.name
+
+who#WP	O
+starred#VVD	O
+in#IN	O
+the#DT	B-movie.name
+parent#NN	I-movie.name
+trap#NN	I-movie.name
+
+find#VV	O
+budget#NN	O
+for#IN	O
+epic#NN	B-movie.name
+
+did#VVD	O
+albert#NN	B-producer.name
+ruddy#JJ	I-producer.name
+produce#VVP	O
+all#DT	O
+of#IN	O
+the#DT	B-movie.name
+godfather#NN	I-movie.name
+movies#NNS	O
+
+what#WP	O
+country#NN	O
+is#VBZ	O
+outside#IN	B-movie.name
+the#DT	I-movie.name
+law#NN	I-movie.name
+from#IN	O
+
+how#WRB	O
+much#RB	O
+was#VBD	O
+the#DT	O
+budget#NN	O
+for#IN	O
+paranorman#NN	B-movie.name
+
+find#VV	O
+indian#JJ	B-movie.language
+movies#NNS	O
+
+how#WRB	O
+much#JJ	O
+money#NN	O
+did#VVD	O
+black#JJ	B-movie.name
+swan#NN	I-movie.name
+bring#VV	O
+
+sort#NN	O
+by#IN	O
+all#DT	O
+brad#NN	B-actor.name
+pitt#NN	B-actor.name
+movies#NNS	O
+
+what#WP	O
+genre#NN	O
+is#VBZ	O
+looper#NN	B-movie.name
+
+what#WP	O
+is#VBZ	O
+the#DT	O
+movie#NN	O
+with#IN	O
+patrick#NN	B-actor.name
+swayze#NNS	I-actor.name
+and#CC	O
+jennifer#NN	B-actor.name
+grey#NN	I-actor.name
+
+show#VV	O
+my#PP$	O
+spielberg#NN	B-person.name
+info#NN	O
+
+tell#VV	O
+me#PP	O
+about#IN	O
+inception#NN	B-movie.name
+'s#POS	O
+director#NN	O
+
+find#VV	O
+japanese#JJ	B-country.name
+movies#NNS	O
+
+cast#NN	O
+and#CC	O
+crew#NN	O
+for#IN	O
+the#DT	O
+movie#NN	O
+house#NN	B-movie.name
+at#IN	I-movie.name
+the#DT	I-movie.name
+end#NN	I-movie.name
+of#IN	I-movie.name
+the#DT	I-movie.name
+street#NN	I-movie.name
+
+what#WP	O
+are#VBP	O
+some#DT	O
+universal#JJ	B-producer.name
+pictures#NNS	I-producer.name
+films#NNS	O
+
+what#WP	O
+is#VBZ	O
+a#DT	O
+list#NN	O
+of#IN	O
+g#NN	B-rating.name
+movies#NNS	O
+
+yash#NP	B-director.name
+chopra#NP	I-director.name
+'s#POS	O
+movies#NNS	O
+
+i#NNS	O
+need#VVP	O
+a#DT	O
+list#NN	O
+of#IN	O
+movies#NNS	O
+produced#VVN	O
+by#IN	O
+clint#NN	B-producer.name
+eastwood#NN	I-producer.name
+
+get#VV	O
+me#PP	O
+star#NN	B-movie.name
+wars#NNS	I-movie.name
+director#NN	O
+
+show#VV	O
+me#PP	O
+information#NN	O
+on#IN	O
+tom#NN	B-person.name
+hanks#NNS	I-person.name
+
+what#WP	O
+are#VBP	O
+some#DT	O
+flags#NNS	O
+of#IN	O
+the#DT	O
+world#NN	O
+
+name#VV	O
+the#DT	O
+movies#NNS	O
+clive#JJ	B-actor.name
+owen#NN	I-actor.name
+has#VHZ	O
+been#VBN	O
+in#IN	O
+
+find#VV	O
+a#DT	O
+list#NN	O
+of#IN	O
+movies#NNS	O
+directed#VVN	O
+by#IN	O
+spielberg#NP	B-director.name
+
+show#VV	O
+me#PP	O
+pictures#NNS	O
+of#IN	O
+beautiful#JJ	O
+women#NNS	O
+
+find#VV	O
+some#DT	O
+musical#JJ	B-movie.genre
+movies#NNS	O
+
+what#WP	O
+new#JJ	O
+movies#NNS	O
+does#VVZ	O
+lionsgate#NNS	B-producer.name
+have#VHP	O
+out#RB	O
+
+what#WP	O
+movies#NNS	O
+did#VVD	O
+harry#VV	B-producer.name
+weinstein#NN	I-producer.name
+produce#NN	O
+
+show#VV	O
+me#PP	O
+the#DT	O
+films#NNS	O
+from#IN	O
+paramount#NN	B-producer.name
+that#WDT	O
+won#VVD	O
+oscars#NNS	B-award.ceremony
+
+rocky#JJ	B-movie.name
+director#NN	O
+'s#POS	O
+name#NN	O
+
+what#WP	O
+kind#NN	O
+of#IN	O
+movie#NN	O
+is#VBZ	O
+black#JJ	B-movie.name
+swan#NN	I-movie.name
+
+information#NN	O
+for#IN	O
+clark#NN	B-person.name
+gable#NN	I-person.name
+
+search#NN	O
+for#IN	O
+the#DT	O
+director#NN	O
+of#IN	O
+step#NN	B-movie.name
+up#RB	I-movie.name
+
+send#VV	O
+me#PP	O
+movies#NNS	O
+that#WDT	O
+are#VBP	O
+in#IN	O
+spanish#NN	B-movie.language
+
+find#VV	O
+synopsis#NN	O
+for#IN	O
+life#NN	B-movie.name
+is#VBZ	I-movie.name
+beautiful#JJ	I-movie.name
+
+where#WRB	O
+is#VBZ	O
+movie#NN	O
+playing#NN	O
+
+movies#NNS	O
+about#IN	O
+the#DT	B-movie.subject
+president#NN	I-movie.subject
+
+list#VV	O
+the#DT	O
+actors#NNS	O
+in#IN	O
+forager#NN	B-movie.name
+
+find#VV	O
+spanish#JJ	B-movie.language
+movies#NNS	O
+
+when#WRB	O
+will#MD	O
+the#DT	B-movie.name
+hobbit#NN	I-movie.name
+be#VB	O
+released#VVN	O
+
+search#NN	O
+movies#NNS	O
+acted#VVN	O
+in#IN	O
+sweden#NP	B-movie.location
+
+show#VV	O
+me#PP	O
+mexican#JJ	B-country.name
+films#NNS	O
+
+gross#JJ	O
+earnings#NNS	O
+for#IN	O
+movies#NNS	O
+
+titles#NNS	O
+of#IN	O
+movies#NNS	O
+about#IN	O
+libraries#NNS	B-movie.subject
+
+grayscale#NN	O
+
+italian#JJ	B-country.name
+films#NNS	O
+
+genuine#JJ	O
+
+list#NN	O
+movies#NNS	O
+released#VVN	O
+in#IN	O
+italy#RB	B-movie.release_region
+in#IN	O
+2012#CD	B-movie.release_date
+
+find#VV	O
+movies#NNS	O
+directed#VVN	O
+by#IN	O
+steven#JJ	B-director.name
+spielberg#NN	I-director.name
+
+how#WRB	O
+would#MD	O
+you#PP	O
+describe#VV	O
+the#DT	O
+movie#NN	O
+
+producer#NN	O
+of#IN	O
+heroine#NN	B-movie.name
+
+give#VV	O
+me#PP	O
+a#DT	O
+list#NN	O
+of#IN	O
+movies#NNS	O
+made#VVN	O
+in#IN	O
+france#NN	B-country.name
+
+who#WP	O
+directed#VVD	O
+finding#VVG	B-movie.name
+nemo#NN	I-movie.name
+
+who#WP	O
+does#VVZ	O
+ellen#JJ	B-actor.name
+degeneres#NNS	I-actor.name
+play#VVP	O
+in#IN	O
+finding#VVG	B-movie.name
+nemo#NN	I-movie.name
+
+what#WP	O
+were#VBD	O
+the#DT	O
+box#NN	O
+office#NN	O
+sales#NNS	O
+for#IN	O
+looper#NN	B-movie.name
+
+budget#NN	O
+for#IN	O
+titanic#JJ	B-movie.name
+
+show#VV	O
+me#PP	O
+flags#NNS	O
+of#IN	O
+the#DT	O
+world#NN	O
+
+complete#JJ	O
+cast#NN	O
+and#CC	O
+crew#NN	O
+of#IN	O
+apollo#NN	B-movie.name
+thirteen#CD	I-movie.name
+
+show#VV	O
+me#PP	O
+movies#NNS	O
+produced#VVN	O
+in#IN	O
+french#NNS	B-movie.language
+
+movies#NNS	O
+alfred#NN	B-director.name
+hitchcock#NN	I-director.name
+
+show#NN	O
+mission#NN	B-movie.name
+impossible#JJ	I-movie.name
+in#IN	O
+spanish#NN	B-movie.language
+please#RB	O
+
+where#WRB	O
+can#MD	O
+i#NNS	O
+find#VV	O
+movies#NNS	O
+in#IN	O
+russian#JJ	B-movie.language
+
+how#WRB	O
+many#JJ	O
+movies#NNS	O
+has#VHZ	O
+lionsgate#RB	B-producer.name
+done#VVN	O
+
+what#WP	O
+are#VBP	O
+the#DT	O
+plots#NNS	O
+of#IN	O
+hotel#NN	B-movie.name
+rwanda#NN	I-movie.name
+
+show#VV	O
+me#PP	O
+mission#NN	B-movie.name
+impossible#JJ	I-movie.name
+in#IN	O
+spanish#NN	B-movie.language
+
+is#VBZ	O
+a#DT	O
+hard#JJ	B-movie.name
+day#NN	I-movie.name
+'s#POS	I-movie.name
+night#NN	I-movie.name
+a#DT	O
+documentary#NN	B-movie.genre
+
+most#RBS	O
+translated#VVN	O
+foreign#JJ	B-movie.language
+film#NN	O
+
+show#VV	O
+me#PP	O
+a#DT	O
+popular#JJ	O
+robert#NN	B-director.name
+wise#JJ	I-director.name
+movie#NN	O
+
+i#NNS	O
+want#VVP	O
+to#TO	O
+watch#VV	O
+movies#NNS	O
+like#IN	O
+finding#VVG	B-movie.name
+nemo#NN	I-movie.name
+
+who#WP	O
+directed#VVD	O
+the#DT	O
+movie#NN	O
+the#DT	B-movie.name
+dark#JJ	I-movie.name
+knight#NN	I-movie.name
+
+i#NN	O
+d#SYM	O
+like#IN	O
+to#TO	O
+know#VV	O
+who#WP	O
+the#DT	O
+producer#NN	O
+of#IN	O
+the#DT	B-movie.name
+terminator#NN	I-movie.name
+is#VBZ	O
+
+looper#NN	B-movie.name
+revenue#NN	O
+
+show#VV	O
+me#PP	O
+movies#NNS	O
+about#IN	O
+gardening#NN	B-movie.subject
+
+show#VV	O
+me#PP	O
+directors#NNS	O
+of#IN	O
+famous#JJ	O
+films#NNS	O
+
+i#NN	O
+d#SYM	O
+like#IN	O
+to#TO	O
+know#VV	O
+the#DT	O
+genre#NN	O
+of#IN	O
+the#DT	O
+film#NN	O
+grease#NN	B-movie.name
+
+who#WP	O
+starred#VVD	O
+in#IN	O
+finding#VVG	B-movie.name
+nemo#NN	I-movie.name
+
+find#VV	O
+the#DT	O
+director#NN	O
+of#IN	O
+star#NN	B-movie.name
+wars#NNS	I-movie.name
+
+show#VV	O
+me#PP	O
+g#NN	B-rating.name
+movies#NNS	O
+
+movies#NNS	O
+gross#JJ	O
+revenue#NN	O
+of#IN	O
+seven#CD	B-movie.gross_revenue
+point#NN	I-movie.gross_revenue
+two#CD	I-movie.gross_revenue
+million#CD	I-movie.gross_revenue
+dollars#NNS	I-movie.gross_revenue
+
+what#WP	O
+language#NN	O
+is#VBZ	O
+spoken#VVN	O
+in#IN	O
+the#DT	O
+movie#NN	O
+on#IN	B-movie.name
+a#DT	I-movie.name
+wednesday#NN	I-movie.name
+
+show#VV	O
+me#PP	O
+korean#JJ	B-country.name
+movies#NNS	O
+
+i#NNS	O
+want#VVP	O
+to#TO	O
+find#VV	O
+information#NN	O
+about#IN	O
+the#DT	O
+cast#NN	O
+of#IN	O
+apollo#NN	B-movie.name
+thirteen#CD	I-movie.name
+
+what#WP	O
+is#VBZ	O
+the#DT	O
+rating#NN	O
+for#IN	O
+dark#JJ	I-movie.name
+knight#NN	I-movie.name
+
+what#WP	O
+type#NN	O
+of#IN	O
+movie#NN	O
+is#VBZ	O
+parenthood#NN	B-movie.name
+
+list#VV	O
+all#DT	O
+movies#NNS	O
+rated#VVN	O
+pg#NN	B-rating.name
+and#CC	B-movie.release_date
+pg-13#NN	B-rating.name
+released#VVN	O
+in#IN	O
+2009#CD	B-movie.release_date
+
+if#IN	O
+the#DT	O
+movie#NN	O
+was#VBD	O
+canceled#VVN	O
+how#WRB	O
+mad#JJ	O
+do#VVP	O
+you#PP	O
+think#VVP	O
+the#DT	O
+public#NN	O
+would#MD	O
+be#VB	O
+
+is#VBZ	O
+this#DT	O
+movie#NN	O
+in#IN	O
+punjaki#NP	B-movie.language
+
+the#DT	O
+movie#NN	O
+that#WDT	O
+has#VHZ	O
+a#DT	O
+kid#NN	B-movie.subject
+who#WP	I-movie.subject
+ages#VVZ	I-movie.subject
+into#IN	I-movie.subject
+a#DT	I-movie.subject
+man#NN	I-movie.subject
+
+how#WRB	O
+much#JJ	O
+revenue#NN	O
+did#VVD	O
+the#DT	O
+movie#NN	O
+avatar#NN	B-movie.name
+generate#VV	O
+
+what#WP	O
+is#VBZ	O
+grease#NN	B-movie.name
+rated#VVN	O
+
+what#WP	O
+genre#NN	O
+is#VBZ	O
+the#DT	B-movie.name
+hunger#NN	I-movie.name
+games#NNS	I-movie.name
+
+please#VV	O
+show#VV	O
+me#PP	O
+who#WP	O
+produces#VVZ	O
+madagascar#NN	B-movie.name
+
+who#WP	O
+directed#VVD	O
+star#NN	B-movie.name
+wars#NNS	I-movie.name
+four#CD	I-movie.name
+
+home#RB	O
+this#DT	O
+movie#NN	O
+is#VBZ	O
+in#IN	O
+english#NN	B-movie.language
+
+brad#NN	B-actor.name
+pitt#NN	I-actor.name
+movies#NNS	O
+
+i#NP	O
+would#MD	O
+like#VV	O
+to#TO	O
+know#VV	O
+the#DT	O
+genre#NN	O
+of#IN	O
+grease#NN	B-movie.name
+
+pg#NN	B-rating.name
+movies#NNS	O
+
+search#NN	O
+for#IN	O
+the#DT	O
+actor#NN	O
+that#WDT	O
+sings#VVZ	O
+let#VV	O
+me#PP	O
+love#VV	O
+you#PP	O
+
+who#WP	O
+played#VVD	O
+dory#NN	B-character.name
+on#IN	O
+finding#VVG	B-movie.name
+nemo#NN	I-movie.name
+
+send#VV	O
+dredd#NN	B-movie.name
+movie#NN	O
+
+what#WP	O
+language#NN	O
+is#VBZ	O
+ju#NN	B-movie.name
+on#IN	I-movie.name
+on#IN	O
+
+select#VV	O
+the#DT	O
+option#NN	O
+to#TO	O
+search#VV	O
+for#IN	O
+movies#NNS	O
+produced#VVN	O
+by#IN	O
+stephen#NN	B-producer.name
+spielberg#NN	I-producer.name
+
+who#WP	O
+made#VVD	O
+steel#NN	B-movie.name
+magnolias#NNS	I-movie.name
+
+can#MD	O
+you#PP	O
+locate#VV	O
+movies#NNS	O
+produced#VVN	O
+by#IN	O
+clint#NN	B-producer.name
+eastwood#NN	I-producer.name
+
+show#VV	O
+me#PP	O
+zombie#NN	B-movie.subject
+movies#NNS	O
+
+show#NN	O
+movie#NN	O
+ratings#NNS	O
+for#IN	O
+us#PP	B-country.name
+movie#NN	O
+looper#NN	B-movie.name
+
+give#VV	O
+me#PP	O
+swedish#JJ	B-country.name
+films#NNS	O
+
+want#VV	O
+page#NN	O
+
+films#NNS	O
+produced#VVN	O
+by#IN	O
+twentieth#JJ	B-producer.name
+century#NN	I-producer.name
+fox#NN	I-producer.name
+
+budget#NN	O
+request#NN	O
+for#IN	O
+my#PP$	B-movie.name
+big#JJ	I-movie.name
+fat#JJ	I-movie.name
+greek#NN	I-movie.name
+wedding#NN	I-movie.name
+
+show#VV	O
+me#PP	O
+movies#NNS	O
+from#IN	O
+poland#NN	B-country.name
+
+find#VV	O
+movies#NNS	O
+with#IN	O
+pg#NN	B-rating.name
+ratings#NNS	O
+only#RB	O
+
+please#UH	O
+tell#VV	O
+me#PP	O
+about#IN	O
+movies#NNS	O
+from#IN	O
+the#DT	B-country.name
+usa#NN	I-country.name
+
+how#WRB	O
+old#NN	O
+is#VBZ	O
+kristen#NN	B-person.name
+stewart#NN	I-person.name
+
+reviews#NNS	O
+for#IN	O
+star#NN	B-movie.name
+wars#NNS	I-movie.name
+iv#NN	I-movie.name
+
+what#WP	O
+was#VBD	O
+the#DT	O
+budget#NN	O
+for#IN	O
+hotel#NN	B-movie.name
+translyvania#NN	I-movie.name
+
+twentieth#JJ	B-producer.name
+century#NN	I-producer.name
+fox#NN	I-producer.name
+movies#NNS	O
+since#IN	B-movie.release_date
+1990#CD	I-movie.release_date
+
+what#WP	O
+video#NN	O
+clips#NNS	O
+have#VHP	O
+will#NN	B-actor.name
+ferrell#NN	I-actor.name
+
+what#WP	O
+is#VBZ	O
+the#DT	O
+revenue#NN	O
+for#IN	O
+fast#JJ	B-movie.name
+and#CC	I-movie.name
+the#DT	I-movie.name
+furious#JJ	I-movie.name
+
+castmembers#NNS	O
+of#IN	O
+apollo#NN	B-movie.name
+thirteen#CD	I-movie.name
+
+find#VV	O
+me#PP	O
+pg#NN	B-rating.name
+movies#NNS	O
+
+i#NNS	O
+want#VVP	O
+to#TO	O
+see#VV	O
+all#DT	O
+movies#NNS	O
+with#IN	O
+a#DT	O
+r#NN	B-rating.name
+rating#NN	O
+
+what#WP	O
+movies#NNS	O
+that#DT	O
+clint#NN	B-director.name
+eastwood#NN	I-director.name
+starred#VVN	O
+in#IN	O
+did#VVD	O
+he#PP	O
+also#RB	O
+direct#JJ	O
+
+des#NP	O
+ireland#NP	B-country.name
+have#VHP	O
+any#DT	O
+movie#NN	O
+festivals#NNS	O
+
+i#NP	O
+would#MD	O
+like#VV	O
+a#DT	O
+list#NN	O
+of#IN	O
+paramount#JJ	B-producer.name
+movies#NNS	O
+
+i#NP	O
+need#NN	O
+details#NNS	O
+steven#JJ	B-person.name
+spielberg#NN	I-person.name
+now#RB	O
+
+what#WP	O
+movies#NNS	O
+has#VHZ	O
+ron#RB	B-director.name
+howard#RB	I-director.name
+directed#VVN	O
+
+old#JJ	B-movie.name
+man#NN	I-movie.name
+director#NN	O
+
+information#NN	O
+about#IN	O
+movie#NN	O
+
+find#VV	O
+movies#NNS	O
+directed#VVN	O
+by#IN	O
+stephen#NN	B-director.name
+spielberg#NN	I-director.name
+
+show#VV	O
+me#PP	O
+movies#NNS	O
+that#WDT	O
+are#VBP	O
+in#IN	O
+korean#NN	B-movie.language
+
+when#WRB	O
+was#VBD	O
+paranorman#NP	B-movie.name
+be#VB	O
+released#VVN	O
+
+bio#NN	O
+on#IN	O
+will#NN	B-person.name
+ferrell#NN	I-person.name
+
+who#WP	O
+else#RB	O
+directs#VVZ	O
+zombie#NN	O
+movies#NNS	O
+
+find#VV	O
+name#NN	O
+of#IN	O
+main#JJ	O
+actor#NN	O
+in#IN	O
+the#DT	O
+movie#NN	O
+the#DT	B-movie.name
+help#NN	I-movie.name
+
+i#NP	O
+only#RB	O
+want#VVP	O
+to#TO	O
+see#VV	O
+movies#NNS	O
+in#IN	O
+german#NN	B-movie.language
+
+lionsgate#JJ	B-producer.name
+list#NN	O
+
+show#VV	O
+me#PP	O
+the#DT	O
+producer#NN	O
+of#IN	O
+the#DT	B-movie.name
+godfather#NN	I-movie.name
+
+appropriate#JJ	B-rating.name
+for#IN	I-rating.name
+kids#NNS	I-rating.name
+
+when#WRB	O
+can#MD	O
+i#NNS	O
+see#VV	O
+top#JJ	B-movie.name
+gun#NN	I-movie.name
+
+search#NN	O
+by#IN	O
+type#NN	O
+
+i#NP	O
+'d#MD	O
+like#VV	O
+to#TO	O
+see#VV	O
+foreign#JJ	B-country.name
+films#NNS	O
+
+who#WP	O
+is#VBZ	O
+bruce#NN	B-person.name
+willis#NN	I-person.name
+
+who#WP	O
+produced#VVD	O
+avatar#NN	B-movie.name
+
+get#VV	O
+movie#NN	O
+information#NN	O
+for#IN	O
+lionsgate#NNS	B-producer.name
+
+show#VV	O
+me#PP	O
+finding#VVG	B-movie.name
+nemo#NN	I-movie.name
+director#NN	O
+
+when#WRB	O
+was#VBD	O
+avatar#NN	B-movie.name
+released#VVN	O
+
+is#VBZ	O
+kristen#NN	B-person.name
+stewart#NN	I-person.name
+really#RB	O
+dating#VVG	O
+robert#NN	B-person.name
+pattinson#NN	I-person.name
+
+what#WP	O
+has#VHZ	O
+tom#NN	B-actor.name
+cruise#NN	I-actor.name
+acted#VVD	O
+in#IN	O
+lately#RB	O
+
+show#VV	O
+all#DT	O
+african#JJ	B-country.name
+movies#NNS	O
+for#IN	O
+twenty#CD	B-movie.release_date
+eleven#NN	I-movie.release_date
+
+find#VV	O
+classic#JJ	B-movie.subject
+car#NN	I-movie.subject
+documentaries#NNS	B-movie.genre
+
+find#VV	O
+the#DT	O
+director#NN	O
+andrew#NN	B-person.name
+stanton#NN	I-person.name
+
+i#NP	O
+would#MD	O
+like#VV	O
+to#TO	O
+know#VV	O
+the#DT	O
+release#NN	O
+date#NN	O
+of#IN	O
+the#DT	O
+movie#NN	O
+barfi#NN	B-movie.name
+
+what#WP	O
+does#VVZ	O
+rated#VVN	O
+r#NN	B-rating.name
+mean#NN	O
+
+goto#NP	O
+warner#NN	B-producer.name
+brothers#NNS	I-producer.name
+
+where#WRB	O
+was#VBD	O
+trainspotting#VVG	B-movie.name
+made#VVN	O
+
+show#VV	O
+me#PP	O
+movies#NNS	O
+in#IN	O
+italian#NN	B-movie.language
+
+how#WRB	O
+long#RB	O
+is#VBZ	O
+the#DT	O
+movie#NN	O
+
+countries#NNS	O
+flags#NNS	O
+
+what#WP	O
+was#VBD	O
+the#DT	O
+budget#NN	O
+for#IN	O
+avatar#NN	B-movie.name
+
+show#NN	O
+movies#NNS	O
+done#VVN	O
+by#IN	O
+7#CD	B-producer.name
+arts#NNS	I-producer.name
+
+what#WP	O
+movies#NNS	O
+have#VHP	O
+robert#JJ	B-producer.name
+deniro#NN	I-producer.name
+produced#VVD	O
+
+show#VV	O
+me#PP	O
+more#JJR	O
+details#NNS	O
+for#IN	O
+the#DT	O
+movie#NN	O
+dirty#JJ	B-movie.name
+dancing#NN	I-movie.name
+
+what#WP	O
+is#VBZ	O
+the#DT	O
+movie#NN	O
+category#NN	O
+
+who#WP	O
+played#VVD	O
+guido#NN	B-character.name
+in#IN	O
+life#NN	B-movie.name
+is#VBZ	I-movie.name
+beautiful#JJ	I-movie.name
+
+what#WP	O
+was#VBD	O
+the#DT	O
+release#NN	O
+date#NN	O
+of#IN	O
+the#DT	O
+movie#NN	O
+avatar#NN	B-movie.name
+
+look#VV	O
+up#RP	O
+what#WP	O
+language#NN	O
+the#DT	B-movie.name
+chaser#NN	I-movie.name
+is#VBZ	O
+in#IN	O
+
+who#WP	O
+directed#VVD	O
+finding#VVG	B-movie.name
+nemo#NN	I-movie.name
+
+find#VV	O
+expensive#JJ	O
+movies#NNS	O
+online#JJ	O
+
+steven#JJ	B-director.name
+spielberg#NN	I-director.name
+movies#NNS	O
+
+apollo#NN	B-movie.name
+thirteen#CD	I-movie.name
+cast#NN	O
+members#NNS	O
+
+look#VV	O
+for#IN	O
+the#DT	O
+producer#NN	O
+of#IN	O
+heroine#NN	B-movie.name
+
+movies#NNS	O
+regarding#VVG	O
+the#DT	B-movie.subject
+hobby#NN	I-movie.subject
+of#IN	I-movie.subject
+chess#NN	I-movie.subject
+
+who#WP	O
+produced#VVD	O
+the#DT	O
+theatrical#JJ	O
+film#NN	O
+the#DT	B-movie.name
+devil#NN	I-movie.name
+wears#VVZ	I-movie.name
+prada#NN	I-movie.name
+
+list#NN	O
+movies#NNS	O
+directed#VVN	O
+by#IN	O
+clint#NN	B-director.name
+eastwood#NN	I-director.name
+
+look#VV	O
+up#RP	O
+the#DT	O
+rating#NN	O
+for#IN	O
+the#DT	O
+movie#NN	O
+dredd#NN	B-movie.name
+
+search#NN	O
+for#IN	O
+will#NN	B-person.name
+ferrell#NN	I-person.name
+
+show#VV	O
+me#PP	O
+life#NN	B-movie.name
+is#VBZ	I-movie.name
+beautiful#JJ	I-movie.name
+information#NN	O
+
+i#NNS	O
+want#VVP	O
+information#NN	O
+about#IN	O
+angelina#NN	B-person.name
+jolie#NN	I-person.name
+
+when#WRB	O
+is#VBZ	O
+the#DT	O
+release#NN	O
+date#NN	O
+of#IN	O
+resident#JJ	B-movie.name
+evil#NN	I-movie.name
+:#:	I-movie.name
+retribution#NN	I-movie.name
+
+show#VV	O
+me#PP	O
+all#DT	O
+movies#NNS	O
+kristen#NN	B-actor.name
+stewart#NN	I-actor.name
+has#VHZ	O
+been#VBN	O
+in#IN	O
+
+what#WP	O
+movies#NNS	O
+made#VVD	O
+the#DT	O
+most#JJS	O
+money#NN	O
+
+who#WP	O
+directed#VVD	O
+the#DT	O
+movie#NN	O
+
+who#WP	O
+is#VBZ	O
+the#DT	O
+guy#NN	O
+who#WP	O
+played#VVD	O
+the#DT	O
+red#JJ	B-character.name
+ranger#NN	I-character.name
+in#IN	O
+power#NN	B-movie.name
+rangers#NNS	I-movie.name
+
+show#VV	O
+me#PP	O
+movies#NNS	O
+about#IN	O
+time#NN	B-movie.subject
+travel#NN	I-movie.subject
+
+zombies#NNS	O
+
+find#VV	O
+me#PP	O
+stats#NNS	O
+about#IN	O
+steven#JJ	B-person.name
+spielberg#NN	I-person.name
+
+who#WP	O
+was#VBD	O
+in#IN	O
+black#JJ	B-movie.name
+swan#NN	I-movie.name
+
+can#MD	O
+you#PP	O
+please#VV	O
+search#NN	O
+movies#NNS	O
+of#IN	O
+tom#NN	B-actor.name
+cruise#NN	I-actor.name
+
+can#MD	O
+you#PP	O
+tell#VV	O
+me#PP	O
+the#DT	O
+name#NN	O
+of#IN	O
+the#DT	O
+actor#NN	O
+who#WP	O
+played#VVD	O
+todd#NNS	B-character.name
+in#IN	O
+the#DT	O
+tv#NN	O
+show#VVP	O
+one#CD	B-movie.name
+life#NN	I-movie.name
+to#TO	I-movie.name
+live#VV	I-movie.name
+
+get#VV	O
+me#PP	O
+information#NN	O
+about#IN	O
+the#DT	O
+movie#NN	O
+star#NN	B-movie.name
+wars#NNS	I-movie.name
+four#CD	I-movie.name
+
+what#WP	O
+year#NN	O
+did#VVD	O
+spielberg#RB	B-director.name
+start#VV	O
+directing#VVG	O
+movies#NNS	O
+
+can#MD	O
+you#PP	O
+please#VV	O
+list#NN	O
+the#DT	O
+movies#NNS	O
+brad#NN	B-actor.name
+pitt#NN	I-actor.name
+has#VHZ	O
+acted#VVN	O
+in#RP	O
+
+was#VBD	O
+kevin#NN	B-actor.name
+bacon#NN	I-actor.name
+in#IN	O
+apollo#NN	B-movie.name
+thirteen#CD	I-movie.name
+
+time#NN	B-movie.subject
+travel#NN	I-movie.subject
+movies#NNS	O
+
+movies#NNS	O
+by#IN	O
+steven#JJ	B-director.name
+spielberg#NN	I-director.name
+

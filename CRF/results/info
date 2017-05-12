@@ -1,0 +1,21 @@
+1. Big increments of performances from the baseline incrementing the size of grams, until 
+4/5 (5/6% gain at each increment), from 4 to 5 the changes have not been very big (0.45%)
+
+2. Big increment of performance passing from trigrams with unigrams in output label to trigrams with bigrams
+in output label (10/12%). 
+
+3. Little decrement of performances (~0.6%) passing from trigrams with bigrams in output to quadrigrams with bigrams in output label
+
+BESTS:
+NO_FEATURES:
+[-2,+2] B_UNI -> 81.38
+[-2,+3] B -> 81
+[-2,+3] B_UNI -> 81.28
+window[-2,+3]_CONCAT[0,1]_B[-2.+1] -> 82.44
+
+FEATURES:
+window[-2+3]_CONCAT[0,1]_POS[0]_B[-2+2] -> 82.81 
+window[-2,+3]_CONCAT[0,1]_B[-2.+1] ON LEMMA -> 82.30
+
+CONCATENATING word+pos do not improve anything, probably it is a sparseness problem
+LEMMA + POS (with window[-2+3]_CONCAT[0,1]_POS[0]_B[-2+2]) -> 82.60 (lose 0.20)

@@ -1,0 +1,2319 @@
+find#VV	$-find#VV
+the#DT	$-the#DT
+director#NN	$-director#NN
+for#IN	$-for#IN
+the#DT	B-movie.name
+social#JJ	I-movie.name
+network#NN	I-movie.name
+
+search#NN	$-search#NN
+for#IN	$-for#IN
+the#DT	$-the#DT
+cast#NN	$-cast#NN
+and#CC	$-and#CC
+crew#NN	$-crew#NN
+for#IN	$-for#IN
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+dirty#JJ	B-movie.name
+dancing#NN	I-movie.name
+
+what#WP	$-what#WP
+age#NN	$-age#NN
+is#VBZ	$-is#VBZ
+marley#JJ	B-movie.name
+and#CC	I-movie.name
+me#PP	I-movie.name
+appropriate#VVP	$-appropriate#VVP
+
+what#WP	$-what#WP
+media#NNS	$-media#NNS
+has#VHZ	$-has#VHZ
+lionsgate#RB	B-producer.name
+done#VVN	$-done#VVN
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+the#DT	$-the#DT
+dirty#JJ	B-movie.name
+dancing#NN	I-movie.name
+movie#NN	$-movie#NN
+
+i#NP	$-i#NP
+would#MD	$-would#MD
+like#VV	$-like#VV
+to#TO	$-to#TO
+select#VV	$-select#VV
+the#DT	$-the#DT
+option#NN	$-option#NN
+to#TO	$-to#TO
+search#VV	$-search#VV
+for#IN	$-for#IN
+movies#NNS	$-movies#NNS
+produced#VVN	$-produced#VVN
+by#IN	$-by#IN
+stephen#NN	B-producer.name
+spielberg#NN	I-producer.name
+
+what#WP	$-what#WP
+was#VBD	$-was#VBD
+the#DT	$-the#DT
+budget#NN	$-budget#NN
+for#IN	$-for#IN
+the#DT	B-movie.name
+avengers#NNS	I-movie.name
+
+i#NP	$-i#NP
+would#MD	$-would#MD
+love#VV	$-love#VV
+to#TO	$-to#TO
+see#VV	$-see#VV
+a#DT	$-a#DT
+movie#NN	$-movie#NN
+about#IN	$-about#IN
+esp#NN	B-movie.subject
+
+name#VV	$-name#VV
+the#DT	$-the#DT
+producer#NN	$-producer#NN
+of#IN	$-of#IN
+the#DT	B-movie.name
+godfather#NN	I-movie.name
+
+how#WRB	$-how#WRB
+much#RB	$-much#RB
+was#VBD	$-was#VBD
+hunger#NN	B-movie.name
+games#NNS	I-movie.name
+made#VVN	$-made#VVN
+for#IN	$-for#IN
+
+can#MD	$-can#MD
+i#NNS	$-i#NNS
+see#VV	$-see#VV
+what#WP	$-what#WP
+the#DT	B-movie.name
+lion#NN	I-movie.name
+king#NN	I-movie.name
+'s#POS	$-'s#POS
+revenue#NN	$-revenue#NN
+was#VBD	$-was#VBD
+
+was#VBD	$-was#VBD
+twenty#CD	B-movie.gross_revenue
+one#CD	I-movie.gross_revenue
+point#NN	I-movie.gross_revenue
+two#CD	I-movie.gross_revenue
+million#CD	I-movie.gross_revenue
+grossed#VVN	$-grossed#VVN
+in#IN	$-in#IN
+the#DT	$-the#DT
+first#JJ	$-first#JJ
+day#NN	$-day#NN
+or#CC	$-or#CC
+week#NN	$-week#NN
+
+current#JJ	$-current#JJ
+movies#NNS	$-movies#NNS
+rated#VVN	$-rated#VVN
+g#NN	B-rating.name
+
+will#MD	B-actor.name
+ferell#NP	I-actor.name
+videos#NNS	$-videos#NNS
+
+movies#NNS	$-movies#NNS
+from#IN	$-from#IN
+italy#RB	B-country.name
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+brad#NN	B-actor.name
+pitt#NN	I-actor.name
+movies#NNS	$-movies#NNS
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+the#DT	$-the#DT
+actors#NNS	$-actors#NNS
+in#IN	$-in#IN
+captain#NN	B-movie.name
+america#NN	I-movie.name
+
+who#WP	$-who#WP
+starred#VVD	$-starred#VVD
+in#IN	$-in#IN
+dark#JJ	B-movie.name
+knight#NN	I-movie.name
+rising#VVG	I-movie.name
+
+how#WRB	$-how#WRB
+much#RB	$-much#RB
+was#VBD	$-was#VBD
+the#DT	$-the#DT
+total#JJ	$-total#JJ
+budget#NN	$-budget#NN
+for#IN	$-for#IN
+the#DT	$-the#DT
+titanic#JJ	B-movie.name
+
+sort#NN	$-sort#NN
+in#IN	$-in#IN
+all#DT	$-all#DT
+japanese#JJ	B-country.name
+movies#NNS	$-movies#NNS
+
+kindly#RB	$-kindly#RB
+show#VV	$-show#VV
+me#PP	$-me#PP
+the#DT	$-the#DT
+rating#NN	$-rating#NN
+for#IN	$-for#IN
+cabin#NN	I-movie.name
+in#IN	I-movie.name
+the#DT	I-movie.name
+woods#NNS	I-movie.name
+
+can#MD	$-can#MD
+you#PP	$-you#PP
+find#VV	$-find#VV
+out#RP	$-out#RP
+who#WP	$-who#WP
+directed#VVD	$-directed#VVD
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+batman#NN	B-movie.name
+
+give#VV	$-give#VV
+me#PP	$-me#PP
+the#DT	$-the#DT
+genre#NN	$-genre#NN
+of#IN	$-of#IN
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+lawless#JJ	B-movie.name
+
+i#NNS	$-i#NNS
+need#VVP	$-need#VVP
+to#TO	$-to#TO
+know#VV	$-know#VV
+the#DT	$-the#DT
+name#NN	$-name#NN
+of#IN	$-of#IN
+the#DT	B-character.name
+mom#NN	I-character.name
+on#IN	$-on#IN
+seinfeld#NP	B-movie.name
+
+display#NN	$-display#NN
+french#NN	B-movie.subject
+culture#NN	I-movie.subject
+films#NNS	$-films#NNS
+
+when#WRB	$-when#WRB
+will#MD	$-will#MD
+iron#VV	B-movie.name
+man#NN	I-movie.name
+3#LS	I-movie.name
+be#VB	$-be#VB
+out#RP	$-out#RP
+in#IN	$-in#IN
+movie#NN	$-movie#NN
+theatres#NNS	$-theatres#NNS
+
+name#VV	$-name#VV
+the#DT	$-the#DT
+actor#NN	$-actor#NN
+who#WP	$-who#WP
+played#VVD	$-played#VVD
+opposite#JJ	B-character.name
+sidney#NN	I-character.name
+pointier#NN	I-character.name
+in#IN	$-in#IN
+shoot#NN	B-movie.name
+to#TO	I-movie.name
+kill#VV	I-movie.name
+
+in#IN	$-in#IN
+which#WDT	$-which#WDT
+month#NN	$-month#NN
+varsham#NN	B-movie.name
+movie#NN	$-movie#NN
+released#VVD	$-released#VVD
+
+what#WP	$-what#WP
+production#NN	$-production#NN
+company#NN	$-company#NN
+produced#VVD	$-produced#VVD
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+avatar#NN	B-movie.name
+
+how#WRB	$-how#WRB
+many#JJ	$-many#JJ
+movies#NNS	$-movies#NNS
+did#VVD	$-did#VVD
+victor#NN	B-director.name
+fleming#VVG	I-director.name
+direct#JJ	$-direct#JJ
+
+where#WRB	$-where#WRB
+can#MD	$-can#MD
+i#NNS	$-i#NNS
+find#VV	$-find#VV
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+amelie#NN	B-movie.name
+in#IN	$-in#IN
+french#NNS	B-movie.language
+
+please#UH	$-please#UH
+run#VV	$-run#VV
+a#DT	$-a#DT
+search#NN	$-search#NN
+on#IN	$-on#IN
+will#NN	B-person.name
+ferrell#NN	I-person.name
+and#CC	$-and#CC
+display#VV	$-display#VV
+all#DT	$-all#DT
+info#NN	$-info#NN
+returned#VVD	$-returned#VVD
+
+i#NP	$-i#NP
+would#MD	$-would#MD
+like#VV	$-like#VV
+to#TO	$-to#TO
+know#VV	$-know#VV
+the#DT	$-the#DT
+name#NN	$-name#NN
+of#IN	$-of#IN
+the#DT	$-the#DT
+actor#NN	$-actor#NN
+who#WP	$-who#WP
+played#VVD	$-played#VVD
+todd#NNS	B-character.name
+in#IN	$-in#IN
+the#DT	$-the#DT
+tv#NN	$-tv#NN
+show#VVP	$-show#VVP
+one#CD	B-movie.name
+life#NN	I-movie.name
+to#TO	I-movie.name
+live#VV	I-movie.name
+
+search#NN	$-search#NN
+popularity#NN	$-popularity#NN
+
+i#NNS	$-i#NNS
+'m#VBP	$-'m#VBP
+looking#VVG	$-looking#VVG
+for#IN	$-for#IN
+the#DT	$-the#DT
+cost#NN	$-cost#NN
+of#IN	$-of#IN
+some#DT	$-some#DT
+movies#NNS	$-movies#NNS
+
+i#NP	$-i#NP
+would#MD	$-would#MD
+like#VV	$-like#VV
+to#TO	$-to#TO
+see#VV	$-see#VV
+french#NN	B-country.name
+movies#NNS	$-movies#NNS
+
+how#WRB	$-how#WRB
+much#JJ	$-much#JJ
+revenue#NN	$-revenue#NN
+has#VHZ	$-has#VHZ
+looper#NN	B-movie.name
+made#VVD	$-made#VVD
+
+how#WRB	$-how#WRB
+many#JJ	$-many#JJ
+movies#NNS	$-movies#NNS
+were#VBD	$-were#VBD
+released#VVN	$-released#VVN
+on#IN	$-on#IN
+nine#CD	B-movie.release_date
+twenty#CD	I-movie.release_date
+eight#CD	I-movie.release_date
+twelve#NN	I-movie.release_date
+
+when#WRB	$-when#WRB
+was#VBD	$-was#VBD
+avengers#NNS	B-movie.name
+released#VVN	$-released#VVN
+
+tell#VV	$-tell#VV
+me#PP	$-me#PP
+what#WDT	$-what#WDT
+genre#NN	$-genre#NN
+the#DT	B-movie.name
+tommyknockers#NNS	I-movie.name
+is#VBZ	$-is#VBZ
+
+about#IN	$-about#IN
+finding#VVG	B-movie.name
+nemo#NN	I-movie.name
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+a#DT	$-a#DT
+list#NN	$-list#NN
+of#IN	$-of#IN
+some#DT	$-some#DT
+movies#NNS	$-movies#NNS
+on#IN	$-on#IN
+religious#JJ	B-movie.subject
+issues#NNS	I-movie.subject
+
+how#WRB	$-how#WRB
+many#JJ	$-many#JJ
+movies#NNS	$-movies#NNS
+has#VHZ	$-has#VHZ
+darla#NN	B-producer.name
+anderson#NN	I-producer.name
+produced#VVD	$-produced#VVD
+
+movies#NNS	$-movies#NNS
+by#IN	$-by#IN
+alfred#NN	B-director.name
+hitchcock#NN	I-director.name
+
+display#NN	$-display#NN
+movies#NNS	$-movies#NNS
+made#VVN	$-made#VVN
+in#IN	$-in#IN
+country#NN	$-country#NN
+
+star#NN	B-movie.name
+wars#NNS	I-movie.name
+four#CD	I-movie.name
+
+show#VV	$-show#VV
+all#DT	$-all#DT
+r#NN	B-rating.name
+movies#NNS	$-movies#NNS
+for#IN	$-for#IN
+twenty#CD	B-movie.release_date
+eleven#NN	I-movie.release_date
+
+what#WP	$-what#WP
+are#VBP	$-are#VBP
+all#DT	$-all#DT
+movies#NNS	$-movies#NNS
+produced#VVN	$-produced#VVN
+by#IN	$-by#IN
+chris#NN	B-producer.name
+nolan#NN	I-producer.name
+
+what#WP	$-what#WP
+does#VVZ	$-does#VVZ
+person#NN	$-person#NN
+look#VV	$-look#VV
+like#IN	$-like#IN
+
+find#VV	$-find#VV
+the#DT	$-the#DT
+revenue#NN	$-revenue#NN
+of#IN	$-of#IN
+big#JJ	B-movie.name
+
+netflix#NN	$-netflix#NN
+
+display#NN	$-display#NN
+biography#NN	$-biography#NN
+of#IN	$-of#IN
+actor#NN	$-actor#NN
+will#MD	B-person.name
+ferrell#VV	I-person.name
+
+reviews#NNS	$-reviews#NNS
+for#IN	$-for#IN
+star#NN	B-movie.name
+wars#NNS	I-movie.name
+four#CD	I-movie.name
+
+how#WRB	$-how#WRB
+much#RB	$-much#RB
+did#VVD	$-did#VVD
+the#DT	$-the#DT
+studio#NN	$-studio#NN
+spend#VVP	$-spend#VVP
+to#TO	$-to#TO
+make#VV	$-make#VV
+avatar#NN	B-movie.name
+
+can#MD	$-can#MD
+you#PP	$-you#PP
+give#VV	$-give#VV
+me#PP	$-me#PP
+the#DT	$-the#DT
+revenue#NN	$-revenue#NN
+of#IN	$-of#IN
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+titanic#JJ	B-movie.name
+
+show#VV	$-show#VV
+all#DT	$-all#DT
+sy#JJ	B-movie.genre
+fi#NN	I-movie.genre
+movies#NNS	$-movies#NNS
+for#IN	$-for#IN
+twenty#CD	B-movie.release_date
+twelve#NN	I-movie.release_date
+
+i#NNS	$-i#NNS
+need#VVP	$-need#VVP
+a#DT	$-a#DT
+list#NN	$-list#NN
+of#IN	$-of#IN
+actors#NNS	$-actors#NNS
+
+movies#NNS	$-movies#NNS
+about#IN	$-about#IN
+time#NN	B-movie.subject
+travel#NN	I-movie.subject
+
+i#NP	$-i#NP
+don#NN	$-don#NN
+'t#NN	$-'t#NN
+want#VVP	$-want#VVP
+any#DT	$-any#DT
+g#NN	B-rating.name
+rated#VVN	$-rated#VVN
+movies#NNS	$-movies#NNS
+
+when#WRB	$-when#WRB
+steven#JJ	B-person.name
+spielberg#NN	I-person.name
+born#VVN	$-born#VVN
+
+what#WP	$-what#WP
+is#VBZ	$-is#VBZ
+the#DT	$-the#DT
+director#NN	$-director#NN
+'s#POS	$-'s#POS
+name#NN	$-name#NN
+of#IN	$-of#IN
+lord#NN	B-movie.name
+of#IN	I-movie.name
+the#DT	I-movie.name
+rings#NNS	I-movie.name
+
+find#VV	$-find#VV
+selected#JJ	$-selected#JJ
+info#NN	$-info#NN
+
+is#VBZ	$-is#VBZ
+house#NN	B-movie.name
+at#IN	I-movie.name
+the#DT	I-movie.name
+end#NN	I-movie.name
+of#IN	I-movie.name
+the#DT	I-movie.name
+street#NN	I-movie.name
+'#''	$-'#''
+ok#VV	$-ok#VV
+for#IN	$-for#IN
+my#PP$	$-my#PP$
+six#CD	$-six#CD
+year#NN	$-year#NN
+old#JJ	$-old#JJ
+
+i#NNS	$-i#NNS
+want#VVP	$-want#VVP
+to#TO	$-to#TO
+search#VV	$-search#VV
+for#IN	$-for#IN
+pg#NN	B-rating.name
+rated#VVN	$-rated#VVN
+movies#NNS	$-movies#NNS
+
+i#NNS	$-i#NNS
+want#VVP	$-want#VVP
+to#TO	$-to#TO
+see#VV	$-see#VV
+movies#NNS	$-movies#NNS
+directed#VVN	$-directed#VVN
+by#IN	$-by#IN
+ridley#NP	B-director.name
+scott#NP	I-director.name
+
+find#VV	$-find#VV
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+dirty#JJ	B-movie.name
+dancing#NN	I-movie.name
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+a#DT	$-a#DT
+sam#NN	B-director.name
+wood#NN	I-director.name
+and#CC	$-and#CC
+victor#NN	B-director.name
+fleming#NN	I-director.name
+film#NN	$-film#NN
+
+is#VBZ	$-is#VBZ
+it#PP	$-it#PP
+appropriate#JJ	$-appropriate#JJ
+to#TO	$-to#TO
+take#VV	$-take#VV
+my#PP$	$-my#PP$
+16#CD	$-16#CD
+year#NN	$-year#NN
+old#JJ	$-old#JJ
+to#TO	$-to#TO
+see#VV	$-see#VV
+land#NN	B-movie.name
+of#IN	I-movie.name
+the#DT	I-movie.name
+lost#VVN	I-movie.name
+
+list#VV	$-list#VV
+some#DT	$-some#DT
+paramount#JJ	B-producer.name
+produced#VVN	$-produced#VVN
+films#NNS	$-films#NNS
+
+find#VV	$-find#VV
+me#PP	$-me#PP
+information#NN	$-information#NN
+about#IN	$-about#IN
+the#DT	$-the#DT
+first#JJ	$-first#JJ
+star#NN	B-movie.name
+wars#NNS	I-movie.name
+
+who#WP	$-who#WP
+produced#VVD	$-produced#VVD
+the#DT	B-movie.name
+great#JJ	I-movie.name
+debaters#NNS	I-movie.name
+
+who#WP	$-who#WP
+produced#VVD	$-produced#VVD
+
+what#WP	$-what#WP
+do#VVP	$-do#VVP
+the#DT	$-the#DT
+actors#NNS	$-actors#NNS
+speak#VVP	$-speak#VVP
+
+find#VV	$-find#VV
+movies#NNS	$-movies#NNS
+with#IN	$-with#IN
+tom#NN	B-actor.name
+cruise#NN	I-actor.name
+
+who#WP	$-who#WP
+directed#VVD	$-directed#VVD
+a#DT	B-movie.name
+hard#JJ	I-movie.name
+day#NN	I-movie.name
+'s#POS	I-movie.name
+night#NN	I-movie.name
+
+what#WP	$-what#WP
+country#NN	$-country#NN
+produced#VVD	$-produced#VVD
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+mirror#NN	B-movie.name
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+hathaway#NN	B-actor.name
+'s#POS	$-'s#POS
+recent#JJ	$-recent#JJ
+movies#NNS	$-movies#NNS
+
+what#WP	$-what#WP
+is#VBZ	$-is#VBZ
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+genre#NN	$-genre#NN
+
+stephen#NN	B-director.name
+king#NN	I-director.name
+directed#VVD	$-directed#VVD
+what#WP	$-what#WP
+movie#NN	$-movie#NN
+
+i#NNS	$-i#NNS
+want#VVP	$-want#VVP
+to#TO	$-to#TO
+see#VV	$-see#VV
+paramount#JJ	B-producer.name
+movies#NNS	$-movies#NNS
+
+who#WP	$-who#WP
+made#VVD	$-made#VVD
+godzilla#NN	B-movie.name
+
+is#VBZ	$-is#VBZ
+this#DT	$-this#DT
+movie#NN	$-movie#NN
+german#NN	B-country.name
+
+how#WRB	$-how#WRB
+many#JJ	$-many#JJ
+stars#NNS	$-stars#NNS
+does#VVZ	$-does#VVZ
+star#NN	B-movie.name
+wars#NNS	I-movie.name
+new#JJ	I-movie.name
+hope#NN	I-movie.name
+have#VHP	$-have#VHP
+
+which#WDT	$-which#WDT
+current#JJ	$-current#JJ
+movies#NNS	$-movies#NNS
+are#VBP	$-are#VBP
+rated#VVN	$-rated#VVN
+pg#NN	B-rating.name
+
+current#JJ	$-current#JJ
+movie#NN	$-movie#NN
+options#NNS	$-options#NNS
+for#IN	$-for#IN
+today#NN	$-today#NN
+with#IN	$-with#IN
+patrick#NN	B-actor.name
+swayze#NNS	I-actor.name
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+movies#NNS	$-movies#NNS
+released#VVN	$-released#VVN
+in#IN	$-in#IN
+september#NN	B-movie.release_date
+
+who#WP	$-who#WP
+produced#VVD	$-produced#VVD
+top#JJ	B-movie.name
+gun#NN	I-movie.name
+
+show#VV	$-show#VV
+only#RB	$-only#RB
+paramount#JJ	B-producer.name
+movies#NNS	$-movies#NNS
+
+show#NN	$-show#NN
+information#NN	$-information#NN
+for#IN	$-for#IN
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+house#NN	B-movie.name
+at#IN	I-movie.name
+the#DT	I-movie.name
+end#NN	I-movie.name
+of#IN	I-movie.name
+the#DT	I-movie.name
+street#NN	I-movie.name
+
+find#VV	$-find#VV
+movies#NNS	$-movies#NNS
+about#IN	$-about#IN
+haunting#NN	B-movie.subject
+
+how#WRB	$-how#WRB
+much#RB	$-much#RB
+did#VVD	$-did#VVD
+this#DT	$-this#DT
+movie#NN	$-movie#NN
+earn#VV	$-earn#VV
+
+display#NN	$-display#NN
+overview#NN	$-overview#NN
+of#IN	$-of#IN
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+house#NN	B-movie.name
+at#IN	I-movie.name
+the#DT	I-movie.name
+end#NN	I-movie.name
+of#IN	I-movie.name
+the#DT	I-movie.name
+street#NN	I-movie.name
+
+producer#NN	$-producer#NN
+
+what#WP	$-what#WP
+was#VBD	$-was#VBD
+the#DT	$-the#DT
+name#NN	$-name#NN
+of#IN	$-of#IN
+the#DT	$-the#DT
+director#NN	$-director#NN
+in#IN	$-in#IN
+men#NNS	B-movie.name
+in#IN	I-movie.name
+black#JJ	I-movie.name
+3#CD	I-movie.name
+
+play#NN	$-play#NN
+movies#NNS	$-movies#NNS
+from#IN	$-from#IN
+turkey#NN	B-country.name
+
+what#WP	$-what#WP
+foreign#JJ	B-country.name
+film#NN	$-film#NN
+involves#VVZ	$-involves#VVZ
+dragons#NNS	B-movie.subject
+
+open#VV	$-open#VV
+a#DT	$-a#DT
+page#NN	$-page#NN
+about#RB	$-about#RB
+will#MD	B-person.name
+ferrell#VV	I-person.name
+
+how#WRB	$-how#WRB
+long#RB	$-long#RB
+is#VBZ	$-is#VBZ
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+the#DT	B-movie.name
+campaign#NN	I-movie.name
+
+look#VV	$-look#VV
+for#IN	$-for#IN
+cher#NN	B-actor.name
+movies#NNS	$-movies#NNS
+
+steven#JJ	B-director.name
+spielberg#NN	I-director.name
+pictures#NNS	$-pictures#NNS
+
+what#WP	$-what#WP
+awards#NNS	$-awards#NNS
+has#VHZ	$-has#VHZ
+spielberg#RB	B-person.name
+won#VVN	$-won#VVN
+
+information#NN	$-information#NN
+on#IN	$-on#IN
+julia#NN	B-person.name
+roberts#NNS	I-person.name
+
+how#WRB	$-how#WRB
+much#JJ	$-much#JJ
+revenue#NN	$-revenue#NN
+did#VVD	$-did#VVD
+star#NN	B-movie.name
+wars#NNS	I-movie.name
+make#VVP	$-make#VVP
+
+who#WP	$-who#WP
+was#VBD	$-was#VBD
+the#DT	$-the#DT
+star#NN	$-star#NN
+in#IN	$-in#IN
+hitch#NN	B-movie.name
+
+funny#JJ	B-movie.genre
+kids#NNS	B-rating.name
+movies#NNS	$-movies#NNS
+
+who#WP	$-who#WP
+stars#VVZ	$-stars#VVZ
+on#IN	$-on#IN
+the#DT	$-the#DT
+house#NN	B-movie.name
+at#IN	I-movie.name
+the#DT	I-movie.name
+end#NN	I-movie.name
+of#IN	I-movie.name
+the#DT	I-movie.name
+street#NN	I-movie.name
+
+display#NN	$-display#NN
+production#NN	$-production#NN
+company#NN	$-company#NN
+lionsgate#NNS	B-producer.name
+
+search#NN	$-search#NN
+for#IN	$-for#IN
+actors#NNS	$-actors#NNS
+
+spanish#JJ	B-movie.language
+movie#NN	$-movie#NN
+listing#NN	$-listing#NN
+
+movies#NNS	$-movies#NNS
+in#IN	$-in#IN
+spanish#NN	B-movie.language
+
+please#UH	$-please#UH
+find#VV	$-find#VV
+what#WP	$-what#WP
+language#NN	$-language#NN
+the#DT	B-movie.name
+chaser#NN	I-movie.name
+is#VBZ	$-is#VBZ
+in#IN	$-in#IN
+
+how#WRB	$-how#WRB
+much#RB	$-much#RB
+was#VBD	$-was#VBD
+the#DT	$-the#DT
+budget#NN	$-budget#NN
+for#IN	$-for#IN
+the#DT	B-movie.name
+hunger#NN	I-movie.name
+games#NNS	I-movie.name
+
+i#NNS	$-i#NNS
+need#VVP	$-need#VVP
+names#NNS	$-names#NNS
+of#IN	$-of#IN
+some#DT	$-some#DT
+movies#NNS	$-movies#NNS
+about#IN	$-about#IN
+gardening#NN	B-movie.subject
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+the#DT	$-the#DT
+budget#NN	$-budget#NN
+for#IN	$-for#IN
+expendables#NNS	B-movie.name
+2#CD	I-movie.name
+
+spanish#JJ	B-movie.language
+movies#NNS	$-movies#NNS
+
+tell#VV	$-tell#VV
+me#PP	$-me#PP
+the#DT	$-the#DT
+rating#NN	$-rating#NN
+of#IN	$-of#IN
+the#DT	$-the#DT
+film#NN	$-film#NN
+grease#NN	B-movie.name
+
+who#WP	$-who#WP
+was#VBD	$-was#VBD
+your#PP$	$-your#PP$
+favorite#JJ	$-favorite#JJ
+beatle#NN	$-beatle#NN
+
+has#VHZ	$-has#VHZ
+he#PP	$-he#PP
+written#VVN	$-written#VVN
+anything#NN	$-anything#NN
+new#JJ	$-new#JJ
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+movies#NNS	$-movies#NNS
+in#IN	$-in#IN
+the#DT	B-movie.location
+usa#NN	I-movie.location
+
+budget#NN	$-budget#NN
+for#IN	$-for#IN
+the#DT	$-the#DT
+hulk#NN	B-movie.name
+
+if#IN	$-if#IN
+you#PP	$-you#PP
+could#MD	$-could#MD
+descrbe#VV	$-descrbe#VV
+your#PP$	$-your#PP$
+movie#NN	$-movie#NN
+in#IN	$-in#IN
+one#CD	$-one#CD
+word#NN	$-word#NN
+what#WP	$-what#WP
+would#MD	$-would#MD
+it#PP	$-it#PP
+be#VB	$-be#VB
+
+what#WP	$-what#WP
+was#VBD	$-was#VBD
+the#DT	$-the#DT
+total#JJ	$-total#JJ
+gross#NN	$-gross#NN
+for#IN	$-for#IN
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+bananas#NNS	B-movie.name
+
+give#VV	$-give#VV
+me#PP	$-me#PP
+anything#NN	$-anything#NN
+directed#VVN	$-directed#VVN
+by#IN	$-by#IN
+robert#NN	B-director.name
+wise#NN	I-director.name
+
+who#WP	$-who#WP
+produced#VVD	$-produced#VVD
+star#NN	B-movie.name
+wars#NNS	I-movie.name
+
+find#VV	$-find#VV
+twentieth#JJ	B-producer.name
+century#NN	I-producer.name
+fox#NN	I-producer.name
+movies#NNS	$-movies#NNS
+
+i#NNS	$-i#NNS
+want#VVP	$-want#VVP
+to#TO	$-to#TO
+look#VV	$-look#VV
+for#IN	$-for#IN
+movies#NNS	$-movies#NNS
+with#IN	$-with#IN
+an#DT	$-an#DT
+r#NN	B-rating.name
+rating#NN	$-rating#NN
+
+find#VV	$-find#VV
+all#DT	$-all#DT
+selected#JJ	$-selected#JJ
+info#NN	$-info#NN
+
+who#WP	$-who#WP
+did#VVD	$-did#VVD
+avatar#NN	B-movie.name
+
+films#NNS	$-films#NNS
+produced#VVN	$-produced#VVN
+by#IN	$-by#IN
+laurie#NN	B-producer.name
+macdonald#NN	I-producer.name
+
+i#NP	$-i#NP
+would#MD	$-would#MD
+like#VV	$-like#VV
+to#TO	$-to#TO
+search#VV	$-search#VV
+for#IN	$-for#IN
+movies#NNS	$-movies#NNS
+from#IN	$-from#IN
+asia#NN	B-country.name
+
+who#WP	$-who#WP
+was#VBD	$-was#VBD
+the#DT	$-the#DT
+co-star#NN	$-co-star#NN
+in#IN	$-in#IN
+shoot#NN	B-movie.name
+to#TO	I-movie.name
+kill#VV	I-movie.name
+
+columbia#NN	B-producer.name
+production#NN	$-production#NN
+company#NN	$-company#NN
+movies#NNS	$-movies#NNS
+
+please#UH	$-please#UH
+look#VV	$-look#VV
+up#RP	$-up#RP
+revenue#NN	$-revenue#NN
+from#IN	$-from#IN
+step#NN	B-movie.name
+up#RB	I-movie.name
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+pictures#NNS	$-pictures#NNS
+of#IN	$-of#IN
+beautiful#JJ	$-beautiful#JJ
+men#NNS	$-men#NNS
+
+who#WP	$-who#WP
+is#VBZ	$-is#VBZ
+in#IN	$-in#IN
+barfi#NNS	B-movie.name
+
+who#WP	$-who#WP
+was#VBD	$-was#VBD
+the#DT	$-the#DT
+lead#JJ	$-lead#JJ
+actor#NN	$-actor#NN
+in#IN	$-in#IN
+hitch#NN	B-movie.name
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+the#DT	$-the#DT
+revenue#NN	$-revenue#NN
+created#VVN	$-created#VVN
+by#IN	$-by#IN
+ghost#NN	B-movie.name
+rider#NN	I-movie.name
+spirit#NN	I-movie.name
+of#IN	I-movie.name
+vengeance#NN	I-movie.name
+
+display#VV	$-display#VV
+the#DT	$-the#DT
+video#NN	$-video#NN
+of#IN	$-of#IN
+finding#VVG	B-movie.name
+nemo#NP	I-movie.name
+twenty#CD	B-movie.release_date
+oh#UH	I-movie.release_date
+three#CD	I-movie.release_date
+
+search#NN	$-search#NN
+date#NN	$-date#NN
+for#IN	$-for#IN
+omg#NN	B-movie.name
+
+has#VHZ	$-has#VHZ
+ray#NN	B-director.name
+stark#JJ	I-director.name
+made#VVN	$-made#VVN
+other#JJ	$-other#JJ
+movies#NNS	$-movies#NNS
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+videos#NNS	$-videos#NNS
+in#IN	B-movie.name
+orange#NN	I-movie.name
+
+i#NNS	$-i#NNS
+need#VVP	$-need#VVP
+to#TO	$-to#TO
+know#VV	$-know#VV
+the#DT	$-the#DT
+genre#NN	$-genre#NN
+of#IN	$-of#IN
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+avatar#NN	B-movie.name
+
+who#WP	$-who#WP
+starred#VVD	$-starred#VVD
+in#RB	$-in#RB
+go#VV	B-movie.name
+
+find#VV	$-find#VV
+movies#NNS	$-movies#NNS
+about#IN	$-about#IN
+dancing#NN	B-movie.subject
+
+need#VVP	$-need#VVP
+to#TO	$-to#TO
+provide#VV	$-provide#VV
+more#JJR	$-more#JJR
+info#NN	$-info#NN
+about#IN	$-about#IN
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+content#NN	$-content#NN
+
+list#VV	$-list#VV
+some#DT	$-some#DT
+of#IN	$-of#IN
+the#DT	$-the#DT
+best#JJS	$-best#JJS
+world#NN	B-movie.subject
+war#NN	I-movie.subject
+2#CD	I-movie.subject
+films#NNS	$-films#NNS
+
+where#WRB	$-where#WRB
+was#VBD	$-was#VBD
+les#FW	B-movie.name
+mes#FW	I-movie.name
+set#NN	$-set#NN
+
+who#WP	$-who#WP
+was#VBD	$-was#VBD
+in#IN	$-in#IN
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+captain#NN	B-movie.name
+america#NN	I-movie.name
+
+search#NN	$-search#NN
+for#IN	$-for#IN
+despicable#JJ	B-movie.name
+me#PP	I-movie.name
+in#IN	$-in#IN
+italian#NN	B-movie.language
+
+display#VV	$-display#VV
+all#DT	$-all#DT
+details#NNS	$-details#NNS
+of#IN	$-of#IN
+original#JJ	$-original#JJ
+finding#VVG	B-movie.name
+nemo#NN	I-movie.name
+movie#NN	$-movie#NN
+
+about#RB	$-about#RB
+in#IN	B-movie.name
+july#RB	I-movie.name
+
+find#VV	$-find#VV
+trailer#NN	$-trailer#NN
+for#IN	$-for#IN
+the#DT	B-movie.name
+campaign#NN	I-movie.name
+
+director#NN	$-director#NN
+of#IN	$-of#IN
+the#DT	B-movie.name
+cabin#NN	I-movie.name
+in#IN	I-movie.name
+the#DT	I-movie.name
+woods#NNS	I-movie.name
+
+find#VV	$-find#VV
+movies#NNS	$-movies#NNS
+with#IN	$-with#IN
+r#NN	B-rating.name
+ratings#NNS	$-ratings#NNS
+
+what#WP	$-what#WP
+language#NN	$-language#NN
+is#VBZ	$-is#VBZ
+spoken#VVN	$-spoken#VVN
+in#IN	$-in#IN
+indochine#NN	B-movie.name
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+a#DT	$-a#DT
+list#NN	$-list#NN
+of#IN	$-of#IN
+disney#NN	B-producer.name
+movies#NNS	$-movies#NNS
+
+what#WP	$-what#WP
+was#VBD	$-was#VBD
+the#DT	$-the#DT
+budget#NN	$-budget#NN
+for#IN	$-for#IN
+old#JJ	B-movie.name
+school#NN	I-movie.name
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+the#DT	$-the#DT
+rating#NN	$-rating#NN
+for#IN	$-for#IN
+cabin#NN	I-movie.name
+in#IN	I-movie.name
+the#DT	I-movie.name
+woods#NNS	I-movie.name
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+the#DT	$-the#DT
+movies#NNS	$-movies#NNS
+directed#VVN	$-directed#VVN
+by#IN	$-by#IN
+trivikram#NN	B-director.name
+
+show#NN	$-show#NN
+information#NN	$-information#NN
+for#IN	$-for#IN
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+title#NN	$-title#NN
+in#IN	B-movie.name
+july#NN	I-movie.name
+with#IN	$-with#IN
+moritz#NP	B-actor.name
+bleibtreu#NP	I-actor.name
+
+name#VV	$-name#VV
+the#DT	$-the#DT
+director#NN	$-director#NN
+of#IN	$-of#IN
+sleepless#JJ	B-movie.name
+in#IN	I-movie.name
+seattle#NN	I-movie.name
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+the#DT	$-the#DT
+movies#NNS	$-movies#NNS
+released#VVN	$-released#VVN
+in#IN	$-in#IN
+london#NN	B-movie.release_region
+
+who#WP	$-who#WP
+is#VBZ	$-is#VBZ
+chewbakka#NN	B-character.name
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+movies#NNS	$-movies#NNS
+in#IN	$-in#IN
+japanese#NN	B-movie.language
+
+how#WRB	$-how#WRB
+do#VVP	$-do#VVP
+they#PP	$-they#PP
+determine#VV	$-determine#VV
+the#DT	$-the#DT
+rating#NN	$-rating#NN
+levels#NNS	$-levels#NNS
+for#IN	$-for#IN
+movies#NNS	$-movies#NNS
+
+reviews#NNS	$-reviews#NNS
+for#IN	$-for#IN
+life#NN	B-movie.name
+is#VBZ	I-movie.name
+beautiful#JJ	I-movie.name
+
+can#MD	$-can#MD
+i#NNS	$-i#NNS
+see#VV	$-see#VV
+who#WP	$-who#WP
+produced#VVD	$-produced#VVD
+possesion#NN	B-movie.name
+
+can#MD	$-can#MD
+you#PP	$-you#PP
+find#VV	$-find#VV
+me#PP	$-me#PP
+movies#NNS	$-movies#NNS
+in#IN	$-in#IN
+russian#JJ	B-movie.language
+
+middle#JJ	$-middle#JJ
+aged#VVN	$-aged#VVN
+white#JJ	$-white#JJ
+actors#NNS	$-actors#NNS
+
+display#NN	$-display#NN
+images#NNS	$-images#NNS
+of#IN	$-of#IN
+actor#NN	$-actor#NN
+will#MD	B-person.name
+ferrell#VV	I-person.name
+in#IN	$-in#IN
+the#DT	$-the#DT
+news#NN	$-news#NN
+
+find#VV	$-find#VV
+information#NN	$-information#NN
+on#IN	$-on#IN
+dirty#JJ	B-movie.name
+dancing#NN	I-movie.name
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+childrens#NN	$-childrens#NN
+movies#NNS	$-movies#NNS
+
+what#WP	$-what#WP
+movies#NNS	$-movies#NNS
+were#VBD	$-were#VBD
+released#VVN	$-released#VVN
+nine#CD	B-movie.release_date
+fourteen#NN	I-movie.release_date
+twelve#NN	I-movie.release_date
+
+tell#VV	$-tell#VV
+me#PP	$-me#PP
+about#IN	$-about#IN
+the#DT	$-the#DT
+revenue#NN	$-revenue#NN
+generated#VVN	$-generated#VVN
+by#IN	$-by#IN
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+avatar#NN	B-movie.name
+
+what#WP	$-what#WP
+movies#NNS	$-movies#NNS
+has#VHZ	$-has#VHZ
+spielberg#RB	B-producer.name
+been#VBN	$-been#VBN
+a#DT	$-a#DT
+producer#NN	$-producer#NN
+on#RB	$-on#RB
+
+cast#NN	$-cast#NN
+and#CC	$-and#CC
+crew#NN	$-crew#NN
+of#IN	$-of#IN
+the#DT	B-movie.name
+campaign#NN	I-movie.name
+
+what#WP	$-what#WP
+country#NN	$-country#NN
+is#VBZ	$-is#VBZ
+movie#NN	$-movie#NN
+from#IN	$-from#IN
+
+what#WP	$-what#WP
+was#VBD	$-was#VBD
+black#JJ	B-movie.name
+swan#NN	I-movie.name
+'s#POS	$-'s#POS
+revenue#NN	$-revenue#NN
+
+which#WDT	$-which#WDT
+female#JJ	$-female#JJ
+actors#NNS	$-actors#NNS
+starred#VVN	$-starred#VVN
+in#IN	$-in#IN
+hitch#NN	B-movie.name
+
+flags#NNS	$-flags#NNS
+
+i#NP	$-i#NP
+would#MD	$-would#MD
+like#VV	$-like#VV
+to#TO	$-to#TO
+know#VV	$-know#VV
+names#NNS	$-names#NNS
+of#IN	$-of#IN
+some#DT	$-some#DT
+of#IN	$-of#IN
+the#DT	$-the#DT
+japanese#JJ	B-country.name
+movies#NNS	$-movies#NNS
+
+what#WP	$-what#WP
+are#VBP	$-are#VBP
+some#DT	$-some#DT
+movies#NNS	$-movies#NNS
+that#WDT	$-that#WDT
+involve#VVP	$-involve#VVP
+time#NN	B-movie.subject
+travel#NN	I-movie.subject
+
+please#UH	$-please#UH
+tell#VV	$-tell#VV
+me#PP	$-me#PP
+when#WRB	$-when#WRB
+was#VBD	$-was#VBD
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+gone#VVN	B-movie.name
+with#IN	I-movie.name
+the#DT	I-movie.name
+wind#NN	I-movie.name
+released#VVD	$-released#VVD
+
+find#VV	$-find#VV
+movies#NNS	$-movies#NNS
+about#IN	$-about#IN
+gardening#NN	B-movie.subject
+and#CC	I-movie.subject
+lawn#NN	I-movie.subject
+care#NN	I-movie.subject
+
+who#WP	$-who#WP
+are#VBP	$-are#VBP
+all#RB	$-all#RB
+of#IN	$-of#IN
+the#DT	$-the#DT
+actors#NNS	$-actors#NNS
+in#IN	$-in#IN
+hitch#NN	B-movie.name
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+names#NNS	$-names#NNS
+of#IN	$-of#IN
+some#DT	$-some#DT
+romantic#JJ	B-movie.genre
+movies#NNS	$-movies#NNS
+having#VHG	$-having#VHG
+a#DT	$-a#DT
+pg#NN	B-rating.name
+thirteen#CD	I-rating.name
+rating#NN	$-rating#NN
+
+what#WP	$-what#WP
+is#VBZ	$-is#VBZ
+the#DT	$-the#DT
+name#NN	$-name#NN
+of#IN	$-of#IN
+the#DT	$-the#DT
+person#NN	$-person#NN
+who#WP	$-who#WP
+made#VVD	$-made#VVD
+et#NP	B-movie.name
+
+release#NN	$-release#NN
+date#NN	$-date#NN
+
+i#NNS	$-i#NNS
+am#VBP	$-am#VBP
+interested#JJ	$-interested#JJ
+in#IN	$-in#IN
+what#WP	$-what#WP
+cabin#NN	B-movie.name
+in#IN	I-movie.name
+the#DT	I-movie.name
+woods#NNS	I-movie.name
+made#VVN	$-made#VVN
+in#IN	$-in#IN
+revenue#NN	$-revenue#NN
+
+what#WP	$-what#WP
+language#NN	$-language#NN
+was#VBD	$-was#VBD
+aguirre#JJ	B-movie.name
+wrath#NN	I-movie.name
+of#IN	I-movie.name
+god#NN	I-movie.name
+in#IN	$-in#IN
+
+show#NN	$-show#NN
+jason#NN	B-actor.name
+statham#NN	I-actor.name
+movies#NNS	$-movies#NNS
+
+where#WRB	$-where#WRB
+is#VBZ	$-is#VBZ
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+campaign#NN	I-movie.name
+playing#NN	$-playing#NN
+
+who#WP	$-who#WP
+was#VBD	$-was#VBD
+in#IN	$-in#IN
+life#NN	B-movie.name
+is#VBZ	I-movie.name
+beautiful#JJ	I-movie.name
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+related#VVN	$-related#VVN
+movies#NNS	$-movies#NNS
+like#IN	$-like#IN
+in#IN	B-movie.name
+july#NN	I-movie.name
+
+get#VV	$-get#VV
+films#NNS	$-films#NNS
+from#IN	$-from#IN
+the#DT	B-country.name
+united#VVN	I-country.name
+kingdom#NN	I-country.name
+
+frank#JJ	B-director.name
+capra#NN	I-director.name
+movies#NNS	$-movies#NNS
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+information#NN	$-information#NN
+on#IN	$-on#IN
+movie#NN	$-movie#NN
+
+how#WRB	$-how#WRB
+much#JJ	$-much#JJ
+money#NN	$-money#NN
+did#VVD	$-did#VVD
+iron#NN	B-movie.name
+man#NN	I-movie.name
+gross#JJ	$-gross#JJ
+
+can#MD	$-can#MD
+you#PP	$-you#PP
+show#VV	$-show#VV
+me#PP	$-me#PP
+spanish#JJ	B-movie.language
+movies#NNS	$-movies#NNS
+
+list#VV	$-list#VV
+all#DT	$-all#DT
+brad#NN	B-actor.name
+pitt#NN	I-actor.name
+'s#POS	$-'s#POS
+movies#NNS	$-movies#NNS
+
+search#NN	$-search#NN
+director#NN	$-director#NN
+of#IN	$-of#IN
+the#DT	B-movie.name
+exorcist#NN	I-movie.name
+
+when#WRB	$-when#WRB
+is#VBZ	$-is#VBZ
+will#NN	B-person.name
+ferrell#NN	I-person.name
+'s#POS	$-'s#POS
+birthday#NN	$-birthday#NN
+
+r#SYM	B-rating.name
+rated#VVN	$-rated#VVN
+movies#NNS	$-movies#NNS
+
+list#NN	$-list#NN
+all#RB	$-all#RB
+of#IN	$-of#IN
+the#DT	$-the#DT
+movies#NNS	$-movies#NNS
+directed#VVN	$-directed#VVN
+by#IN	$-by#IN
+james#NNS	B-director.name
+cameron#NN	I-director.name
+
+what#WP	$-what#WP
+language#NN	$-language#NN
+is#VBZ	$-is#VBZ
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+elling#VVG	B-movie.name
+in#IN	$-in#IN
+
+what#WP	$-what#WP
+makes#VVZ	$-makes#VVZ
+a#DT	$-a#DT
+movie#NN	$-movie#NN
+get#VV	$-get#VV
+an#DT	$-an#DT
+r#NN	B-rating.name
+rating#NN	$-rating#NN
+
+is#VBZ	$-is#VBZ
+hotel#NN	B-movie.name
+transylavania#NN	I-movie.name
+good#JJ	$-good#JJ
+for#IN	$-for#IN
+adults#NNS	$-adults#NNS
+
+get#VV	$-get#VV
+all#DT	$-all#DT
+italian#JJ	B-movie.language
+language#NN	I-movie.language
+movies#NNS	$-movies#NNS
+
+cast#NN	$-cast#NN
+and#CC	$-and#CC
+crew#NN	$-crew#NN
+of#IN	$-of#IN
+hitch#NN	B-movie.name
+
+list#NN	$-list#NN
+movies#NNS	$-movies#NNS
+about#IN	$-about#IN
+war#NN	B-movie.subject
+
+list#NN	$-list#NN
+of#IN	$-of#IN
+all#DT	$-all#DT
+french#JJ	B-movie.language
+speaking#NN	I-movie.language
+films#NNS	$-films#NNS
+
+how#WRB	$-how#WRB
+do#VVP	$-do#VVP
+people#NNS	$-people#NNS
+live#VVP	$-live#VVP
+in#IN	$-in#IN
+japan#NN	B-country.name
+
+show#NN	$-show#NN
+movies#NNS	$-movies#NNS
+concerning#VVG	$-concerning#VVG
+war#NN	B-movie.subject
+
+i#NP	$-i#NP
+would#MD	$-would#MD
+like#VV	$-like#VV
+more#JJR	$-more#JJR
+information#NN	$-information#NN
+about#IN	$-about#IN
+lionsgate#NNS	B-producer.name
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+martin#NN	B-director.name
+scorcese#NN	I-director.name
+'s#POS	$-'s#POS
+best#JJS	$-best#JJS
+movies#NNS	$-movies#NNS
+
+what#WP	$-what#WP
+was#VBD	$-was#VBD
+titanic#JJ	B-movie.name
+'s#POS	$-'s#POS
+budget#NN	$-budget#NN
+
+what#WP	$-what#WP
+was#VBD	$-was#VBD
+the#DT	$-the#DT
+budget#NN	$-budget#NN
+for#IN	$-for#IN
+top#JJ	B-movie.name
+gun#NN	I-movie.name
+
+how#WRB	$-how#WRB
+much#RB	$-much#RB
+did#VVD	$-did#VVD
+it#PP	$-it#PP
+cost#VVD	$-cost#VVD
+to#TO	$-to#TO
+produce#VV	$-produce#VV
+the#DT	B-movie.name
+deer#NN	I-movie.name
+hunter#NN	I-movie.name
+
+list#VV	$-list#VV
+some#DT	$-some#DT
+sports#NNS	B-movie.subject
+movies#NNS	$-movies#NNS
+
+i#NNS	$-i#NNS
+want#VVP	$-want#VVP
+you#PP	$-you#PP
+to#TO	$-to#TO
+pull#VV	$-pull#VV
+up#RP	$-up#RP
+movies#NNS	$-movies#NNS
+from#IN	$-from#IN
+nine#CD	B-movie.release_date
+fourteen#NN	I-movie.release_date
+
+who#WP	$-who#WP
+is#VBZ	$-is#VBZ
+in#IN	$-in#IN
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+two#CD	B-movie.name
+can#MD	I-movie.name
+play#VV	I-movie.name
+that#DT	I-movie.name
+game#NN	I-movie.name
+
+i#NP	$-i#NP
+need#NN	$-need#NN
+page#NN	$-page#NN
+on#IN	$-on#IN
+life#NN	B-movie.name
+is#VBZ	I-movie.name
+beautiful#JJ	I-movie.name
+
+bring#VV	$-bring#VV
+up#RP	$-up#RP
+all#DT	$-all#DT
+diving#JJ	B-movie.subject
+movies#NNS	$-movies#NNS
+
+movie#NN	$-movie#NN
+made#VVD	$-made#VVD
+
+how#WRB	$-how#WRB
+can#MD	$-can#MD
+i#NNS	$-i#NNS
+get#VV	$-get#VV
+more#JJR	$-more#JJR
+information#NN	$-information#NN
+on#IN	$-on#IN
+finding#VVG	B-movie.name
+nemo#NN	I-movie.name
+
+find#VV	$-find#VV
+french#NN	B-country.name
+movies#NNS	$-movies#NNS
+
+find#VV	$-find#VV
+the#DT	$-the#DT
+producer#NN	$-producer#NN
+of#IN	$-of#IN
+gone#VVN	B-movie.name
+with#IN	I-movie.name
+the#DT	I-movie.name
+wind#NN	I-movie.name
+
+where#WRB	$-where#WRB
+did#VVD	$-did#VVD
+la#DT	B-movie.name
+moustache#NN	I-movie.name
+take#VV	$-take#VV
+place#NN	$-place#NN
+
+when#WRB	$-when#WRB
+was#VBD	$-was#VBD
+black#JJ	B-movie.name
+beauty#NN	I-movie.name
+released#VVN	$-released#VVN
+
+find#VV	$-find#VV
+pirates#NNS	B-movie.name
+of#IN	I-movie.name
+the#DT	I-movie.name
+caribean#NN	I-movie.name
+in#IN	$-in#IN
+french#NNS	B-movie.language
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+movies#NNS	$-movies#NNS
+with#IN	$-with#IN
+a#DT	$-a#DT
+four#CD	B-movie.star_rating
+star#NN	$-star#NN
+rating#NN	$-rating#NN
+
+i#NNS	$-i#NNS
+need#VVP	$-need#VVP
+to#TO	$-to#TO
+know#VV	$-know#VV
+when#WRB	$-when#WRB
+was#VBD	$-was#VBD
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+avatar#NN	B-movie.name
+released#VVD	$-released#VVD
+
+were#VBD	$-were#VBD
+there#RB	$-there#RB
+any#DT	$-any#DT
+movies#NNS	$-movies#NNS
+that#WDT	$-that#WDT
+came#VVD	$-came#VVD
+out#RP	$-out#RP
+this#DT	B-movie.release_date
+year#NN	I-movie.release_date
+filmed#VVN	$-filmed#VVN
+in#IN	$-in#IN
+france#NN	B-movie.location
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+movies#NNS	$-movies#NNS
+involving#VVG	$-involving#VVG
+car#NN	B-movie.subject
+chases#NNS	I-movie.subject
+
+display#VV	$-display#VV
+a#DT	$-a#DT
+list#NN	$-list#NN
+of#IN	$-of#IN
+2012#CD	B-movie.release_date
+movies#NNS	$-movies#NNS
+in#IN	$-in#IN
+german#NN	B-movie.language
+
+if#IN	$-if#IN
+he#PP	$-he#PP
+was#VBD	$-was#VBD
+still#RB	$-still#RB
+making#VVG	$-making#VVG
+movies#NNS	$-movies#NNS
+would#MD	$-would#MD
+you#PP	$-you#PP
+want#VV	$-want#VV
+to#TO	$-to#TO
+help#VV	$-help#VV
+
+what#WP	$-what#WP
+are#VBP	$-are#VBP
+the#DT	$-the#DT
+reviews#NNS	$-reviews#NNS
+for#IN	$-for#IN
+house#NN	B-movie.name
+at#IN	I-movie.name
+the#DT	I-movie.name
+end#NN	I-movie.name
+of#IN	I-movie.name
+the#DT	I-movie.name
+street#NN	I-movie.name
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+the#DT	$-the#DT
+top#JJ	$-top#JJ
+ten#CD	$-ten#CD
+movies#NNS	$-movies#NNS
+of#IN	$-of#IN
+last#JJ	B-movie.release_date
+year#NN	I-movie.release_date
+
+how#WRB	$-how#WRB
+much#JJ	$-much#JJ
+money#NN	$-money#NN
+did#VVD	$-did#VVD
+pretty#RB	B-movie.name
+woman#NN	I-movie.name
+take#VV	$-take#VV
+in#IN	$-in#IN
+
+how#WRB	$-how#WRB
+is#VBZ	$-is#VBZ
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+classified#VVD	$-classified#VVD
+
+who#WP	$-who#WP
+stared#VVD	$-stared#VVD
+in#IN	$-in#IN
+i#NP	B-movie.name
+love#NN	I-movie.name
+lucy#NN	I-movie.name
+
+what#WP	$-what#WP
+does#VVZ	$-does#VVZ
+the#DT	$-the#DT
+flag#NN	$-flag#NN
+of#IN	$-of#IN
+vietnam#NP	B-country.name
+look#VVP	$-look#VVP
+like#IN	$-like#IN
+
+list#NN	$-list#NN
+of#IN	$-of#IN
+french#JJ	B-movie.language
+language#NN	I-movie.language
+movies#NNS	$-movies#NNS
+
+who#WP	$-who#WP
+directed#VVD	$-directed#VVD
+the#DT	$-the#DT
+nineteen#CD	B-movie.release_date
+seventy#CD	I-movie.release_date
+seven#CD	I-movie.release_date
+star#JJ	B-movie.name
+wars#NNS	I-movie.name
+movie#NN	$-movie#NN
+
+what#WP	$-what#WP
+movies#NNS	$-movies#NNS
+are#VBP	$-are#VBP
+in#IN	$-in#IN
+bengali#NNS	B-movie.language
+
+movies#NNS	$-movies#NNS
+from#IN	$-from#IN
+the#DT	B-country.name
+uk#NN	I-country.name
+
+what#WP	$-what#WP
+movies#NNS	$-movies#NNS
+has#VHZ	$-has#VHZ
+steven#JJ	B-director.name
+spielberg#NN	I-director.name
+done#VVN	$-done#VVN
+
+did#VVD	$-did#VVD
+you#PP	$-you#PP
+help#VV	$-help#VV
+with#IN	$-with#IN
+anything#NN	$-anything#NN
+other#JJ	$-other#JJ
+than#IN	$-than#IN
+the#DT	$-the#DT
+script#NN	$-script#NN
+
+movies#NNS	$-movies#NNS
+from#IN	$-from#IN
+the#DT	B-country.name
+us#PP	I-country.name
+
+did#VVD	$-did#VVD
+rob#VV	B-director.name
+reiner#NP	I-director.name
+direct#VV	$-direct#VV
+any#DT	$-any#DT
+movies#NNS	$-movies#NNS
+
+what#WP	$-what#WP
+movies#NNS	$-movies#NNS
+can#MD	B-rating.name
+young#JJ	I-rating.name
+children#NNS	I-rating.name
+watch#VVP	I-rating.name
+
+are#VBP	$-are#VBP
+there#RB	$-there#RB
+any#DT	$-any#DT
+movies#NNS	$-movies#NNS
+made#VVN	$-made#VVN
+in#IN	$-in#IN
+spain#NN	B-country.name
+
+who#WP	$-who#WP
+stars#VVZ	$-stars#VVZ
+in#IN	$-in#IN
+in#IN	B-movie.name
+july#NN	I-movie.name
+
+get#VV	$-get#VV
+me#PP	$-me#PP
+the#DT	$-the#DT
+name#NN	$-name#NN
+of#IN	$-of#IN
+who#WP	$-who#WP
+directed#VVD	$-directed#VVD
+the#DT	B-movie.name
+master#NN	I-movie.name
+
+rating#NN	$-rating#NN
+of#IN	$-of#IN
+movie#NN	$-movie#NN
+
+what#WP	$-what#WP
+made#VVD	$-made#VVD
+darla#NN	B-producer.name
+anderson#NN	I-producer.name
+become#VVP	$-become#VVP
+a#DT	$-a#DT
+producer#NN	$-producer#NN
+
+what#WP	$-what#WP
+movies#NNS	$-movies#NNS
+have#VHP	$-have#VHP
+christian#JJ	B-actor.name
+bale#NN	I-actor.name
+played#VVN	$-played#VVN
+in#IN	$-in#IN
+
+list#NN	$-list#NN
+movies#NNS	$-movies#NNS
+directed#VVN	$-directed#VVN
+by#IN	$-by#IN
+james#NNS	B-director.name
+cameron#NN	I-director.name
+
+cast#NN	$-cast#NN
+and#CC	$-and#CC
+crew#NN	$-crew#NN
+for#IN	$-for#IN
+hitch#NN	B-movie.name
+
+show#VV	$-show#VV
+only#RB	$-only#RB
+horror#NN	B-movie.genre
+movies#NNS	$-movies#NNS
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+the#DT	$-the#DT
+movies#NNS	$-movies#NNS
+rating#NN	$-rating#NN
+pg#NN	B-rating.name
+
+how#WRB	$-how#WRB
+many#JJ	$-many#JJ
+movies#NNS	$-movies#NNS
+has#VHZ	$-has#VHZ
+woody#JJ	B-director.name
+allen#NN	I-director.name
+directed#VVD	$-directed#VVD
+
+house#NN	B-movie.name
+at#IN	I-movie.name
+the#DT	I-movie.name
+end#NN	I-movie.name
+of#IN	I-movie.name
+the#DT	I-movie.name
+street#NN	I-movie.name
+movie#NN	$-movie#NN
+info#NN	$-info#NN
+
+i#NP	$-i#NP
+would#MD	$-would#MD
+like#VV	$-like#VV
+to#TO	$-to#TO
+know#VV	$-know#VV
+who#WP	$-who#WP
+the#DT	$-the#DT
+director#NN	$-director#NN
+of#IN	$-of#IN
+star#NN	B-movie.name
+wars#NNS	I-movie.name
+was#VBD	$-was#VBD
+
+life#NN	B-movie.name
+is#VBZ	I-movie.name
+beautiful#JJ	I-movie.name
+movie#NN	$-movie#NN
+page#NN	$-page#NN
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+british#JJ	B-country.name
+films#NNS	$-films#NNS
+
+classic#JJ	B-movie.subject
+car#NN	I-movie.subject
+movies#NNS	$-movies#NNS
+
+i#NP	$-i#NP
+need#NN	$-need#NN
+information#NN	$-information#NN
+about#IN	$-about#IN
+the#DT	$-the#DT
+cast#NN	$-cast#NN
+reviews#VVZ	$-reviews#VVZ
+story#NN	$-story#NN
+etc#NN	$-etc#NN
+in#IN	$-in#IN
+detail#NN	$-detail#NN
+about#IN	$-about#IN
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+house#NN	B-movie.name
+at#IN	I-movie.name
+the#DT	I-movie.name
+end#NN	I-movie.name
+of#IN	I-movie.name
+the#DT	I-movie.name
+street#NN	I-movie.name
+
+find#VV	$-find#VV
+the#DT	$-the#DT
+producer#NN	$-producer#NN
+of#IN	$-of#IN
+the#DT	B-movie.name
+godfather#NN	I-movie.name
+
+what#WP	$-what#WP
+was#VBD	$-was#VBD
+star#NN	B-movie.name
+wars#NNS	I-movie.name
+budget#NN	$-budget#NN
+
+when#WRB	$-when#WRB
+is#VBZ	$-is#VBZ
+sinister#JJ	B-movie.name
+hitting#VVG	$-hitting#VVG
+theaters#NNS	$-theaters#NNS
+
+movies#NNS	$-movies#NNS
+by#IN	$-by#IN
+mel#NN	B-director.name
+gibson#NN	I-director.name
+
+what#WP	$-what#WP
+other#JJ	$-other#JJ
+movies#NNS	$-movies#NNS
+are#VBP	$-are#VBP
+about#RB	$-about#RB
+the#DT	B-movie.subject
+holocaust#NN	B-movie.subject
+similar#JJ	$-similar#JJ
+to#TO	$-to#TO
+life#NN	B-movie.name
+is#VBZ	I-movie.name
+beautiful#JJ	I-movie.name
+
+who#WP	$-who#WP
+produced#VVD	$-produced#VVD
+spaceballs#NNS	B-movie.name
+
+list#NN	$-list#NN
+spanish#NN	B-movie.language
+movies#NNS	$-movies#NNS
+
+which#WDT	$-which#WDT
+producers#NNS	$-producers#NNS
+work#VVP	$-work#VVP
+for#IN	$-for#IN
+fox#NN	B-producer.name
+
+find#VV	$-find#VV
+any#DT	$-any#DT
+movies#NNS	$-movies#NNS
+about#IN	$-about#IN
+horses#NNS	B-movie.subject
+
+what#WP	$-what#WP
+was#VBD	$-was#VBD
+the#DT	$-the#DT
+budget#NN	$-budget#NN
+for#IN	$-for#IN
+jurassic#JJ	B-movie.name
+park#NN	I-movie.name
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+videos#NNS	$-videos#NNS
+of#IN	$-of#IN
+steven#JJ	B-person.name
+spielberg#NN	I-person.name
+on#IN	$-on#IN
+the#DT	$-the#DT
+red#JJ	$-red#JJ
+carpet#NN	$-carpet#NN
+with#IN	$-with#IN
+his#PP$	$-his#PP$
+wife#NN	$-wife#NN
+
+list#NN	$-list#NN
+of#IN	$-of#IN
+movies#NNS	$-movies#NNS
+directed#VVN	$-directed#VVN
+by#IN	$-by#IN
+john#NN	B-director.name
+paul#NNS	I-director.name
+
+what#WP	$-what#WP
+movies#NNS	$-movies#NNS
+are#VBP	$-are#VBP
+related#VVN	$-related#VVN
+to#TO	$-to#TO
+in#IN	B-movie.name
+july#RB	I-movie.name
+
+which#WDT	$-which#WDT
+movies#NNS	$-movies#NNS
+are#VBP	$-are#VBP
+originally#RB	$-originally#RB
+in#IN	$-in#IN
+a#DT	B-movie.language
+foreign#JJ	I-movie.language
+language#NN	I-movie.language
+
+are#VBP	$-are#VBP
+there#RB	$-there#RB
+any#DT	$-any#DT
+danish#JJ	B-movie.language
+language#NN	I-movie.language
+films#NNS	$-films#NNS
+around#RB	$-around#RB
+
+pg-13#JJ	B-rating.name
+movies#NNS	$-movies#NNS
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+the#DT	$-the#DT
+rated#VVN	$-rated#VVN
+r#NN	B-rating.name
+movie#NN	$-movie#NN
+label#NN	$-label#NN
+
+what#WP	$-what#WP
+date#NN	$-date#NN
+does#VVZ	$-does#VVZ
+omg#JJ	B-movie.name
+oh#UH	I-movie.name
+my#PP$	I-movie.name
+god#NN	I-movie.name
+!#SENT	I-movie.name
+come#VVN	$-come#VVN
+out#RP	$-out#RP
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+g#NN	B-rating.name
+rated#VVN	$-rated#VVN
+movies#NNS	$-movies#NNS
+
+how#WRB	$-how#WRB
+much#JJ	$-much#JJ
+money#NN	$-money#NN
+was#VBD	$-was#VBD
+budgeted#VVN	$-budgeted#VVN
+for#IN	$-for#IN
+the#DT	$-the#DT
+avatar#NN	B-movie.name
+movie#NN	$-movie#NN
+
+i#NNS	$-i#NNS
+want#VVP	$-want#VVP
+to#TO	$-to#TO
+find#VV	$-find#VV
+zombie#NN	B-movie.subject
+movies#NNS	$-movies#NNS
+
+find#VV	$-find#VV
+pg#NN	B-rating.name
+thirteen#CD	I-rating.name
+movies#NNS	$-movies#NNS
+
+find#VV	$-find#VV
+me#PP	$-me#PP
+movies#NNS	$-movies#NNS
+by#IN	$-by#IN
+jj#NN	B-director.name
+abrams#NNS	I-director.name
+
+i#NNS	$-i#NNS
+need#VVP	$-need#VVP
+to#TO	$-to#TO
+know#VV	$-know#VV
+the#DT	$-the#DT
+rating#NN	$-rating#NN
+of#IN	$-of#IN
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+avatar#NN	B-movie.name
+
+i#NNS	$-i#NNS
+need#VVP	$-need#VVP
+to#TO	$-to#TO
+know#VV	$-know#VV
+what#WP	$-what#WP
+is#VBZ	$-is#VBZ
+the#DT	$-the#DT
+language#NN	$-language#NN
+of#IN	$-of#IN
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+hero#NN	B-movie.name
+
+what#WP	$-what#WP
+is#VBZ	$-is#VBZ
+the#DT	$-the#DT
+ratings#NNS	$-ratings#NNS
+of#IN	$-of#IN
+action#NN	B-movie.genre
+movies#NNS	$-movies#NNS
+
+what#WP	$-what#WP
+is#VBZ	$-is#VBZ
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+the#DT	B-movie.name
+campaign#NN	I-movie.name
+about#RB	$-about#RB
+
+i#NNS	$-i#NNS
+want#VVP	$-want#VVP
+to#TO	$-to#TO
+know#VV	$-know#VV
+when#WRB	$-when#WRB
+step#NN	B-movie.name
+up#RB	I-movie.name
+was#VBD	$-was#VBD
+released#VVN	$-released#VVN
+
+twilight#NN	B-movie.name
+revenue#NN	$-revenue#NN
+
+i#NP	$-i#NP
+would#MD	$-would#MD
+like#VV	$-like#VV
+info#NN	$-info#NN
+on#IN	$-on#IN
+the#DT	$-the#DT
+movie#NN	$-movie#NN
+life#NN	B-movie.name
+is#VBZ	I-movie.name
+beautiful#JJ	I-movie.name
+
+how#WRB	$-how#WRB
+much#RB	$-much#RB
+did#VVD	$-did#VVD
+titanic#JJ	B-movie.name
+cost#NN	$-cost#NN
+to#TO	$-to#TO
+make#VV	$-make#VV
+
+show#VV	$-show#VV
+me#PP	$-me#PP
+movies#NNS	$-movies#NNS
+about#IN	$-about#IN
+zombies#NNS	B-movie.subject
+
