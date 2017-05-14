@@ -1,0 +1,8201 @@
+star	star	NN	sta	tar
+of	of	IN	O	O
+thor	thor	NN	tho	hor
+
+who	who	WP	who	who
+is	be	VBZ	O	O
+in	in	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+the	the	DT	the	the
+campaign	campaign	NN	cam	ign
+
+list	list	VV	lis	ist
+the	the	DT	the	the
+cast	cast	NN	cas	ast
+of	of	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+the	the	DT	the	the
+campaign	campaign	NN	cam	ign
+
+who	who	WP	who	who
+was	be	VBD	was	was
+in	in	IN	O	O
+twilight	twilight	NN	twi	ght
+
+who	who	WP	who	who
+is	be	VBZ	O	O
+in	in	IN	O	O
+vulguria	vulguria	NN	vul	ria
+
+actor	actor	NN	act	tor
+from	from	IN	fro	rom
+lost	lose	VVN	los	ost
+
+who	who	WP	who	who
+played	play	VVD	pla	yed
+in	in	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+rocky	rocky	JJ	roc	cky
+
+who	who	WP	who	who
+played	play	VVD	pla	yed
+in	in	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+captain	captain	NN	cap	ain
+america	america	NN	ame	ica
+
+cast	cast	NN	cas	ast
+and	and	CC	and	and
+crew	crew	NN	cre	rew
+for	for	IN	for	for
+in	in	IN	O	O
+july	July	NN	jul	uly
+
+who	who	WP	who	who
+is	be	VBZ	O	O
+in	in	IN	O	O
+movie	movie	NN	mov	vie
+in	in	IN	O	O
+july	july	RB	jul	uly
+
+who	who	WP	who	who
+'s	be	VBZ	O	O
+in	in	IN	O	O
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+episode	episode	NN	epi	ode
+four	four	CD	fou	our
+
+who	who	WP	who	who
+was	be	VBD	was	was
+in	in	IN	O	O
+apollo	apollo	NN	apo	llo
+thirteen	thirteen	CD	thi	een
+
+who	who	WP	who	who
+was	be	VBD	was	was
+apollo	apollo	NN	apo	llo
+thirteen	thirteen	CD	thi	een
+'s	be	VBZ	O	O
+cast	cast	VVN	cas	ast
+
+search	search	NN	sea	rch
+for	for	IN	for	for
+information	information	NN	inf	ion
+about	about	IN	abo	out
+the	the	DT	the	the
+cast	cast	NN	cas	ast
+and	and	CC	and	and
+crew	crew	NN	cre	rew
+of	of	IN	O	O
+appolo	appolo	NP	app	olo
+thirteen	thirteen	CD	thi	een
+
+i	i	NP	O	O
+would	would	MD	wou	uld
+like	like	VV	lik	ike
+to	to	TO	O	O
+know	know	VV	kno	now
+more	more	JJR	mor	ore
+about	about	IN	abo	out
+the	the	DT	the	the
+cast	cast	NN	cas	ast
+and	and	CC	and	and
+crew	crew	NN	cre	rew
+of	of	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+apollo	apollo	NN	apo	llo
+thirteen	thirteen	CD	thi	een
+
+who	who	WP	who	who
+starred	star	VVD	sta	red
+in	in	IN	O	O
+the	the	DT	the	the
+avengers	avenger	NNS	ave	ers
+
+cast	cast	VVN	cas	ast
+for	for	IN	for	for
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+actor	actor	NN	act	tor
+from	from	IN	fro	rom
+lassie	lassie	NN	las	sie
+
+list	list	NN	lis	ist
+actors	actor	NNS	act	ors
+in	in	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+midnight	midnight	NN	mid	ght
+cowboy	cowboy	NN	cow	boy
+
+dirty	dirty	JJ	dir	rty
+dancing	dancing	NN	dan	ing
+actors	actor	NNS	act	ors
+
+who	who	WP	who	who
+are	be	VBP	are	are
+cast	cast	VVN	cas	ast
+and	and	CC	and	and
+crew	crew	NN	cre	rew
+of	of	IN	O	O
+dirty	dirty	JJ	dir	rty
+dancing	dancing	NN	dan	ing
+
+who	who	WP	who	who
+was	be	VBD	was	was
+in	in	IN	O	O
+hitch	hitch	NN	hit	tch
+
+who	who	WP	who	who
+is	be	VBZ	O	O
+in	in	IN	O	O
+the	the	DT	the	the
+cast	cast	NN	cas	ast
+of	of	IN	O	O
+hitch	hitch	NN	hit	tch
+
+star	star	NN	sta	tar
+of	of	IN	O	O
+facts	fact	NNS	fac	cts
+of	of	IN	O	O
+life	life	NN	lif	ife
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movie	movie	NN	mov	vie
+credits	credit	NNS	cre	its
+
+who	who	WP	who	who
+does	do	VVZ	doe	oes
+the	the	DT	the	the
+voices	voice	NNS	voi	ces
+for	for	IN	for	for
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+
+find	find	VV	fin	ind
+movie	movie	NN	mov	vie
+actors	actor	NNS	act	ors
+
+show	show	NN	sho	how
+credits	credit	NNS	cre	its
+-	-	:	O	O
+forager	forager	NN	for	ger
+
+star	star	NN	sta	tar
+of	of	IN	O	O
+modern	modern	JJ	mod	ern
+family	family	NN	fam	ily
+
+look	look	VV	loo	ook
+up	up	RP	O	O
+information	information	NN	inf	ion
+about	about	IN	abo	out
+the	the	DT	the	the
+cast	cast	NN	cas	ast
+crew	crew	NN	cre	rew
+of	of	IN	O	O
+go	go	NN	O	O
+
+find	find	VV	fin	ind
+information	information	NN	inf	ion
+about	about	IN	abo	out
+the	the	DT	the	the
+cast	cast	NN	cas	ast
+and	and	CC	and	and
+crew	crew	NN	cre	rew
+of	of	IN	O	O
+go	go	NN	O	O
+
+who	who	WP	who	who
+was	be	VBD	was	was
+in	in	IN	O	O
+the	the	DT	the	the
+cast	cast	NN	cas	ast
+of	of	IN	O	O
+go	go	NN	O	O
+
+can	can	MD	can	can
+you	you	PP	you	you
+find	find	VV	fin	ind
+the	the	DT	the	the
+lead	lead	JJ	lea	ead
+actor	actor	NN	act	tor
+in	in	IN	O	O
+pretty	pretty	JJ	pre	tty
+women	woman	NNS	wom	men
+
+what	what	WP	wha	hat
+are	be	VBP	are	are
+the	the	DT	the	the
+actors	actor	NNS	act	ors
+names	name	NNS	nam	mes
+and	and	CC	and	and
+parts	part	NNS	par	rts
+in	in	IN	O	O
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+searching	search	VVG	sea	ing
+for	for	IN	for	for
+names	name	NNS	nam	mes
+of	of	IN	O	O
+crew	crew	NN	cre	rew
+members	member	NNS	mem	ers
+of	of	IN	O	O
+appollo	appollo	NP	app	llo
+thirteen	thirteen	CD	thi	een
+
+budget	budget	NN	bud	get
+for	for	IN	for	for
+dark	dark	JJ	dar	ark
+knight	knight	NN	kni	ght
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+the	the	DT	the	the
+budget	budget	NN	bud	get
+for	for	IN	for	for
+the	the	DT	the	the
+godfather	godfather	NN	god	her
+
+budget	budget	NN	bud	get
+for	for	IN	for	for
+twilight	twilight	NN	twi	ght
+
+please	please	UH	ple	ase
+look	look	VV	loo	ook
+up	up	RP	O	O
+the	the	DT	the	the
+budget	budget	NN	bud	get
+of	of	IN	O	O
+step	step	NN	ste	tep
+up	up	RB	O	O
+
+budget	budget	NN	bud	get
+for	for	IN	for	for
+titanic	titanic	JJ	tit	nic
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+the	the	DT	the	the
+budget	budget	NN	bud	get
+for	for	IN	for	for
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+titanic	titanic	JJ	tit	nic
+
+budget	budget	NN	bud	get
+for	for	IN	for	for
+iron	iron	NN	iro	ron
+man	man	NN	man	man
+2	2	CD	O	O
+
+please	please	VV	ple	ase
+tell	tell	VV	tel	ell
+me	me	PP	O	O
+how	how	WRB	how	how
+much	much	JJ	muc	uch
+was	be	VBD	was	was
+the	the	DT	the	the
+budget	budget	NN	bud	get
+for	for	IN	for	for
+avatar	avatar	NN	ava	tar
+
+how	how	WRB	how	how
+much	much	JJ	muc	uch
+money	money	NN	mon	ney
+did	do	VVD	did	did
+they	they	PP	the	hey
+spend	spend	VVP	spe	end
+to	to	TO	O	O
+make	make	VV	mak	ake
+avatar	avatar	NN	ava	tar
+
+avatar	avatar	NN	ava	tar
+'s	's	POS	O	O
+budget	budget	NN	bud	get
+
+how	how	WRB	how	how
+much	much	RB	muc	uch
+did	do	VVD	did	did
+avatar	avatar	NN	ava	tar
+take	take	VV	tak	ake
+in	in	IN	O	O
+
+please	please	UH	ple	ase
+show	show	VV	sho	how
+me	me	PP	O	O
+what	what	WP	wha	hat
+the	the	DT	the	the
+budget	budget	NN	bud	get
+was	be	VBD	was	was
+for	for	IN	for	for
+avatar	avatar	NN	ava	tar
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+the	the	DT	the	the
+budget	budget	NN	bud	get
+for	for	IN	for	for
+the	the	DT	the	the
+avatar	avatar	NN	ava	tar
+movie	movie	NN	mov	vie
+
+can	can	MD	can	can
+you	you	PP	you	you
+tell	tell	VV	tel	ell
+me	me	PP	O	O
+the	the	DT	the	the
+budget	budget	NN	bud	get
+of	of	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+avatar	avatar	NN	ava	tar
+
+total	total	JJ	tot	tal
+budget	budget	NN	bud	get
+for	for	IN	for	for
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+avatar	avatar	NN	ava	tar
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+the	the	DT	the	the
+budget	budget	NN	bud	get
+for	for	IN	for	for
+batman	batman	NN	bat	man
+begins	begin	VVZ	beg	ins
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+the	the	DT	the	the
+budget	budget	NN	bud	get
+for	for	IN	for	for
+the	the	DT	the	the
+avengers	avenger	NNS	ave	ers
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+the	the	DT	the	the
+budget	budget	NN	bud	get
+for	for	IN	for	for
+gone	go	VVN	gon	one
+with	with	IN	wit	ith
+the	the	DT	the	the
+wind	wind	NN	win	ind
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+spent	spend	VVN	spe	ent
+on	on	IN	O	O
+my	my	PP$	O	O
+big	big	JJ	big	big
+fat	fat	JJ	fat	fat
+greek	Greek	NN	gre	eek
+wedding	wedding	NN	wed	ing
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+pretty	pretty	RB	pre	tty
+woman	woman	NN	wom	man
+'s	's	POS	O	O
+budget	budget	NN	bud	get
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+the	the	DT	the	the
+budget	budget	NN	bud	get
+for	for	IN	for	for
+spaceballs	Spaceball	NNS	spa	lls
+
+how	how	WRB	how	how
+many	many	JJ	man	any
+movies	movie	NNS	mov	ies
+has	have	VHZ	has	has
+kevin	kevin	NN	kev	vin
+bacon	bacon	NN	bac	con
+been	be	VBN	bee	een
+the	the	DT	the	the
+lead	lead	JJ	lea	ead
+actor	actor	NN	act	tor
+in	in	IN	O	O
+
+how	how	WRB	how	how
+many	many	JJ	man	any
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+movies	movie	NNS	mov	ies
+are	be	VBP	are	are
+there	there	RB	the	ere
+
+how	how	WRB	how	how
+many	many	JJ	man	any
+movies	movie	NNS	mov	ies
+are	be	VBP	are	are
+rated	rate	VVN	rat	ted
+g	g	NN	O	O
+
+spain	spain	NN	spa	ain
+has	have	VHZ	has	has
+how	how	WRB	how	how
+many	many	JJ	man	any
+movies	movie	NNS	mov	ies
+
+how	how	WRB	how	how
+many	many	JJ	man	any
+movies	movie	NNS	mov	ies
+has	have	VHZ	has	has
+kristen	kristen	NN	kri	ten
+stewart	stewart	NN	ste	art
+starred	star	VVN	sta	red
+in	in	IN	O	O
+
+how	how	WRB	how	how
+many	many	JJ	man	any
+movies	movie	NNS	mov	ies
+has	have	VHZ	has	has
+robert	robert	JJ	rob	ert
+wise	wise	NN	wis	ise
+directed	direct	VVD	dir	ted
+
+how	how	WRB	how	how
+many	many	JJ	man	any
+movies	movie	NNS	mov	ies
+did	do	VVD	did	did
+alfred	alfred	NN	alf	red
+hitchcock	hitchcock	NN	hit	ock
+direct	direct	JJ	dir	ect
+
+how	how	WRB	how	how
+many	many	JJ	man	any
+movies	movie	NNS	mov	ies
+has	have	VHZ	has	has
+paramount	paramount	JJ	par	unt
+done	do	VVN	don	one
+
+i	i	NP	O	O
+would	would	MD	wou	uld
+like	like	VV	lik	ike
+to	to	TO	O	O
+know	know	VV	kno	now
+the	the	DT	the	the
+name	name	NN	nam	ame
+of	of	IN	O	O
+the	the	DT	the	the
+country	country	NN	cou	try
+from	from	IN	fro	rom
+where	where	WRB	whe	ere
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+kati	kati	NN	kat	ati
+patang	patang	NN	pat	ang
+comes	come	VVZ	com	mes
+
+what	what	WP	wha	hat
+country	country	NN	cou	try
+is	be	VBZ	O	O
+bullhead	bullhead	NN	bul	ead
+
+what	what	WP	wha	hat
+country	country	NN	cou	try
+made	make	VVD	mad	ade
+black	black	JJ	bla	ack
+swan	swan	NN	swa	wan
+
+what	what	WP	wha	hat
+country	country	NN	cou	try
+was	be	VBD	was	was
+black	black	JJ	bla	ack
+swan	swan	NN	swa	wan
+from	from	IN	fro	rom
+
+what	what	WP	wha	hat
+country	country	NN	cou	try
+was	be	VBD	was	was
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+made	make	VVD	mad	ade
+
+what	what	WP	wha	hat
+country	country	NN	cou	try
+did	do	VVD	did	did
+deep	deep	JJ	dee	eep
+blue	blue	JJ	blu	lue
+sea	sea	NN	sea	sea
+come	come	VVN	com	ome
+from	from	IN	fro	rom
+
+origin	origin	NN	ori	gin
+of	of	IN	O	O
+titanic	titanic	JJ	tit	nic
+
+origin	origin	NN	ori	gin
+of	of	IN	O	O
+king	king	NN	kin	ing
+lear	lear	NN	lea	ear
+
+when	when	WRB	whe	hen
+will	will	MD	wil	ill
+top	top	JJ	top	top
+gun	gun	NN	gun	gun
+be	be	VB	O	O
+released	release	VVN	rel	sed
+
+release	release	NN	rel	ase
+year	year	NN	yea	ear
+and	and	CC	and	and
+date	date	NN	dat	ate
+for	for	IN	for	for
+casino	casino	NN	cas	ino
+
+when	when	WRB	whe	hen
+did	do	VVD	did	did
+will	will	MD	wil	ill
+ferrell	ferrell	RB	fer	ell
+begin	begin	VV	beg	gin
+acting	act	VVG	act	ing
+
+show	show	VV	sho	how
+me	me	PP	O	O
+when	when	WRB	whe	hen
+24	@card@	CD	O	O
+will	will	MD	wil	ill
+be	be	VB	O	O
+released	release	VVN	rel	sed
+
+can	can	MD	can	can
+i	i	NP	O	O
+have	have	VHP	hav	ave
+release	release	NN	rel	ase
+date	date	NN	dat	ate
+of	of	IN	O	O
+movie	movie	NN	mov	vie
+
+movie	movie	NN	mov	vie
+'s	's	POS	O	O
+release	release	NN	rel	ase
+date	date	NN	dat	ate
+
+show	show	VV	sho	how
+me	me	PP	O	O
+when	when	WRB	whe	hen
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+was	be	VBD	was	was
+made	make	VVN	mad	ade
+
+when	when	WRB	whe	hen
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+titanic	titanic	JJ	tit	nic
+was	be	VBD	was	was
+released	release	VVN	rel	sed
+
+what	what	WP	wha	hat
+year	year	NN	yea	ear
+did	do	VVD	did	did
+the	the	DT	the	the
+italian	Italian	JJ	ita	ian
+movie	movie	NN	mov	vie
+roman	roman	NN	rom	man
+holiday	holiday	NN	hol	day
+come	come	VVN	com	ome
+out	out	RP	out	out
+
+can	can	MD	can	can
+you	you	PP	you	you
+please	please	VV	ple	ase
+search	search	NN	sea	rch
+for	for	IN	for	for
+release	release	NN	rel	ase
+date	date	NN	dat	ate
+for	for	IN	for	for
+karate	karate	NN	kar	ate
+kid	kid	NN	kid	kid
+
+karate	karate	NN	kar	ate
+kid	kid	NN	kid	kid
+release	release	NN	rel	ase
+date	date	NN	dat	ate
+please	please	RB	ple	ase
+
+when	when	WRB	whe	hen
+was	be	VBD	was	was
+dirty	dirty	JJ	dir	rty
+dancing	dancing	NN	dan	ing
+released	release	VVN	rel	sed
+
+when	when	WRB	whe	hen
+was	be	VBD	was	was
+spaceballs	Spaceball	NNS	spa	lls
+released	release	VVN	rel	sed
+
+when	when	WRB	whe	hen
+was	be	VBD	was	was
+batman	batman	NN	bat	man
+released	release	VVN	rel	sed
+
+when	when	WRB	whe	hen
+was	be	VBD	was	was
+pretty	pretty	RB	pre	tty
+woman	woman	NN	wom	man
+released	release	VVN	rel	sed
+
+when	when	WRB	whe	hen
+was	be	VBD	was	was
+men	man	NNS	men	men
+in	in	IN	O	O
+black	black	JJ	bla	ack
+released	release	VVN	rel	sed
+
+when	when	WRB	whe	hen
+did	do	VVD	did	did
+kristen	Kristen	NP	kri	ten
+stewart	Stewart	NP	ste	art
+start	start	NN	sta	art
+acting	acting	NN	act	ing
+
+when	when	WRB	whe	hen
+is	be	VBZ	O	O
+possessed	possess	VVN	pos	sed
+going	go	VVG	goi	ing
+to	to	TO	O	O
+be	be	VB	O	O
+released	release	VVN	rel	sed
+
+when	when	WRB	whe	hen
+was	be	VBD	was	was
+resident	resident	JJ	res	ent
+evil	evil	NN	evi	vil
+released	release	VVN	rel	sed
+
+release	release	NN	rel	ase
+date	date	NN	dat	ate
+for	for	IN	for	for
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+when	when	WRB	whe	hen
+was	be	VBD	was	was
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+released	release	VVN	rel	sed
+
+release	release	NN	rel	ase
+date	date	NN	dat	ate
+of	of	IN	O	O
+hum	hum	NN	hum	hum
+tum	tum	NN	tum	tum
+
+when	when	WRB	whe	hen
+was	be	VBD	was	was
+freedom	freedom	NN	fre	dom
+writers	writer	NNS	wri	ers
+released	release	VVD	rel	sed
+
+when	when	WRB	whe	hen
+was	be	VBD	was	was
+avatar	avatar	NN	ava	tar
+released	release	VVN	rel	sed
+
+when	when	WRB	whe	hen
+did	do	VVD	did	did
+avatar	avatar	NN	ava	tar
+released	release	VVD	rel	sed
+
+i	i	NP	O	O
+would	would	MD	wou	uld
+like	like	VV	lik	ike
+to	to	TO	O	O
+know	know	VV	kno	now
+the	the	DT	the	the
+release	release	NN	rel	ase
+date	date	NN	dat	ate
+of	of	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+avatar	avatar	NN	ava	tar
+
+can	can	MD	can	can
+you	you	PP	you	you
+tell	tell	VV	tel	ell
+me	me	PP	O	O
+when	when	WRB	whe	hen
+was	be	VBD	was	was
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+avatar	avatar	NN	ava	tar
+released	release	VVD	rel	sed
+
+when	when	WRB	whe	hen
+was	be	VBD	was	was
+date	date	NN	dat	ate
+night	night	NN	nig	ght
+released	release	VVD	rel	sed
+
+when	when	WRB	whe	hen
+did	do	VVD	did	did
+black	black	JJ	bla	ack
+swan	swan	NN	swa	wan
+come	come	VVN	com	ome
+out	out	RP	out	out
+
+when	when	WRB	whe	hen
+did	do	VVD	did	did
+avergers	avergers	NNS	ave	ers
+come	come	VV	com	ome
+out	out	RP	out	out
+
+what	what	WP	wha	hat
+date	date	NN	dat	ate
+did	do	VVD	did	did
+the	the	DT	the	the
+amazing	amazing	JJ	ama	ing
+spiderman	spiderman	NN	spi	man
+show	show	NN	sho	how
+for	for	IN	for	for
+the	the	DT	the	the
+1st	1st	JJ	1st	1st
+time	time	NN	tim	ime
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+release	release	NN	rel	ase
+date	date	NN	dat	ate
+of	of	IN	O	O
+vulgaria	vulgaria	NN	vul	ria
+
+when	when	WRB	whe	hen
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+the	the	DT	the	the
+godfather	godfather	NN	god	her
+was	be	VBD	was	was
+released	release	VVN	rel	sed
+
+when	when	WRB	whe	hen
+does	do	VVZ	doe	oes
+looper	looper	NN	loo	per
+come	come	VV	com	ome
+out	out	RP	out	out
+
+can	can	MD	can	can
+you	you	PP	you	you
+tell	tell	VV	tel	ell
+me	me	PP	O	O
+the	the	DT	the	the
+release	release	NN	rel	ase
+date	date	NN	dat	ate
+of	of	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+barfi	barfi	NN	bar	rfi
+
+what	what	WP	wha	hat
+date	date	NN	dat	ate
+did	do	VVD	did	did
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+heroine	heroine	NN	her	ine
+come	come	VVN	com	ome
+out	out	RP	out	out
+
+when	when	WRB	whe	hen
+did	do	VVD	did	did
+the	the	DT	the	the
+house	house	NN	hou	use
+at	at	IN	O	O
+the	the	DT	the	the
+end	end	NN	end	end
+of	of	IN	O	O
+the	the	DT	the	the
+street	street	NN	str	eet
+hit	hit	NN	hit	hit
+theaters	theater	NNS	the	ers
+
+what	what	WP	wha	hat
+day	day	NN	day	day
+is	be	VBZ	O	O
+fun	fun	NN	fun	fun
+size	size	NN	siz	ize
+coming	come	VVG	com	ing
+out	out	RP	out	out
+
+what	what	WP	wha	hat
+day	day	NN	day	day
+will	will	NN	wil	ill
+django	django	NN	dja	ngo
+unchained	unchain	VVD	unc	ned
+come	come	VV	com	ome
+out	out	RP	out	out
+
+when	when	WRB	whe	hen
+will	will	MD	wil	ill
+i	i	NP	O	O
+be	be	VB	O	O
+able	able	JJ	abl	ble
+to	to	TO	O	O
+view	view	VV	vie	iew
+iron	iron	NN	iro	ron
+man	man	NN	man	man
+3	3	CD	O	O
+
+on	on	IN	O	O
+what	what	WP	wha	hat
+date	date	NN	dat	ate
+will	will	MD	wil	ill
+iron	iron	VV	iro	ron
+man	man	NN	man	man
+3	3	LS	O	O
+be	be	VB	O	O
+released	release	VVN	rel	sed
+
+who	who	WP	who	who
+directed	direct	VVD	dir	ted
+gone	go	VVN	gon	one
+with	with	IN	wit	ith
+the	the	DT	the	the
+wind	wind	NN	win	ind
+
+who	who	WP	who	who
+was	be	VBD	was	was
+the	the	DT	the	the
+director	director	NN	dir	tor
+for	for	IN	for	for
+black	black	JJ	bla	ack
+swan	swan	NN	swa	wan
+
+tell	tell	VV	tel	ell
+me	me	PP	O	O
+the	the	DT	the	the
+directed	direct	VVD	dir	ted
+of	of	IN	O	O
+black	black	JJ	bla	ack
+swan	swan	NN	swa	wan
+
+who	who	WP	who	who
+is	be	VBZ	O	O
+the	the	DT	the	the
+director	director	NN	dir	tor
+of	of	IN	O	O
+sleepless	sleepless	JJ	sle	ess
+in	in	IN	O	O
+seattle	Seattle	NN	sea	tle
+
+find	find	VV	fin	ind
+who	who	WP	who	who
+the	the	DT	the	the
+director	director	NN	dir	tor
+was	be	VBD	was	was
+in	in	IN	O	O
+men	man	NNS	men	men
+in	in	IN	O	O
+black	black	JJ	bla	ack
+3	3	CD	O	O
+
+locate	locate	VV	loc	ate
+the	the	DT	the	the
+director	director	NN	dir	tor
+who	who	WP	who	who
+created	create	VVD	cre	ted
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+men	man	NNS	men	men
+in	in	IN	O	O
+black	black	JJ	bla	ack
+3	3	CD	O	O
+
+director	director	NN	dir	tor
+of	of	IN	O	O
+titanic	titanic	JJ	tit	nic
+
+titanic	titanic	JJ	tit	nic
+director	director	NN	dir	tor
+
+avengers	avenger	NNS	ave	ers
+movie	movie	NN	mov	vie
+director	director	NN	dir	tor
+
+dirctor	dirctor	NN	dir	tor
+of	of	IN	O	O
+movie	movie	NN	mov	vie
+avengers	avenger	NNS	ave	ers
+
+who	who	WP	who	who
+was	be	VBD	was	was
+the	the	DT	the	the
+director	director	NN	dir	tor
+for	for	IN	for	for
+nacho	nacho	NN	nac	cho
+libre	libre	NN	lib	bre
+
+director	director	NN	dir	tor
+for	for	IN	for	for
+big	big	JJ	big	big
+
+who	who	WP	who	who
+was	be	VBD	was	was
+the	the	DT	the	the
+director	director	NN	dir	tor
+of	of	IN	O	O
+welcome	welcome	NN	wel	ome
+to	to	TO	O	O
+the	the	DT	the	the
+dollhouse	dollhouse	NN	dol	use
+
+who	who	WP	who	who
+directed	direct	VVD	dir	ted
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+house	house	NN	hou	use
+at	at	IN	O	O
+the	the	DT	the	the
+end	end	NN	end	end
+of	of	IN	O	O
+the	the	DT	the	the
+at	at	IN	O	O
+the	the	DT	the	the
+street	street	NN	str	eet
+
+who	who	WP	who	who
+was	be	VBD	was	was
+the	the	DT	the	the
+director	director	NN	dir	tor
+of	of	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+toy	toy	NN	toy	toy
+story	story	NN	sto	ory
+
+list	list	NN	lis	ist
+director	director	NN	dir	tor
+gilda	gilda	NN	gil	lda
+
+who	who	WP	who	who
+directed	direct	VVD	dir	ted
+field	field	NN	fie	eld
+of	of	IN	O	O
+dreams	dream	NNS	dre	ams
+
+who	who	WP	who	who
+is	be	VBZ	O	O
+the	the	DT	the	the
+second	second	JJ	sec	ond
+director	director	NN	dir	tor
+on	on	IN	O	O
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+find	find	VV	fin	ind
+director	director	NN	dir	tor
+of	of	IN	O	O
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+who	who	WP	who	who
+directed	direct	VVD	dir	ted
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+who	who	WP	who	who
+
+director	director	NN	dir	tor
+of	of	IN	O	O
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+who	who	WP	who	who
+directed	direct	VVD	dir	ted
+hitch	hitch	NN	hit	tch
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+know	know	VV	kno	now
+who	who	WP	who	who
+is	be	VBZ	O	O
+the	the	DT	the	the
+director	director	NN	dir	tor
+of	of	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+batman	batman	NN	bat	man
+
+who	who	WP	who	who
+is	be	VBZ	O	O
+director	director	NN	dir	tor
+of	of	IN	O	O
+the	the	DT	the	the
+words	word	NNS	wor	rds
+
+who	who	WP	who	who
+directed	direct	VVD	dir	ted
+million	million	CD	mil	ion
+dollar	dollar	NN	dol	lar
+baby	baby	NN	bab	aby
+
+who	who	WP	who	who
+was	be	VBD	was	was
+the	the	DT	the	the
+guy	guy	NN	guy	guy
+that	that	WDT	tha	hat
+directed	direct	VVD	dir	ted
+moneyball	moneyball	NN	mon	all
+
+who	who	WP	who	who
+did	do	VVD	did	did
+twilight	twilight	NN	twi	ght
+
+twilight	twilight	NN	twi	ght
+director	director	NN	dir	tor
+
+who	who	WP	who	who
+directed	direct	VVD	dir	ted
+twilight	twilight	NN	twi	ght
+
+who	who	WP	who	who
+directed	direct	VVD	dir	ted
+twilight	twilight	NN	twi	ght
+
+who	who	WP	who	who
+is	be	VBZ	O	O
+the	the	DT	the	the
+director	director	NN	dir	tor
+of	of	IN	O	O
+hum	hum	NN	hum	hum
+tum	tum	NN	tum	tum
+
+look	look	VV	loo	ook
+for	for	IN	for	for
+the	the	DT	the	the
+director	director	NN	dir	tor
+of	of	IN	O	O
+step	step	NN	ste	tep
+up	up	RB	O	O
+
+please	please	UH	ple	ase
+find	find	VV	fin	ind
+the	the	DT	the	the
+director	director	NN	dir	tor
+of	of	IN	O	O
+freedom	freedom	NN	fre	dom
+writers	writer	NNS	wri	ers
+
+find	find	VV	fin	ind
+the	the	DT	the	the
+director	director	NN	dir	tor
+of	of	IN	O	O
+freedom	freedom	NN	fre	dom
+writers	writer	NNS	wri	ers
+
+look	look	VV	loo	ook
+up	up	RP	O	O
+the	the	DT	the	the
+director	director	NN	dir	tor
+of	of	IN	O	O
+freedom	freedom	NN	fre	dom
+writers	writer	NNS	wri	ers
+
+find	find	VV	fin	ind
+the	the	DT	the	the
+director	director	NN	dir	tor
+of	of	IN	O	O
+freedom	freedom	NN	fre	dom
+writers	writer	NNS	wri	ers
+
+who	who	WP	who	who
+directed	direct	VVD	dir	ted
+baby	baby	NN	bab	aby
+mama	mama	NN	mam	ama
+
+godfather	godfather	NN	god	her
+director	director	NN	dir	tor
+
+show	show	VV	sho	how
+me	me	PP	O	O
+who	who	WP	who	who
+directed	direct	VVD	dir	ted
+the	the	DT	the	the
+sound	sound	NN	sou	und
+of	of	IN	O	O
+music	music	NN	mus	sic
+
+who	who	WP	who	who
+directed	direct	VVD	dir	ted
+the	the	DT	the	the
+sound	sound	NN	sou	und
+of	of	IN	O	O
+music	music	NN	mus	sic
+
+who	who	WP	who	who
+directed	direct	VVD	dir	ted
+the	the	DT	the	the
+sound	sound	NN	sou	und
+of	of	IN	O	O
+music	music	NN	mus	sic
+
+find	find	VV	fin	ind
+the	the	DT	the	the
+name	name	NN	nam	ame
+of	of	IN	O	O
+the	the	DT	the	the
+director	director	NN	dir	tor
+of	of	IN	O	O
+return	return	NN	ret	urn
+
+show	show	NN	sho	how
+movie	movie	NN	mov	vie
+avengers	avenger	NNS	ave	ers
+director	director	NN	dir	tor
+name	name	NN	nam	ame
+
+name	name	VV	nam	ame
+the	the	DT	the	the
+director	director	NN	dir	tor
+in	in	IN	O	O
+sleepless	sleepless	JJ	sle	ess
+in	in	IN	O	O
+seattle	Seattle	NN	sea	tle
+
+what	what	WP	wha	hat
+'s	be	VBZ	O	O
+the	the	DT	the	the
+genre	genre	NN	gen	nre
+for	for	IN	for	for
+black	black	JJ	bla	ack
+swan	swan	NN	swa	wan
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+black	black	JJ	bla	ack
+swan	swan	NN	swa	wan
+'s	's	POS	O	O
+genre	genre	NN	gen	nre
+
+what	what	WP	wha	hat
+genre	genre	NN	gen	nre
+is	be	VBZ	O	O
+parenthood	parenthood	NN	par	ood
+
+what	what	WP	wha	hat
+kind	kind	NN	kin	ind
+of	of	IN	O	O
+movie	movie	NN	mov	vie
+is	be	VBZ	O	O
+parenthood	parenthood	NN	par	ood
+
+genre	genre	NN	gen	nre
+for	for	IN	for	for
+pride	pride	NN	pri	ide
+and	and	CC	and	and
+prejudice	prejudice	NN	pre	ice
+
+can	can	MD	can	can
+you	you	PP	you	you
+tell	tell	VV	tel	ell
+me	me	PP	O	O
+the	the	DT	the	the
+genre	genre	NN	gen	nre
+of	of	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+lawless	lawless	JJ	law	ess
+
+show	show	VV	sho	how
+me	me	PP	O	O
+what	what	WP	wha	hat
+genre	genre	NN	gen	nre
+does	do	VVZ	doe	oes
+movie	movie	NN	mov	vie
+lawless	lawless	JJ	law	ess
+belongs	belong	VVZ	bel	ngs
+to	to	TO	O	O
+
+genre	genre	NN	gen	nre
+for	for	IN	for	for
+snow	snow	NN	sno	now
+white	white	NN	whi	ite
+and	and	CC	and	and
+the	the	DT	the	the
+huntsman	huntsman	NN	hun	man
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+type	type	NN	typ	ype
+
+what	what	WP	wha	hat
+'s	be	VBZ	O	O
+the	the	DT	the	the
+genre	genre	NN	gen	nre
+of	of	IN	O	O
+rushmore	rushmore	NN	rus	ore
+
+get	get	VV	get	get
+the	the	DT	the	the
+genre	genre	NN	gen	nre
+of	of	IN	O	O
+welcome	welcome	NN	wel	ome
+to	to	TO	O	O
+the	the	DT	the	the
+dollhouse	dollhouse	NN	dol	use
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+find	find	VV	fin	ind
+the	the	DT	the	the
+genre	genre	NN	gen	nre
+freedom	freedom	NN	fre	dom
+writers	writer	NNS	wri	ers
+is	be	VBZ	O	O
+in	in	IN	O	O
+
+what	what	WP	wha	hat
+genre	genre	NN	gen	nre
+is	be	VBZ	O	O
+freedom	freedom	NN	fre	dom
+writers	writer	NNS	wri	ers
+in	in	IN	O	O
+
+genre	genre	NN	gen	nre
+for	for	IN	for	for
+batman	batman	NN	bat	man
+
+give	give	VV	giv	ive
+me	me	PP	O	O
+the	the	DT	the	the
+genre	genre	NN	gen	nre
+of	of	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+avatar	avatar	NN	ava	tar
+
+i	i	NP	O	O
+would	would	MD	wou	uld
+like	like	VV	lik	ike
+to	to	TO	O	O
+know	know	VV	kno	now
+the	the	DT	the	the
+genre	genre	NN	gen	nre
+of	of	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+avatar	avatar	NN	ava	tar
+
+genre	genre	NN	gen	nre
+for	for	IN	for	for
+bad	bad	JJ	bad	bad
+teacher	teacher	NN	tea	her
+
+can	can	MD	can	can
+you	you	PP	you	you
+tell	tell	VV	tel	ell
+me	me	PP	O	O
+pretty	pretty	JJ	pre	tty
+girl	girl	NN	gir	irl
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+'s	's	POS	O	O
+genre	genre	NN	gen	nre
+
+what	what	WP	wha	hat
+genre	genre	NN	gen	nre
+is	be	VBZ	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+pitch	pitch	NN	pit	tch
+perfect	perfect	JJ	per	ect
+
+in	in	IN	O	O
+what	what	WP	wha	hat
+language	language	NN	lan	age
+is	be	VBZ	O	O
+this	this	DT	thi	his
+movie	movie	NN	mov	vie
+
+what	what	WP	wha	hat
+language	language	NN	lan	age
+is	be	VBZ	O	O
+this	this	DT	thi	his
+movie	movie	NN	mov	vie
+
+what	what	WP	wha	hat
+language	language	NN	lan	age
+is	be	VBZ	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+hero	hero	NN	her	ero
+in	in	IN	O	O
+
+language	language	NN	lan	age
+of	of	IN	O	O
+king	king	NN	kin	ing
+lear	lear	NN	lea	ear
+
+language	language	NN	lan	age
+of	of	IN	O	O
+casa	casa	NN	cas	asa
+blanca	blanca	NN	bla	nca
+
+what	what	WP	wha	hat
+language	language	NN	lan	age
+is	be	VBZ	O	O
+head	head	NN	hea	ead
+on	on	IN	O	O
+in	in	IN	O	O
+
+language	language	NN	lan	age
+of	of	IN	O	O
+spanglish	spanglish	NN	spa	ish
+
+find	find	VV	fin	ind
+out	out	RP	out	out
+what	what	WP	wha	hat
+language	language	NN	lan	age
+the	the	DT	the	the
+father	father	NN	fat	her
+of	of	IN	O	O
+my	my	PP$	O	O
+children	child	NNS	chi	ren
+is	be	VBZ	O	O
+in	in	IN	O	O
+
+i	i	NNS	O	O
+am	be	VBP	O	O
+intersted	intersted	VVN	int	ted
+in	in	IN	O	O
+viewing	view	VVG	vie	ing
+belle	belle	NN	bel	lle
+what	what	WP	wha	hat
+foreign	foreign	JJ	for	ign
+language	language	NN	lan	age
+is	be	VBZ	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+available	available	JJ	ava	ble
+in	in	IN	O	O
+
+i	i	NNS	O	O
+need	need	VVP	nee	eed
+to	to	TO	O	O
+find	find	VV	fin	ind
+out	out	RP	out	out
+about	about	IN	abo	out
+names	name	NNS	nam	mes
+of	of	IN	O	O
+some	some	DT	som	ome
+japanese	Japanese	JJ	jap	ese
+movies	movie	NNS	mov	ies
+
+can	can	MD	can	can
+you	you	PP	you	you
+tell	tell	VV	tel	ell
+me	me	PP	O	O
+names	name	NNS	nam	mes
+of	of	IN	O	O
+some	some	DT	som	ome
+japanese	Japanese	JJ	jap	ese
+movies	movie	NNS	mov	ies
+
+ron	ron	NNS	ron	ron
+howard	howard	RB	how	ard
+name	name	VVP	nam	ame
+some	some	DT	som	ome
+of	of	IN	O	O
+the	the	DT	the	the
+movies	movie	NNS	mov	ies
+he	he	PP	O	O
+produce	produce	VVP	pro	uce
+
+tell	tell	VV	tel	ell
+me	me	PP	O	O
+the	the	DT	the	the
+names	name	NNS	nam	mes
+of	of	IN	O	O
+the	the	DT	the	the
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+william	William	NP	wil	iam
+packer	packer	NN	pac	ker
+
+about	about	IN	abo	out
+life	life	NN	lif	ife
+is	be	VBZ	O	O
+beautiful	beautiful	JJ	bea	ful
+
+show	show	VV	sho	how
+me	me	PP	O	O
+info	info	NN	inf	nfo
+on	on	IN	O	O
+life	life	NN	lif	ife
+is	be	VBZ	O	O
+beautiful	beautiful	JJ	bea	ful
+
+find	find	VV	fin	ind
+old	old	JJ	old	old
+movies	movie	NNS	mov	ies
+
+find	find	VV	fin	ind
+movie	movie	NN	mov	vie
+ratings	rating	NNS	rat	ngs
+
+find	find	VV	fin	ind
+newly	newly	RB	new	wly
+released	release	VVN	rel	sed
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+spanish	Spanish	NN	spa	ish
+
+was	be	VBD	was	was
+bill	bill	NN	bil	ill
+paxton	paxton	NN	pax	ton
+in	in	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+apollo	apollo	NN	apo	llo
+thirteen	thirteen	CD	thi	een
+
+was	be	VBD	was	was
+kevin	kevin	NN	kev	vin
+bacon	bacon	NN	bac	con
+in	in	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+apollo	apollo	NN	apo	llo
+thirteen	thirteen	CD	thi	een
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+about	about	IN	abo	out
+dancing	dancing	NN	dan	ing
+
+search	search	NN	sea	rch
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+about	about	IN	abo	out
+dancing	dancing	NN	dan	ing
+
+show	show	NN	sho	how
+will	will	MD	wil	ill
+ferrell	ferrell	VV	fer	ell
+films	film	NNS	fil	lms
+
+will	will	MD	wil	ill
+ferrell	Ferrell	NP	fer	ell
+movies	movie	NNS	mov	ies
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+has	have	VHZ	has	has
+will	will	NN	wil	ill
+ferrell	ferrell	NN	fer	ell
+appeared	appear	VVD	app	red
+in	in	IN	O	O
+
+find	find	VV	fin	ind
+russian	Russian	JJ	rus	ian
+movies	movie	NNS	mov	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+pretty	pretty	JJ	pre	tty
+women	woman	NNS	wom	men
+so	so	IN	O	O
+i	i	NP	O	O
+can	can	MD	can	can
+see	see	VV	see	see
+who	who	WP	who	who
+starred	star	VVD	sta	red
+in	in	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+
+feral	feral	JJ	fer	ral
+
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+is	be	VBZ	O	O
+called	call	VVN	cal	led
+big	big	JJ	big	big
+
+will	will	MD	wil	ill
+smith	smith	NN	smi	ith
+acting	act	VVG	act	ing
+carrer	carrer	NN	car	rer
+
+how	how	WRB	how	how
+many	many	JJ	man	any
+movies	movie	NNS	mov	ies
+did	do	VVD	did	did
+peter	peter	NN	pet	ter
+jackson	jackson	NNS	jac	son
+do	do	VVP	O	O
+
+movies	movie	NNS	mov	ies
+and	and	CC	and	and
+gross	gross	JJ	gro	oss
+payment	payment	NN	pay	ent
+
+search	search	NN	sea	rch
+for	for	IN	for	for
+tim	tim	NN	tim	tim
+burton	burton	NN	bur	ton
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+french	French	NNS	fre	nch
+
+exhibit	exhibit	VV	exh	bit
+all	all	DT	all	all
+details	detail	NNS	det	ils
+of	of	IN	O	O
+original	original	JJ	ori	nal
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+movie	movie	NN	mov	vie
+
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+movie	movie	NN	mov	vie
+
+find	find	VV	fin	ind
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+i	i	NNS	O	O
+am	be	VBP	O	O
+looking	look	VVG	loo	ing
+for	for	IN	for	for
+information	information	NN	inf	ion
+on	on	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+show	show	VV	sho	how
+me	me	PP	O	O
+details	detail	NNS	det	ils
+for	for	IN	for	for
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+what	what	WP	wha	hat
+did	do	VVD	did	did
+andrew	andrew	NN	and	rew
+stanton	stanton	NN	sta	ton
+direct	direct	JJ	dir	ect
+
+show	show	VV	sho	how
+me	me	PP	O	O
+some	some	DT	som	ome
+other	other	JJ	oth	her
+movies	movie	NNS	mov	ies
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+andrew	andrew	JJ	and	rew
+stanton	stanton	NN	sta	ton
+
+display	display	NN	dis	lay
+albert	albert	NN	alb	ert
+brooks	brook	VVZ	bro	oks
+movie	movie	NN	mov	vie
+
+show	show	VV	sho	how
+a	a	DT	O	O
+movie	movie	NN	mov	vie
+with	with	IN	wit	ith
+albert	albert	NN	alb	ert
+brooks	brook	NNS	bro	oks
+in	in	IN	O	O
+the	the	DT	the	the
+cast	cast	NN	cas	ast
+
+what	what	WP	wha	hat
+other	other	JJ	oth	her
+films	film	NNS	fil	lms
+has	have	VHZ	has	has
+sergio	sergio	NN	ser	gio
+leone	leone	NN	leo	one
+directed	direct	VVD	dir	ted
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+has	have	VHZ	has	has
+george	george	NN	geo	rge
+harrison	harrison	NN	har	son
+produced	produce	VVD	pro	ced
+
+what	what	WP	wha	hat
+has	have	VHZ	has	has
+charlie	charlie	NN	cha	lie
+sheen	sheen	NN	she	een
+starred	star	VVN	sta	red
+in	in	IN	O	O
+
+please	please	UH	ple	ase
+find	find	VV	fin	ind
+the	the	DT	the	the
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+which	which	WDT	whi	ich
+clive	clive	JJ	cli	ive
+owen	owen	NN	owe	wen
+has	have	VHZ	has	has
+appeared	appear	VVN	app	red
+
+in	in	IN	O	O
+which	which	WDT	whi	ich
+movies	movie	NNS	mov	ies
+has	have	VHZ	has	has
+clive	clive	JJ	cli	ive
+owen	owen	NNS	owe	wen
+appear	appear	VVP	app	ear
+
+spike	spike	NN	spi	ike
+lee	lee	NN	lee	lee
+directed	direct	VVD	dir	ted
+what	what	WP	wha	hat
+movie	movie	NN	mov	vie
+
+search	search	NN	sea	rch
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+spike	spike	NN	spi	ike
+lee	lee	NN	lee	lee
+
+movie	movie	NN	mov	vie
+release	release	NN	rel	ase
+dates	date	NNS	dat	tes
+
+director	director	NN	dir	tor
+information	information	NN	inf	ion
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+
+movies	movie	NNS	mov	ies
+by	by	IN	O	O
+director	director	NN	dir	tor
+
+please	please	UH	ple	ase
+list	list	VV	lis	ist
+all	all	DT	all	all
+movies	movie	NNS	mov	ies
+not	not	RB	not	not
+rated	rate	VVN	rat	ted
+pg	pg	NN	O	O
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+english	English	JJ	eng	ish
+speaking	speaking	NN	spe	ing
+movies	movie	NNS	mov	ies
+
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+movies	movie	NNS	mov	ies
+made	make	VVN	mad	ade
+in	in	IN	O	O
+america	america	NN	ame	ica
+
+are	be	VBP	are	are
+there	there	RB	the	ere
+any	any	DT	any	any
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+in	in	IN	O	O
+the	the	DT	the	the
+united	unite	VVN	uni	ted
+states	state	NNS	sta	tes
+
+show	show	VV	sho	how
+english	English	JJ	eng	ish
+movies	movie	NNS	mov	ies
+
+search	search	NN	sea	rch
+english	English	NN	eng	ish
+movies	movie	NNS	mov	ies
+
+comedy	comedy	NN	com	edy
+
+find	find	VV	fin	ind
+a	a	DT	O	O
+comedy	comedy	NN	com	edy
+
+watch	watch	VV	wat	tch
+comedy	comedy	NN	com	edy
+movies	movie	NNS	mov	ies
+
+get	get	VV	get	get
+horror	horror	NN	hor	ror
+films	film	NNS	fil	lms
+
+show	show	VV	sho	how
+me	me	PP	O	O
+horror	horror	NN	hor	ror
+movies	movie	NNS	mov	ies
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+a	a	DT	O	O
+listing	listing	NN	lis	ing
+of	of	IN	O	O
+horror	horror	NN	hor	ror
+movies	movie	NNS	mov	ies
+
+show	show	NN	sho	how
+actor	actor	NN	act	tor
+bruce	bruce	NN	bru	uce
+willis	willis	NN	wil	lis
+movies	movie	NNS	mov	ies
+
+which	which	WDT	whi	ich
+movies	movie	NNS	mov	ies
+did	do	VVD	did	did
+bruce	bruce	NN	bru	uce
+willis	willis	NNS	wil	lis
+star	star	JJ	sta	tar
+in	in	IN	O	O
+
+list	list	NN	lis	ist
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+bruce	bruce	NN	bru	uce
+willis	willis	NNS	wil	lis
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+made	make	VVN	mad	ade
+in	in	IN	O	O
+canada	Canada	NP	can	ada
+
+can	can	MD	can	can
+i	i	NNS	O	O
+watch	watch	VV	wat	tch
+a	a	DT	O	O
+canadian	Canadian	JJ	can	ian
+film	film	NN	fil	ilm
+
+see	see	VV	see	see
+canadian	Canadian	JJ	can	ian
+movies	movie	NNS	mov	ies
+
+search	search	NN	sea	rch
+for	for	IN	for	for
+information	information	NN	inf	ion
+about	about	IN	abo	out
+canadian	Canadian	JJ	can	ian
+movies	movie	NNS	mov	ies
+
+I	I	PP	O	O
+'d	will	MD	O	O
+like	like	VV	lik	ike
+to	to	TO	O	O
+see	see	VV	see	see
+some	some	DT	som	ome
+italian	Italian	JJ	ita	ian
+films	film	NNS	fil	lms
+
+show	show	VV	sho	how
+me	me	PP	O	O
+something	something	NN	som	ing
+italian	Italian	NN	ita	ian
+-	-	:	O	O
+made	make	VVN	mad	ade
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+a	a	DT	O	O
+movie	movie	NN	mov	vie
+from	from	IN	fro	rom
+spain	spain	NN	spa	ain
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+spain	spain	NN	spa	ain
+
+spain	spain	NN	spa	ain
+country	country	NN	cou	try
+movies	movie	NNS	mov	ies
+
+display	display	VV	dis	lay
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+spanish	Spanish	JJ	spa	ish
+films	film	NNS	fil	lms
+
+spanish	Spanish	JJ	spa	ish
+movie	movie	NN	mov	vie
+listing	listing	NN	lis	ing
+
+spanish	Spanish	JJ	spa	ish
+movies	movie	NNS	mov	ies
+
+find	find	VV	fin	ind
+actors	actor	NNS	act	ors
+in	in	IN	O	O
+movies	movie	NNS	mov	ies
+
+search	search	NN	sea	rch
+by	by	IN	O	O
+actors	actor	NNS	act	ors
+
+find	find	VV	fin	ind
+some	some	DT	som	ome
+romantic	romantic	JJ	rom	tic
+movies	movie	NNS	mov	ies
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+a	a	DT	O	O
+movie	movie	NN	mov	vie
+in	in	IN	O	O
+french	French	NNS	fre	nch
+
+gwyneth	Gwyneth	NP	gwy	eth
+paltrow	Paltrow	NP	pal	row
+movies	movie	NNS	mov	ies
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+quentin	quentin	NN	que	tin
+tarantino	tarantino	NN	tar	ino
+as	as	IN	O	O
+director	director	NN	dir	tor
+
+england	england	NN	eng	and
+movies	movie	NNS	mov	ies
+
+england	england	NN	eng	and
+movies	movie	NNS	mov	ies
+please	please	VVP	ple	ase
+
+find	find	VV	fin	ind
+david	david	JJ	dav	vid
+tennant	tennant	NN	ten	ant
+movies	movie	NNS	mov	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+what	what	WP	wha	hat
+richard	richard	NN	ric	ard
+lester	lester	NN	les	ter
+directed	direct	VVD	dir	ted
+
+get	get	VV	get	get
+films	film	NNS	fil	lms
+in	in	IN	O	O
+hindi	hindi	NNS	hin	ndi
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+india	india	NN	ind	dia
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+a	a	DT	O	O
+british	British	JJ	bri	ish
+horror	horror	NN	hor	ror
+movie	movie	NN	mov	vie
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+watch	watch	VV	wat	tch
+an	an	DT	O	O
+r	r	NN	O	O
+rated	rate	VVN	rat	ted
+comedy	comedy	NN	com	edy
+
+list	list	NN	lis	ist
+of	of	IN	O	O
+french	French	JJ	fre	nch
+language	language	NN	lan	age
+comedies	comedy	NNS	com	ies
+
+look	look	NN	loo	ook
+for	for	IN	for	for
+dirty	dirty	JJ	dir	rty
+dancing	dancing	NN	dan	ing
+movie	movie	NN	mov	vie
+with	with	IN	wit	ith
+jennifer	jennifer	NN	jen	fer
+grey	grey	NN	gre	rey
+
+tell	tell	VV	tel	ell
+me	me	PP	O	O
+in	in	IN	O	O
+detail	detail	NN	det	ail
+about	about	IN	abo	out
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+dirty	dirty	JJ	dir	rty
+dancing	dancing	NN	dan	ing
+
+tell	tell	VV	tel	ell
+about	about	IN	abo	out
+movie	movie	NN	mov	vie
+dirty	dirty	JJ	dir	rty
+dancing	dancing	NN	dan	ing
+
+can	can	MD	can	can
+i	i	NNS	O	O
+see	see	VV	see	see
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+bette	bette	NN	bet	tte
+midler	midler	NN	mid	ler
+movies	movie	NNS	mov	ies
+
+list	list	NN	lis	ist
+of	of	IN	O	O
+movies	movie	NNS	mov	ies
+starring	star	VVG	sta	ing
+bette	bette	NN	bet	tte
+midler	midler	NN	mid	ler
+
+show	show	VV	sho	how
+me	me	PP	O	O
+all	all	RB	all	all
+of	of	IN	O	O
+anne	anne	NN	ann	nne
+hathaway	hathaway	NN	hat	way
+'s	's	POS	O	O
+movies	movie	NNS	mov	ies
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+has	have	VHZ	has	has
+sandra	sandra	NN	san	dra
+bullock	bullock	NN	bul	ock
+produced	produce	VVD	pro	ced
+
+find	find	VV	fin	ind
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+portugal	portugal	NN	por	gal
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+has	have	VHZ	has	has
+robert	robert	VVN	rob	ert
+redford	redford	NNS	red	ord
+been	be	VBN	bee	een
+in	in	IN	O	O
+
+dirty	dirty	JJ	dir	rty
+dancing	dancing	NN	dan	ing
+info	info	NN	inf	nfo
+
+dirty	dirty	JJ	dir	rty
+dancing	dancing	NN	dan	ing
+
+give	give	VV	giv	ive
+a	a	DT	O	O
+short	short	JJ	sho	ort
+bio	bio	NN	bio	bio
+for	for	IN	for	for
+dirty	dirty	JJ	dir	rty
+dancing	dancing	NN	dan	ing
+
+about	about	IN	abo	out
+dirty	dirty	JJ	dir	rty
+dancing	dancing	NN	dan	ing
+
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+japan	japan	NN	jap	pan
+
+show	show	NN	sho	how
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+japan	japan	NN	jap	pan
+
+list	list	NN	lis	ist
+japanese	Japanese	NN	jap	ese
+movies	movie	NNS	mov	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+japanese	Japanese	JJ	jap	ese
+movies	movie	NNS	mov	ies
+
+give	give	VV	giv	ive
+me	me	PP	O	O
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+some	some	DT	som	ome
+japanese	Japanese	JJ	jap	ese
+movies	movie	NNS	mov	ies
+
+give	give	VV	giv	ive
+me	me	PP	O	O
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+japanese	Japanese	JJ	jap	ese
+movies	movie	NNS	mov	ies
+
+japanese	Japanese	JJ	jap	ese
+movies	movie	NNS	mov	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+japanese	Japanese	JJ	jap	ese
+language	language	NN	lan	age
+movies	movie	NNS	mov	ies
+
+which	which	WDT	whi	ich
+films	film	NNS	fil	lms
+are	be	VBP	are	are
+spoken	speak	VVN	spo	ken
+in	in	IN	O	O
+japanese	Japanese	NN	jap	ese
+
+miramax	miramax	NN	mir	max
+films	film	NNS	fil	lms
+only	only	RB	onl	nly
+
+show	show	NN	sho	how
+movies	movie	NNS	mov	ies
+by	by	IN	O	O
+miramax	miramax	NN	mir	max
+
+search	search	NN	sea	rch
+sandra	sandra	NN	san	dra
+bullock	bullock	NN	bul	ock
+movies	movie	NNS	mov	ies
+
+watch	watch	NN	wat	tch
+sandra	sandra	NN	san	dra
+bullock	bullock	NN	bul	ock
+movies	movie	NNS	mov	ies
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+about	about	IN	abo	out
+vampires	vampire	NNS	vam	res
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+having	have	VHG	hav	ing
+vampires	vampire	NNS	vam	res
+
+will	will	MD	wil	ill
+smith	smith	NN	smi	ith
+movies	movie	NNS	mov	ies
+
+cars	car	NNS	car	ars
+movie	movie	NN	mov	vie
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+did	do	VVD	did	did
+darla	darla	NN	dar	rla
+anderson	anderson	NN	and	son
+produce	produce	NN	pro	uce
+
+what	what	WP	wha	hat
+films	film	NNS	fil	lms
+are	be	VBP	are	are
+made	make	VVN	mad	ade
+by	by	IN	O	O
+paramount	paramount	NN	par	unt
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+by	by	IN	O	O
+paramount	paramount	NN	par	unt
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+has	have	VHZ	has	has
+paramount	paramount	JJ	par	unt
+released	release	VVN	rel	sed
+
+show	show	VV	sho	how
+all	all	DT	all	all
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+turkey	turkey	NN	tur	key
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+bruce	bruce	NN	bru	uce
+lee	lee	NN	lee	lee
+
+is	be	VBZ	O	O
+parenthood	parenthood	NN	par	ood
+a	a	DT	O	O
+drama	drama	NN	dra	ama
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+an	an	DT	O	O
+kevin	kevin	NN	kev	vin
+james	james	VVZ	jam	mes
+film	film	NN	fil	ilm
+tonight	tonight	NN	ton	ght
+
+find	find	VV	fin	ind
+films	film	NNS	fil	lms
+from	from	IN	fro	rom
+china	china	NN	chi	ina
+
+get	get	VV	get	get
+films	film	NNS	fil	lms
+from	from	IN	fro	rom
+china	china	NN	chi	ina
+
+i	i	NP	O	O
+'d	will	MD	O	O
+like	like	VV	lik	ike
+to	to	TO	O	O
+watch	watch	VV	wat	tch
+a	a	DT	O	O
+movie	movie	NN	mov	vie
+made	make	VVN	mad	ade
+in	in	IN	O	O
+china	china	NN	chi	ina
+
+list	list	VV	lis	ist
+some	some	DT	som	ome
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+china	china	NN	chi	ina
+
+chinese	Chinese	JJ	chi	ese
+films	film	NNS	fil	lms
+
+show	show	VV	sho	how
+me	me	PP	O	O
+other	other	JJ	oth	her
+chinese	Chinese	JJ	chi	ese
+movies	movie	NNS	mov	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+chinese	Chinese	JJ	chi	ese
+movies	movie	NNS	mov	ies
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+have	have	VHP	hav	ave
+a	a	DT	O	O
+pg-13	pg-13	JJ	pg-	-13
+rating	rating	NN	rat	ing
+
+please	please	VV	ple	ase
+list	list	NN	lis	ist
+movies	movie	NNS	mov	ies
+that	that	WDT	tha	hat
+are	be	VBP	are	are
+rated	rate	VVN	rat	ted
+pg-13	pg-13	NN	pg-	-13
+
+i	i	NNS	O	O
+need	need	VVP	nee	eed
+a	a	DT	O	O
+g	g	NN	O	O
+rating	rating	NN	rat	ing
+so	so	IN	O	O
+i	i	NP	O	O
+can	can	MD	can	can
+take	take	VV	tak	ake
+the	the	DT	the	the
+kids	kid	NNS	kid	ids
+
+find	find	VV	fin	ind
+a	a	DT	O	O
+g	g	NN	O	O
+rated	rate	VVN	rat	ted
+movie	movie	NN	mov	vie
+
+find	find	VV	fin	ind
+g	g	NN	O	O
+movies	movie	NNS	mov	ies
+
+find	find	VV	fin	ind
+g	g	NN	O	O
+movies	movie	NNS	mov	ies
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+rated	rate	VVN	rat	ted
+g	g	NN	O	O
+movies	movie	NNS	mov	ies
+
+look	look	VV	loo	ook
+up	up	RP	O	O
+g	g	NN	O	O
+rated	rate	VVN	rat	ted
+movies	movie	NNS	mov	ies
+
+i	i	NNS	O	O
+am	be	VBP	O	O
+searching	search	VVG	sea	ing
+for	for	IN	for	for
+any	any	DT	any	any
+g	g	NN	O	O
+rated	rate	VVN	rat	ted
+movies	movie	NNS	mov	ies
+for	for	IN	for	for
+my	my	PP$	O	O
+children	child	NNS	chi	ren
+to	to	TO	O	O
+view	view	VV	vie	iew
+
+rated	rate	VVN	rat	ted
+g	g	NN	O	O
+movies	movie	NNS	mov	ies
+for	for	IN	for	for
+family	family	NN	fam	ily
+watching	watching	NN	wat	ing
+
+find	find	VV	fin	ind
+g	g	NN	O	O
+rated	rate	VVN	rat	ted
+movies	movie	NNS	mov	ies
+
+are	be	VBP	are	are
+there	there	RB	the	ere
+any	any	DT	any	any
+movies	movie	NNS	mov	ies
+rated	rate	VVD	rat	ted
+g	g	NN	O	O
+playing	playing	NN	pla	ing
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+movies	movie	NNS	mov	ies
+rated	rate	VVN	rat	ted
+g	g	NN	O	O
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+rated	rate	VVN	rat	ted
+g	g	NN	O	O
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+g	g	NN	O	O
+rating	rating	NN	rat	ing
+
+did	do	VVD	did	did
+robert	robert	JJ	rob	ert
+wise	wise	NN	wis	ise
+direct	direct	VV	dir	ect
+any	any	DT	any	any
+other	other	JJ	oth	her
+musicals	musical	NNS	mus	als
+
+bruce	bruce	NN	bru	uce
+lee	lee	NN	lee	lee
+produced	produce	VVD	pro	ced
+movie	movie	NN	mov	vie
+listing	listing	NN	lis	ing
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+the	the	DT	the	the
+last	last	JJ	las	ast
+movie	movie	NN	mov	vie
+made	make	VVN	mad	ade
+by	by	IN	O	O
+robert	robert	NN	rob	ert
+wise	wise	NN	wis	ise
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+mgm	mgm	NN	mgm	mgm
+
+show	show	VV	sho	how
+me	me	PP	O	O
+british	british	RB	bri	ish
+made	make	VVD	mad	ade
+movies	movie	NNS	mov	ies
+
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+the	the	DT	the	the
+uk	uk	NN	O	O
+
+find	find	VV	fin	ind
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+the	the	DT	the	the
+uk	uk	NN	O	O
+
+can	can	MD	can	can
+you	you	PP	you	you
+list	list	VV	lis	ist
+ron	ron	JJ	ron	ron
+howard	howard	JJ	how	ard
+movie	movie	NN	mov	vie
+production	production	NN	pro	ion
+
+i	i	NNS	O	O
+need	need	VVP	nee	eed
+to	to	TO	O	O
+know	know	VV	kno	now
+the	the	DT	the	the
+movies	movie	NNS	mov	ies
+produce	produce	VVP	pro	uce
+by	by	IN	O	O
+ron	ron	NN	ron	ron
+howard	howard	NN	how	ard
+
+did	do	VVD	did	did
+clint	clint	NN	cli	int
+eastwood	eastwood	NN	eas	ood
+direct	direct	VV	dir	ect
+any	any	DT	any	any
+other	other	JJ	oth	her
+movies	movie	NNS	mov	ies
+besides	besides	IN	bes	des
+million	million	CD	mil	ion
+dollar	dollar	NN	dol	lar
+baby	baby	NN	bab	aby
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+clint	clint	NN	cli	int
+eastwood	eastwood	NN	eas	ood
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+have	have	VHP	hav	ave
+been	be	VBN	bee	een
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+clint	clint	NN	cli	int
+eastwood	eastwood	NN	eas	ood
+
+list	list	VV	lis	ist
+all	all	DT	all	all
+movies	movie	NNS	mov	ies
+that	that	WDT	tha	hat
+were	be	VBD	wer	ere
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+clint	clint	NN	cli	int
+eastwood	eastwood	NN	eas	ood
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+has	have	VHZ	has	has
+clint	clint	JJ	cli	int
+eastwood	eastwood	NN	eas	ood
+directed	direct	VVD	dir	ted
+
+show	show	NN	sho	how
+movies	movie	NNS	mov	ies
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+clint	clint	NN	cli	int
+eastwood	eastwood	NN	eas	ood
+
+find	find	VV	fin	ind
+all	all	DT	all	all
+films	film	NNS	fil	lms
+by	by	IN	O	O
+stanley	stanley	NN	sta	ley
+kubrick	kubrick	NN	kub	ick
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+select	select	VV	sel	ect
+the	the	DT	the	the
+option	option	NN	opt	ion
+to	to	TO	O	O
+search	search	VV	sea	rch
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+stephen	stephen	NN	ste	hen
+spielberg	spielberg	NN	spi	erg
+
+i	i	NP	O	O
+would	would	MD	wou	uld
+like	like	VV	lik	ike
+to	to	TO	O	O
+search	search	VV	sea	rch
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+stephen	stephen	NN	ste	hen
+speilberg	speilberg	NN	spe	erg
+
+show	show	VV	sho	how
+me	me	PP	O	O
+japanese	Japanese	JJ	jap	ese
+horror	horror	NN	hor	ror
+movies	movie	NNS	mov	ies
+
+i	i	NP	O	O
+would	would	MD	wou	uld
+like	like	VV	lik	ike
+to	to	TO	O	O
+see	see	VV	see	see
+movies	movie	NNS	mov	ies
+ron	ron	NNS	ron	ron
+howard	howard	RB	how	ard
+directed	direct	VVN	dir	ted
+
+movies	movie	NNS	mov	ies
+by	by	IN	O	O
+stephen	stephen	NN	ste	hen
+spielberg	spielberg	NN	spi	erg
+
+movies	movie	NNS	mov	ies
+by	by	IN	O	O
+stephen	stephen	NN	ste	hen
+spielberg	spielberg	NN	spi	erg
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+did	do	VVD	did	did
+stephen	stephen	NN	ste	hen
+spielberg	spielberg	NNS	spi	erg
+direct	direct	JJ	dir	ect
+
+list	list	NN	lis	ist
+steven	steven	JJ	ste	ven
+spielberg	spielberg	NN	spi	erg
+movies	movie	NNS	mov	ies
+
+steven	steven	JJ	ste	ven
+spielberg	spielberg	NN	spi	erg
+movie	movie	NN	mov	vie
+
+steven	steven	JJ	ste	ven
+spielberg	spielberg	NN	spi	erg
+movies	movie	NNS	mov	ies
+please	please	VVP	ple	ase
+
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+steven	steven	JJ	ste	ven
+spielberg	spielberg	NN	spi	erg
+
+find	find	VV	fin	ind
+the	the	DT	the	the
+steven	steven	JJ	ste	ven
+spielberg	spielberg	NN	spi	erg
+movies	movie	NNS	mov	ies
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+steven	steven	JJ	ste	ven
+spielberg	spielberg	NN	spi	erg
+
+i	i	NP	O	O
+would	would	MD	wou	uld
+like	like	VV	lik	ike
+to	to	TO	O	O
+watch	watch	VV	wat	tch
+a	a	DT	O	O
+movie	movie	NN	mov	vie
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+eddie	eddie	NN	edd	die
+murphy	murphy	NN	mur	phy
+
+the	the	DT	the	the
+camp	camp	NN	cam	amp
+
+watch	watch	NN	wat	tch
+sandra	sandra	NN	san	dra
+bullock	bullock	NN	bul	ock
+the	the	DT	the	the
+blind	blind	JJ	bli	ind
+side	side	NN	sid	ide
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+hugh	hugh	NN	hug	ugh
+jackman	jackman	NN	jac	man
+
+list	list	NN	lis	ist
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+kevin	Kevin	NP	kev	vin
+spacey	spacey	NP	spa	cey
+
+look	look	NN	loo	ook
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+france	france	NN	fra	nce
+
+can	can	MD	can	can
+you	you	PP	you	you
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+that	that	WDT	tha	hat
+were	be	VBD	wer	ere
+made	make	VVN	mad	ade
+in	in	IN	O	O
+france	france	NN	fra	nce
+
+find	find	VV	fin	ind
+me	me	PP	O	O
+any	any	DT	any	any
+movies	movie	NNS	mov	ies
+that	that	WDT	tha	hat
+were	be	VBD	wer	ere
+made	make	VVN	mad	ade
+in	in	IN	O	O
+france	france	NN	fra	nce
+
+french	French	NN	fre	nch
+movies	movie	NNS	mov	ies
+please	please	VVP	ple	ase
+
+french	French	NN	fre	nch
+movies	movie	NNS	mov	ies
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+
+movies	movie	NNS	mov	ies
+by	by	IN	O	O
+producers	producer	NNS	pro	ers
+
+display	display	NN	dis	lay
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+mosfilm	mosfilm	NN	mos	ilm
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+kristen	Kristen	NP	kri	ten
+stewart	Stewart	NP	ste	art
+'s	's	POS	O	O
+first	first	JJ	fir	rst
+movie	movie	NN	mov	vie
+
+get	get	VV	get	get
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+miranda	miranda	NN	mir	nda
+july	july	RB	jul	uly
+
+tom	tom	NN	tom	tom
+hanks	hank	NNS	han	nks
+movies	movie	NNS	mov	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+tom	tom	NN	tom	tom
+hanks	hank	NNS	han	nks
+
+i	i	NNS	O	O
+am	be	VBP	O	O
+trying	try	VVG	try	ing
+to	to	TO	O	O
+find	find	VV	fin	ind
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+tom	tom	NN	tom	tom
+hanks	hank	NNS	han	nks
+
+provide	provide	VV	pro	ide
+movies	movie	NNS	mov	ies
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+oliver	olive	JJR	oli	ver
+stone	stone	NN	sto	one
+please	please	VV	ple	ase
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+look	look	VV	loo	ook
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+albert	albert	NN	alb	ert
+ruddy	ruddy	JJ	rud	ddy
+
+what	what	WP	wha	hat
+are	be	VBP	are	are
+all	all	RB	all	all
+of	of	IN	O	O
+the	the	DT	the	the
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+albert	albert	NN	alb	ert
+ruddy	ruddy	JJ	rud	ddy
+
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+yash	yash	NN	yas	ash
+chopra	chopra	NN	cho	pra
+
+what	what	WP	wha	hat
+did	do	VVD	did	did
+brad	brad	NN	bra	rad
+pitt	pitt	NN	pit	itt
+porduce	porduce	NN	por	uce
+
+bring	bring	VV	bri	ing
+up	up	RP	O	O
+all	all	DT	all	all
+brad	brad	NN	bra	rad
+pitt	pitt	NN	pit	itt
+produced	produce	VVD	pro	ced
+movies	movie	NNS	mov	ies
+
+show	show	VV	sho	how
+all	all	DT	all	all
+movies	movie	NNS	mov	ies
+that	that	IN/that	tha	hat
+penny	penny	NN	pen	nny
+marshall	marshall	NN	mar	all
+directed	direct	VVD	dir	ted
+
+i	i	NNS	O	O
+need	need	VVP	nee	eed
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+all	all	PDT	all	all
+the	the	DT	the	the
+movies	movie	NNS	mov	ies
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+james	james	NNS	jam	mes
+cameron	cameron	NN	cam	ron
+
+give	give	VV	giv	ive
+me	me	PP	O	O
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+all	all	PDT	all	all
+the	the	DT	the	the
+movies	movie	NNS	mov	ies
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+james	james	NNS	jam	mes
+cameron	cameron	NN	cam	ron
+
+james	james	NNS	jam	mes
+cameron	cameron	NN	cam	ron
+movies	movie	NNS	mov	ies
+produced	produce	VVD	pro	ced
+
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+james	james	NNS	jam	mes
+cameron	cameron	NN	cam	ron
+
+what	what	WP	wha	hat
+films	film	NNS	fil	lms
+have	have	VHP	hav	ave
+been	be	VBN	bee	een
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+warner	warner	NN	war	ner
+bros.	bros.	NN	bro	os.
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+warner	warner	NN	war	ner
+bros.	bros.	NN	bro	os.
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+have	have	VHP	hav	ave
+been	be	VBN	bee	een
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+warner	warner	NN	war	ner
+bros.	bros.	NN	bro	os.
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+by	by	IN	O	O
+wb	wb	NN	O	O
+
+give	give	VV	giv	ive
+me	me	PP	O	O
+information	information	NN	inf	ion
+about	about	IN	abo	out
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+information	information	NN	inf	ion
+about	about	IN	abo	out
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+show	show	VV	sho	how
+me	me	PP	O	O
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+bing	bing	NNS	bin	ing
+
+search	search	NN	sea	rch
+finding	finding	NN	fin	ing
+nemo	nemo	NN	nem	emo
+
+show	show	NN	sho	how
+information	information	NN	inf	ion
+page	page	NN	pag	age
+for	for	IN	for	for
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+the	the	DT	the	the
+campaign	campaign	NN	cam	ign
+information	information	NN	inf	ion
+
+more	more	JJR	mor	ore
+information	information	NN	inf	ion
+on	on	IN	O	O
+apallo	apallo	NP	apa	llo
+thirteen	thirteen	CD	thi	een
+
+research	research	NN	res	rch
+apollo	apollo	NN	apo	llo
+thirteen	thirteen	CD	thi	een
+
+has	have	VHZ	has	has
+kristen	kristen	NN	kri	ten
+stewart	stewart	NN	ste	art
+starred	star	VVN	sta	red
+in	in	IN	O	O
+movies	movie	NNS	mov	ies
+other	other	JJ	oth	her
+than	than	IN	tha	han
+twilight	twilight	NN	twi	ght
+
+show	show	VV	sho	how
+me	me	PP	O	O
+kristen	kristen	NN	kri	ten
+stewart	stewart	NN	ste	art
+movies	movie	NNS	mov	ies
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+has	have	VHZ	has	has
+kristen	kristen	NN	kri	ten
+stewarted	stewarted	NN	ste	ted
+starred	star	VVN	sta	red
+in	in	IN	O	O
+
+lionsgate	lionsgate	NN	lio	ate
+movies	movie	NNS	mov	ies
+
+show	show	NN	sho	how
+lionsgate	lionsgate	NN	lio	ate
+movies	movie	NNS	mov	ies
+
+show	show	NN	sho	how
+movies	movie	NNS	mov	ies
+made	make	VVN	mad	ade
+by	by	IN	O	O
+production	production	NN	pro	ion
+lionsgate	lionsgate	NNS	lio	ate
+
+give	give	VV	giv	ive
+me	me	PP	O	O
+something	something	NN	som	ing
+by	by	IN	O	O
+charles	charles	NNS	cha	les
+vidor	vidor	NN	vid	dor
+
+show	show	NN	sho	how
+charles	charles	NNS	cha	les
+vidor	vidor	NN	vid	dor
+movie	movie	NN	mov	vie
+
+what	what	WP	wha	hat
+film	film	NN	fil	ilm
+did	do	VVD	did	did
+charles	charles	NNS	cha	les
+vidor	vidor	NN	vid	dor
+direct	direct	JJ	dir	ect
+
+which	which	WDT	whi	ich
+movies	movie	NNS	mov	ies
+have	have	VHP	hav	ave
+been	be	VBN	bee	een
+made	make	VVN	mad	ade
+outside	outside	IN	out	ide
+the	the	DT	the	the
+united	unite	VVN	uni	ted
+states	state	NNS	sta	tes
+
+find	find	VV	fin	ind
+me	me	PP	O	O
+nigeria	nigeria	NN	nig	ria
+movies	movie	NNS	mov	ies
+
+display	display	NN	dis	lay
+7	7	CD	O	O
+arts	art	NNS	art	rts
+movies	movie	NNS	mov	ies
+
+korean	Korean	JJ	kor	ean
+movie	movie	NN	mov	vie
+
+what	what	WP	wha	hat
+other	other	JJ	oth	her
+movies	movie	NNS	mov	ies
+did	do	VVD	did	did
+roberto	roberto	NN	rob	rto
+benigni	benigni	NNS	ben	gni
+star	star	JJ	sta	tar
+in	in	IN	O	O
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+movies	movie	NNS	mov	ies
+starring	star	VVG	sta	ing
+denzel	denzel	NN	den	zel
+washington	washington	NNS	was	ton
+please	please	VVP	ple	ase
+
+list	list	VV	lis	ist
+the	the	DT	the	the
+kareena	kareena	NN	kar	ena
+'s	's	POS	O	O
+movie	movie	NN	mov	vie
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+watch	watch	VV	wat	tch
+a	a	DT	O	O
+drama	drama	NN	dra	ama
+made	make	VVN	mad	ade
+in	in	IN	O	O
+turkey	turkey	NN	tur	key
+
+jennifer	Jennifer	NP	jen	fer
+lopez	Lopez	NP	lop	pez
+played	play	VVD	pla	yed
+in	in	IN	O	O
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+all	all	RB	all	all
+of	of	IN	O	O
+the	the	DT	the	the
+movies	movie	NNS	mov	ies
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+woody	woody	JJ	woo	ody
+allen	allen	NN	all	len
+
+show	show	NN	sho	how
+robert	robert	NN	rob	ert
+wise	wise	JJ	wis	ise
+movies	movie	NNS	mov	ies
+
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+robert	robert	JJ	rob	ert
+wise	wise	JJ	wis	ise
+movies	movie	NNS	mov	ies
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+has	have	VHZ	has	has
+robert	robert	JJ	rob	ert
+wise	wise	NN	wis	ise
+directed	direct	VVD	dir	ted
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+have	have	VHP	hav	ave
+robert	robert	JJ	rob	ert
+wise	wise	NN	wis	ise
+directed	direct	VVD	dir	ted
+
+where	where	WRB	whe	ere
+can	can	MD	can	can
+i	i	NNS	O	O
+find	find	VV	fin	ind
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+chris	chris	NN	chr	ris
+nolan	nolan	NN	nol	lan
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+has	have	VHZ	has	has
+brad	brad	NN	bra	rad
+pitt	pitt	NN	pit	itt
+been	be	VBN	bee	een
+in	in	IN	O	O
+
+what	what	WP	wha	hat
+are	be	VBP	are	are
+the	the	DT	the	the
+movies	movie	NNS	mov	ies
+brad	brad	NN	bra	rad
+pitt	pitt	NN	pit	itt
+had	have	VHD	had	had
+been	be	VBN	bee	een
+in	in	IN	O	O
+
+what	what	WP	wha	hat
+are	be	VBP	are	are
+some	some	DT	som	ome
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+brad	brad	NN	bra	rad
+pitt	pitt	NN	pit	itt
+
+find	find	VV	fin	ind
+an	an	DT	O	O
+r	r	NN	O	O
+rated	rate	VVN	rat	ted
+movie	movie	NN	mov	vie
+
+show	show	VV	sho	how
+me	me	PP	O	O
+r	r	NN	O	O
+rated	rate	VVN	rat	ted
+movies	movie	NNS	mov	ies
+
+give	give	VV	giv	ive
+me	me	PP	O	O
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+r	r	NN	O	O
+rated	rate	VVN	rat	ted
+movies	movie	NNS	mov	ies
+
+look	look	VV	loo	ook
+up	up	RB	O	O
+r	r	SYM	O	O
+rated	rate	VVN	rat	ted
+movies	movie	NNS	mov	ies
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+only	only	RB	onl	nly
+r	r	SYM	O	O
+rated	rate	VVN	rat	ted
+movies	movie	NNS	mov	ies
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+rated	rate	VVN	rat	ted
+r	r	NN	O	O
+movies	movie	NNS	mov	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+only	only	JJ	onl	nly
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+a	a	DT	O	O
+rating	rating	NN	rat	ing
+of	of	IN	O	O
+r	r	NN	O	O
+
+please	please	UH	ple	ase
+look	look	VV	loo	ook
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+an	an	DT	O	O
+r	r	NN	O	O
+rating	rating	NN	rat	ing
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+rated	rate	VVN	rat	ted
+r	r	NN	O	O
+
+look	look	NN	loo	ook
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+an	an	DT	O	O
+r	r	NN	O	O
+rating	rating	NN	rat	ing
+
+give	give	VV	giv	ive
+me	me	PP	O	O
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+all	all	DT	all	all
+movies	movie	NNS	mov	ies
+that	that	WDT	tha	hat
+are	be	VBP	are	are
+rated	rate	VVN	rat	ted
+r	r	NN	O	O
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+watch	watch	VV	wat	tch
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+norway	norway	NN	nor	way
+
+can	can	MD	can	can
+i	i	NP	O	O
+have	have	VHP	hav	ave
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+spanish	Spanish	JJ	spa	ish
+speaking	speaking	NN	spe	ing
+movies	movie	NNS	mov	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+made	make	VVN	mad	ade
+in	in	IN	O	O
+mexico	mexico	NN	mex	ico
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+pot	pot	NN	pot	pot
+zombies	zombie	NNS	zom	ies
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+have	have	VHP	hav	ave
+zombies	zombie	NNS	zom	ies
+in	in	IN	O	O
+them	them	PP	the	hem
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+about	about	IN	abo	out
+zombies	zombie	NNS	zom	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+about	about	IN	abo	out
+zombies	zombie	NNS	zom	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+ones	one	NNS	one	nes
+by	by	IN	O	O
+david	david	JJ	dav	vid
+fincher	fincher	NN	fin	her
+
+show	show	VV	sho	how
+ridley	Ridley	NP	rid	ley
+scott	Scott	NP	sco	ott
+'s	's	POS	O	O
+filmography	filmography	NN	fil	phy
+
+find	find	VV	fin	ind
+ridley	Ridley	NP	rid	ley
+scott	Scott	NP	sco	ott
+movies	movie	NNS	mov	ies
+
+can	can	MD	can	can
+you	you	PP	you	you
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+ridley	Ridley	NP	rid	ley
+scott	Scott	NP	sco	ott
+
+list	list	NN	lis	ist
+german	german	NN	ger	man
+movies	movie	NNS	mov	ies
+
+german	german	JJ	ger	man
+movies	movie	NNS	mov	ies
+
+find	find	VV	fin	ind
+action	action	NN	act	ion
+films	film	NNS	fil	lms
+
+find	find	VV	fin	ind
+some	some	DT	som	ome
+action	action	NN	act	ion
+movies	movie	NNS	mov	ies
+
+list	list	NN	lis	ist
+dredd	dredd	NN	dre	edd
+movie	movie	NN	mov	vie
+
+show	show	VV	sho	how
+me	me	PP	O	O
+george	george	VV	geo	rge
+lucas	lucas	NNS	luc	cas
+movies	movie	NNS	mov	ies
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+george	george	NN	geo	rge
+lucas	lucas	NNS	luc	cas
+
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+
+please	please	UH	ple	ase
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+morgan	morgan	NN	mor	gan
+freeman	freeman	NN	fre	man
+
+please	please	UH	ple	ase
+look	look	VV	loo	ook
+up	up	RP	O	O
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+morgan	morgan	NN	mor	gan
+freeman	freeman	NN	fre	man
+
+search	search	NN	sea	rch
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+morgan	morgan	NN	mor	gan
+freeman	freeman	NN	fre	man
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+morgan	morgan	NN	mor	gan
+freeman	freeman	NN	fre	man
+
+look	look	VV	loo	ook
+up	up	RP	O	O
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+morgan	morgan	NN	mor	gan
+freeman	freeman	NN	fre	man
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+has	have	VHZ	has	has
+meryl	meryl	NN	mer	ryl
+streep	streep	NNS	str	eep
+starred	star	VVN	sta	red
+in	in	IN	O	O
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+movies	movie	NNS	mov	ies
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+the	the	DT	the	the
+director	director	NN	dir	tor
+of	of	IN	O	O
+this	this	DT	thi	his
+movie	movie	NN	mov	vie
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+movies	movie	NNS	mov	ies
+made	make	VVN	mad	ade
+in	in	IN	O	O
+russia	russia	NN	rus	sia
+
+look	look	VVP	loo	ook
+up	up	RB	O	O
+star	star	VV	sta	tar
+wars	war	NNS	war	ars
+four	four	CD	fou	our
+movie	movie	NN	mov	vie
+
+display	display	VV	dis	lay
+all	all	DT	all	all
+details	detail	NNS	det	ils
+about	about	IN	abo	out
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+-	-	:	O	O
+a	a	DT	O	O
+new	new	JJ	new	new
+hope	hope	NN	hop	ope
+movie	movie	NN	mov	vie
+
+get	get	VV	get	get
+all	all	DT	all	all
+details	detail	NNS	det	ils
+about	about	IN	abo	out
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+-	-	:	O	O
+a	a	DT	O	O
+new	new	JJ	new	new
+hope	hope	NN	hop	ope
+movie	movie	NN	mov	vie
+
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+episode	episode	NN	epi	ode
+four	four	CD	fou	our
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+four	four	CD	fou	our
+main	main	JJ	mai	ain
+page	page	NN	pag	age
+
+search	search	NN	sea	rch
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+four	four	CD	fou	our
+
+find	find	VV	fin	ind
+me	me	PP	O	O
+tons	ton	NNS	ton	ons
+of	of	IN	O	O
+info	info	NN	inf	nfo
+related	relate	VVN	rel	ted
+to	to	TO	O	O
+star	star	VV	sta	tar
+wars	war	NNS	war	ars
+four	four	CD	fou	our
+
+get	get	VV	get	get
+details	detail	NNS	det	ils
+of	of	IN	O	O
+in	in	IN	O	O
+july	july	JJ	jul	uly
+movie	movie	NN	mov	vie
+
+find	find	VV	fin	ind
+details	detail	NNS	det	ils
+of	of	IN	O	O
+in	in	IN	O	O
+july	july	JJ	jul	uly
+movie	movie	NN	mov	vie
+
+show	show	NN	sho	how
+details	detail	NNS	det	ils
+of	of	IN	O	O
+in	in	IN	O	O
+july	july	JJ	jul	uly
+movie	movie	NN	mov	vie
+
+tell	tell	VV	tel	ell
+me	me	PP	O	O
+about	about	RB	abo	out
+in	in	IN	O	O
+july	july	JJ	jul	uly
+movie	movie	NN	mov	vie
+
+look	look	VV	loo	ook
+up	up	RP	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+in	in	IN	O	O
+july	july	RB	jul	uly
+
+display	display	NN	dis	lay
+information	information	NN	inf	ion
+for	for	IN	for	for
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+title	title	NN	tit	tle
+in	in	IN	O	O
+july	july	RB	jul	uly
+
+movie	movie	NN	mov	vie
+in	in	IN	O	O
+july	july	JJ	jul	uly
+data	datum	NNS	dat	ata
+
+where	where	WRB	whe	ere
+can	can	MD	can	can
+i	i	NNS	O	O
+find	find	VV	fin	ind
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+aankhen	aankhen	NN	aan	hen
+in	in	IN	O	O
+hindi	Hindi	NN	hin	ndi
+
+display	display	NN	dis	lay
+julia	julia	NN	jul	lia
+roberts	roberts	NNS	rob	rts
+films	film	NNS	fil	lms
+
+list	list	VV	lis	ist
+the	the	DT	the	the
+movies	movie	NNS	mov	ies
+that	that	WDT	tha	hat
+have	have	VHP	hav	ave
+the	the	DT	the	the
+actress	actress	NN	act	ess
+angelina	angelina	NN	ang	ina
+jolie	jolie	NN	jol	lie
+
+dustin	dustin	NN	dus	tin
+hoffman	hoffman	NN	hof	man
+movies	movie	NNS	mov	ies
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+did	do	VVD	did	did
+david	david	JJ	dav	vid
+ayer	ayer	NN	aye	yer
+direct	direct	JJ	dir	ect
+
+i	i	NP	O	O
+would	would	MD	wou	uld
+like	like	VV	lik	ike
+to	to	TO	O	O
+view	view	VV	vie	iew
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+clint	clint	NN	cli	int
+eastwood	eastwood	NN	eas	ood
+
+list	list	VV	lis	ist
+all	all	DT	all	all
+movies	movie	NNS	mov	ies
+about	about	IN	abo	out
+horses	horse	NNS	hor	ses
+
+find	find	VV	fin	ind
+all	all	DT	all	all
+johnny	johnny	NN	joh	nny
+depp	depp	NN	dep	epp
+movies	movie	NNS	mov	ies
+
+search	search	NN	sea	rch
+by	by	IN	O	O
+director	director	NN	dir	tor
+
+search	search	NN	sea	rch
+by	by	IN	O	O
+director	director	NN	dir	tor
+
+is	be	VBZ	O	O
+there	there	RB	the	ere
+any	any	DT	any	any
+upcoming	upcoming	JJ	upc	ing
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+warner	warner	NN	war	ner
+brothers	brother	NNS	bro	ers
+
+bring	bring	VV	bri	ing
+up	up	RP	O	O
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+ice	ice	NN	ice	ice
+skating	skate	VVG	ska	ing
+in	in	IN	O	O
+it	it	PP	O	O
+
+find	find	VV	fin	ind
+newly	newly	RB	new	wly
+released	release	VVN	rel	sed
+comedies	comedy	NNS	com	ies
+from	from	IN	fro	rom
+england	england	NN	eng	and
+
+i	i	NP	O	O
+need	need	NN	nee	eed
+info	info	NN	inf	nfo
+on	on	IN	O	O
+house	house	NN	hou	use
+at	at	IN	O	O
+the	the	DT	the	the
+end	end	NN	end	end
+of	of	IN	O	O
+the	the	DT	the	the
+street	street	NN	str	eet
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+houses	house	NNS	hou	ses
+at	at	IN	O	O
+the	the	DT	the	the
+end	end	NN	end	end
+of	of	IN	O	O
+the	the	DT	the	the
+street	street	NN	str	eet
+about	about	RB	abo	out
+
+give	give	VV	giv	ive
+me	me	PP	O	O
+more	more	JJR	mor	ore
+facts	fact	NNS	fac	cts
+about	about	IN	abo	out
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+house	house	NN	hou	use
+at	at	IN	O	O
+the	the	DT	the	the
+end	end	NN	end	end
+of	of	IN	O	O
+the	the	DT	the	the
+street	street	NN	str	eet
+in	in	IN	O	O
+detail	detail	NN	det	ail
+
+i	i	NP	O	O
+would	would	MD	wou	uld
+like	like	VV	lik	ike
+to	to	TO	O	O
+know	know	VV	kno	now
+in	in	IN	O	O
+detail	detail	NN	det	ail
+about	about	IN	abo	out
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+house	house	NN	hou	use
+at	at	IN	O	O
+the	the	DT	the	the
+end	end	NN	end	end
+of	of	IN	O	O
+the	the	DT	the	the
+street	street	NN	str	eet
+
+display	display	NN	dis	lay
+movie	movie	NN	mov	vie
+information	information	NN	inf	ion
+for	for	IN	for	for
+the	the	DT	the	the
+film	film	NN	fil	ilm
+house	house	NN	hou	use
+at	at	IN	O	O
+the	the	DT	the	the
+end	end	NN	end	end
+of	of	IN	O	O
+the	the	DT	the	the
+street	street	NN	str	eet
+
+films	film	NNS	fil	lms
+with	with	IN	wit	ith
+chinese	Chinese	NN	chi	ese
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+watch	watch	VV	wat	tch
+a	a	DT	O	O
+movie	movie	NN	mov	vie
+in	in	IN	O	O
+chinese	Chinese	NN	chi	ese
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+and	and	CC	and	and
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+tyler	tyler	NN	tyl	ler
+perry	perry	NN	per	rry
+
+tom	tom	NN	tom	tom
+cruise	cruise	NN	cru	ise
+movies	movie	NNS	mov	ies
+please	please	VVP	ple	ase
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+tom	tom	NN	tom	tom
+cruise	cruise	NN	cru	ise
+movies	movie	NNS	mov	ies
+please	please	VVP	ple	ase
+
+which	which	WDT	whi	ich
+movies	movie	NNS	mov	ies
+star	star	VVP	sta	tar
+tom	tom	NN	tom	tom
+cruise	cruise	NN	cru	ise
+
+which	which	WDT	whi	ich
+movies	movie	NNS	mov	ies
+do	do	VVP	O	O
+tom	tom	NN	tom	tom
+cruise	cruise	NN	cru	ise
+play	play	VVP	pla	lay
+in	in	IN	O	O
+
+find	find	VV	fin	ind
+end	end	NN	end	end
+of	of	IN	O	O
+watch	watch	NN	wat	tch
+
+search	search	NN	sea	rch
+by	by	IN	O	O
+genre	genre	NN	gen	nre
+
+looking	look	VVG	loo	ing
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+of	of	IN	O	O
+yash	yash	NN	yas	ash
+chopra	chopra	NN	cho	pra
+
+find	find	VV	fin	ind
+me	me	PP	O	O
+information	information	NN	inf	ion
+about	about	IN	abo	out
+the	the	DT	the	the
+campaign	campaign	NN	cam	ign
+movie	movie	NN	mov	vie
+
+information	information	NN	inf	ion
+for	for	IN	for	for
+movie	movie	NN	mov	vie
+the	the	DT	the	the
+campaign	campaign	NN	cam	ign
+
+show	show	VV	sho	how
+me	me	PP	O	O
+info	info	NN	inf	nfo
+on	on	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+the	the	DT	the	the
+campaign	campaign	NN	cam	ign
+please	please	RB	ple	ase
+
+i	i	NNS	O	O
+need	need	VVP	nee	eed
+to	to	TO	O	O
+see	see	VV	see	see
+all	all	PDT	all	all
+the	the	DT	the	the
+details	detail	NNS	det	ils
+about	about	IN	abo	out
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+the	the	DT	the	the
+campaign	campaign	NN	cam	ign
+
+sort	sort	VV	sor	ort
+all	all	DT	all	all
+pg	pg	NN	O	O
+movies	movie	NNS	mov	ies
+
+pg	pg	NN	O	O
+rated	rate	VVD	rat	ted
+movies	movie	NNS	mov	ies
+
+access	access	VV	acc	ess
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+pg	pg	NN	O	O
+movies	movie	NNS	mov	ies
+please	please	VVP	ple	ase
+
+give	give	VV	giv	ive
+me	me	PP	O	O
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+pg	pg	NN	O	O
+movies	movie	NNS	mov	ies
+
+can	can	MD	can	can
+you	you	PP	you	you
+find	find	VV	fin	ind
+me	me	PP	O	O
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+pg	pg	NN	O	O
+rated	rate	VVN	rat	ted
+movies	movie	NNS	mov	ies
+to	to	TO	O	O
+watch	watch	VV	wat	tch
+
+show	show	VV	sho	how
+me	me	PP	O	O
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+pg	pg	NN	O	O
+rated	rate	VVN	rat	ted
+movies	movie	NNS	mov	ies
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+a	a	DT	O	O
+pg	pg	NN	O	O
+rating	rating	NN	rat	ing
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+are	be	VBP	are	are
+pg	pg	JJ	O	O
+
+movies	movie	NNS	mov	ies
+by	by	IN	O	O
+alfred	alfred	NN	alf	red
+hitchcock	hitchcock	NN	hit	ock
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+did	do	VVD	did	did
+alfred	alfred	NN	alf	red
+hitchcock	hitchcock	NN	hit	ock
+make	make	VV	mak	ake
+
+watch	watch	VV	wat	tch
+hitchcook	hitchcook	NN	hit	ook
+movies	movie	NNS	mov	ies
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+any	any	DT	any	any
+current	current	JJ	cur	ent
+movies	movie	NNS	mov	ies
+starring	star	VVG	sta	ing
+tom	tom	NN	tom	tom
+hanks	hank	NNS	han	nks
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+recent	recent	JJ	rec	ent
+movies	movie	NNS	mov	ies
+rated	rate	VVN	rat	ted
+pg	pg	NN	O	O
+
+give	give	VV	giv	ive
+me	me	PP	O	O
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+recent	recent	JJ	rec	ent
+movies	movie	NNS	mov	ies
+rated	rate	VVN	rat	ted
+pg	pg	NN	O	O
+
+ray	ray	NN	ray	ray
+stark	stark	RB	sta	ark
+produced	produce	VVD	pro	ced
+what	what	WP	wha	hat
+other	other	JJ	oth	her
+movies	movie	NNS	mov	ies
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+spielberg	Spielberg	NP	spi	erg
+'s	's	POS	O	O
+latest	late	JJS	lat	est
+movie	movie	NN	mov	vie
+
+please	please	UH	ple	ase
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+tom	tom	NN	tom	tom
+hanks	hank	NNS	han	nks
+
+are	be	VBP	are	are
+there	there	RB	the	ere
+any	any	DT	any	any
+recent	recent	JJ	rec	ent
+movies	movie	NNS	mov	ies
+that	that	WDT	tha	hat
+are	be	VBP	are	are
+polish	polish	NN	pol	ish
+speaking	speaking	NN	spe	ing
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+has	have	VHZ	has	has
+tom	tom	NN	tom	tom
+cruise	cruise	NN	cru	ise
+been	be	VBN	bee	een
+in	in	IN	O	O
+recently	recently	RB	rec	tly
+
+search	search	NN	sea	rch
+for	for	IN	for	for
+new	new	JJ	new	new
+movies	movie	NNS	mov	ies
+
+search	search	NN	sea	rch
+for	for	IN	for	for
+in	in	IN	O	O
+july	July	NN	jul	uly
+
+watch	watch	VV	wat	tch
+in	in	IN	O	O
+july	july	RB	jul	uly
+online	online	JJ	onl	ine
+
+search	search	NN	sea	rch
+for	for	IN	for	for
+information	information	NN	inf	ion
+about	about	IN	abo	out
+lionsgate	lionsgate	NNS	lio	ate
+
+lionsgate	lionsgate	JJ	lio	ate
+info	info	NN	inf	nfo
+
+find	find	VV	fin	ind
+information	information	NN	inf	ion
+about	about	IN	abo	out
+paramount	paramount	JJ	par	unt
+studios	studio	NNS	stu	ios
+
+who	who	WP	who	who
+is	be	VBZ	O	O
+ray	ray	NN	ray	ray
+stark	stark	JJ	sta	ark
+
+find	find	VV	fin	ind
+information	information	NN	inf	ion
+on	on	IN	O	O
+charles	charles	NNS	cha	les
+vidor	vidor	NN	vid	dor
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+look	look	VV	loo	ook
+up	up	RP	O	O
+information	information	NN	inf	ion
+about	about	IN	abo	out
+tom	tom	NN	tom	tom
+cruise	cruise	NN	cru	ise
+
+can	can	MD	can	can
+you	you	PP	you	you
+please	please	VV	ple	ase
+search	search	NN	sea	rch
+details	detail	NNS	det	ils
+about	about	RB	abo	out
+will	will	MD	wil	ill
+ferrell	ferrell	VV	fer	ell
+
+will	will	MD	wil	ill
+ferrell	Ferrell	NP	fer	ell
+biography	biography	NN	bio	phy
+
+show	show	NN	sho	how
+will	will	MD	wil	ill
+ferrell	ferrell	VV	fer	ell
+biography	biography	NN	bio	phy
+
+show	show	VV	sho	how
+me	me	PP	O	O
+a	a	DT	O	O
+complete	complete	JJ	com	ete
+biography	biography	NN	bio	phy
+of	of	IN	O	O
+will	will	NN	wil	ill
+ferrell	ferrell	NN	fer	ell
+
+show	show	VV	sho	how
+me	me	PP	O	O
+information	information	NN	inf	ion
+on	on	IN	O	O
+will	will	NN	wil	ill
+ferrell	ferrell	NN	fer	ell
+
+show	show	VV	sho	how
+me	me	PP	O	O
+will	will	MD	wil	ill
+ferrell	ferrell	NN	fer	ell
+'s	's	POS	O	O
+bio	bio	NN	bio	bio
+
+get	get	VV	get	get
+info	info	NN	inf	nfo
+on	on	IN	O	O
+kristen	Kristen	NP	kri	ten
+stewart	stewart	NN	ste	art
+
+does	do	VVZ	doe	oes
+kristen	Kristen	NP	kri	ten
+stewart	Stewart	NP	ste	art
+have	have	VHP	hav	ave
+a	a	DT	O	O
+personal	personal	JJ	per	nal
+page	page	NN	pag	age
+
+where	where	WRB	whe	ere
+can	can	MD	can	can
+i	i	NNS	O	O
+find	find	VV	fin	ind
+information	information	NN	inf	ion
+about	about	IN	abo	out
+kristen	Kristen	NP	kri	ten
+stewart	stewart	NN	ste	art
+
+jennifer	jennifer	NN	jen	fer
+aniston	aniston	NN	ani	ton
+bio	bio	NN	bio	bio
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+spielberg	Spielberg	NP	spi	erg
+'s	's	POS	O	O
+main	main	JJ	mai	ain
+page	page	NN	pag	age
+
+steven	steven	JJ	ste	ven
+spielberg	spielberg	NN	spi	erg
+summary	summary	NN	sum	ary
+
+about	about	IN	abo	out
+steven	steven	JJ	ste	ven
+spielberg	spielberg	NN	spi	erg
+
+find	find	VV	fin	ind
+me	me	PP	O	O
+bio	bio	NN	bio	bio
+details	detail	NNS	det	ils
+for	for	IN	for	for
+steven	steven	JJ	ste	ven
+spielberg	spielberg	NN	spi	erg
+
+bio	bio	NN	bio	bio
+for	for	IN	for	for
+steven	steven	JJ	ste	ven
+spielberg	spielberg	NN	spi	erg
+
+show	show	VV	sho	how
+me	me	PP	O	O
+alfred	alfred	NN	alf	red
+hitchcock	hitchcock	NN	hit	ock
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+more	more	JJR	mor	ore
+information	information	NN	inf	ion
+about	about	IN	abo	out
+alfred	Alfred	NP	alf	red
+hitchock	hitchock	NP	hit	ock
+'s	's	POS	O	O
+biography	biography	NN	bio	phy
+
+all	all	DT	all	all
+info	info	NN	inf	nfo
+hitchcock	hitchcock	NN	hit	ock
+
+find	find	VV	fin	ind
+the	the	DT	the	the
+name	name	NN	nam	ame
+of	of	IN	O	O
+the	the	DT	the	the
+producer	producer	NN	pro	cer
+of	of	IN	O	O
+avatar	avatar	NN	ava	tar
+
+producer	producer	NN	pro	cer
+hitch	hitch	NN	hit	tch
+
+who	who	WP	who	who
+produces	produce	VVZ	pro	ces
+hitch	hitch	NN	hit	tch
+
+production	production	NN	pro	ion
+company	company	NN	com	any
+for	for	IN	for	for
+transformers	transformer	NNS	tra	ers
+
+what	what	WP	wha	hat
+company	company	NN	com	any
+made	make	VVD	mad	ade
+et	et	FW	O	O
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+the	the	DT	the	the
+production	production	NN	pro	ion
+company	company	NN	com	any
+for	for	IN	for	for
+et	et	FW	O	O
+
+who	who	WP	who	who
+produces	produce	VVZ	pro	ces
+cars	car	NNS	car	ars
+
+can	can	MD	can	can
+you	you	PP	you	you
+find	find	VV	fin	ind
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+cars	car	NNS	car	ars
+
+production	production	NN	pro	ion
+company	company	NN	com	any
+for	for	IN	for	for
+devil	devil	NN	dev	vil
+
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+steel	steel	NN	ste	eel
+magnolias	magnolia	NNS	mag	ias
+
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+avatar	avatar	NN	ava	tar
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+know	know	VV	kno	now
+the	the	DT	the	the
+producer	producer	NN	pro	cer
+of	of	IN	O	O
+avatar	avatar	NN	ava	tar
+
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+avatar	avatar	NN	ava	tar
+
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+avatar	avatar	NN	ava	tar
+
+avatar	avatar	NN	ava	tar
+producer	producer	NN	pro	cer
+
+i	i	NP	O	O
+would	would	MD	wou	uld
+like	like	VV	lik	ike
+to	to	TO	O	O
+know	know	VV	kno	now
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+avatar	avatar	NN	ava	tar
+
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+avatar	avatar	NN	ava	tar
+
+who	who	WP	who	who
+are	be	VBP	are	are
+the	the	DT	the	the
+producers	producer	NNS	pro	ers
+for	for	IN	for	for
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+avatar	avatar	NN	ava	tar
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+grease	grease	NN	gre	ase
+'s	's	POS	O	O
+producer	producer	NN	pro	cer
+
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+grease	grease	NN	gre	ase
+
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+my	my	PP$	O	O
+big	big	JJ	big	big
+fat	fat	JJ	fat	fat
+greek	Greek	NN	gre	eek
+wedding	wedding	NN	wed	ing
+
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+pretty	pretty	JJ	pre	tty
+woman	woman	NN	wom	man
+
+tell	tell	VV	tel	ell
+me	me	PP	O	O
+the	the	DT	the	the
+producer	producer	NN	pro	cer
+for	for	IN	for	for
+the	the	DT	the	the
+godfather	godfather	NN	god	her
+
+the	the	DT	the	the
+godfather	godfather	NN	god	her
+was	be	VBD	was	was
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+clue	clue	NN	clu	lue
+
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+hotel	hotel	NN	hot	tel
+rwanda	rwanda	NN	rwa	nda
+
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+marley	marley	NN	mar	ley
+and	and	CC	and	and
+me	me	PP	O	O
+
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+despicable	despicable	JJ	des	ble
+me	me	PP	O	O
+
+who	who	WP	who	who
+is	be	VBZ	O	O
+the	the	DT	the	the
+company	company	NN	com	any
+that	that	WDT	tha	hat
+produced	produce	VVD	pro	ced
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+inception	inception	NN	inc	ion
+
+what	what	WP	wha	hat
+company	company	NN	com	any
+developed	develop	VVD	dev	ped
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+inception	inception	NN	inc	ion
+
+find	find	VV	fin	ind
+producer	producer	NN	pro	cer
+of	of	IN	O	O
+the	the	DT	the	the
+great	great	JJ	gre	eat
+debaters	debater	NNS	deb	ers
+
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+inception	inception	NN	inc	ion
+
+provide	provide	VV	pro	ide
+the	the	DT	the	the
+name	name	NN	nam	ame
+of	of	IN	O	O
+the	the	DT	the	the
+company	company	NN	com	any
+that	that	WDT	tha	hat
+produced	produce	VVD	pro	ced
+sparkle	sparkle	NN	spa	kle
+
+i	i	NNS	O	O
+need	need	VVP	nee	eed
+to	to	TO	O	O
+know	know	VV	kno	now
+the	the	DT	the	the
+company	company	NN	com	any
+that	that	WDT	tha	hat
+produced	produce	VVD	pro	ced
+sparkle	sparkle	NN	spa	kle
+
+find	find	VV	fin	ind
+the	the	DT	the	the
+producer	producer	NN	pro	cer
+of	of	IN	O	O
+look	look	NN	loo	ook
+who	who	WP	who	who
+'s	be	VBZ	O	O
+talking	talk	VVG	tal	ing
+
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+harlem	harlem	NN	har	lem
+nights	night	NNS	nig	hts
+
+find	find	VV	fin	ind
+the	the	DT	the	the
+producer	producer	NN	pro	cer
+of	of	IN	O	O
+step	step	NN	ste	tep
+up	up	RB	O	O
+
+please	please	UH	ple	ase
+find	find	VV	fin	ind
+the	the	DT	the	the
+producer	producer	NN	pro	cer
+of	of	IN	O	O
+freedom	freedom	NN	fre	dom
+writers	writer	NNS	wri	ers
+
+look	look	VV	loo	ook
+for	for	IN	for	for
+the	the	DT	the	the
+producer	producer	NN	pro	cer
+of	of	IN	O	O
+freedom	freedom	NN	fre	dom
+writers	writer	NNS	wri	ers
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movie	movie	NN	mov	vie
+rating	rating	NN	rat	ing
+
+how	how	WRB	how	how
+much	much	JJ	muc	uch
+revenue	revenue	NN	rev	nue
+did	do	VVD	did	did
+pretty	pretty	RB	pre	tty
+woman	woman	NN	wom	man
+make	make	VV	mak	ake
+
+earnings	earning	NNS	ear	ngs
+for	for	IN	for	for
+pretty	pretty	JJ	pre	tty
+woman	woman	NN	wom	man
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+the	the	DT	the	the
+revenue	revenue	NN	rev	nue
+of	of	IN	O	O
+pretty	pretty	JJ	pre	tty
+woman	woman	NN	wom	man
+
+how	how	WRB	how	how
+much	much	RB	muc	uch
+did	do	VVD	did	did
+pretty	pretty	RB	pre	tty
+woman	woman	NN	wom	man
+make	make	VV	mak	ake
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+the	the	DT	the	the
+gross	gross	JJ	gro	oss
+revenue	revenue	NN	rev	nue
+for	for	IN	for	for
+the	the	DT	the	the
+avengers	avenger	NNS	ave	ers
+
+how	how	WRB	how	how
+much	much	RB	muc	uch
+did	do	VVD	did	did
+the	the	DT	the	the
+avengers	avenger	NNS	ave	ers
+make	make	VVP	mak	ake
+
+revenue	revenue	NN	rev	nue
+for	for	IN	for	for
+the	the	DT	the	the
+avengers	avenger	NNS	ave	ers
+
+how	how	WRB	how	how
+much	much	RB	muc	uch
+did	do	VVD	did	did
+the	the	DT	the	the
+dark	dark	JJ	dar	ark
+night	night	NN	nig	ght
+generate	generate	VV	gen	ate
+in	in	IN	O	O
+revenues	revenue	NNS	rev	ues
+
+find	find	VV	fin	ind
+revenue	revenue	NN	rev	nue
+totals	total	NNS	tot	als
+for	for	IN	for	for
+jurassic	Jurassic	JJ	jur	sic
+park	park	NN	par	ark
+
+revenue	revenue	NN	rev	nue
+for	for	IN	for	for
+independence	independence	NN	ind	nce
+day	day	NN	day	day
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+new	new	JJ	new	new
+will	will	NN	wil	ill
+ferrell	ferrell	NN	fer	ell
+movie	movie	NN	mov	vie
+about	about	RB	abo	out
+
+who	who	WP	who	who
+played	play	VVD	pla	yed
+the	the	DT	the	the
+voice	voice	NN	voi	ice
+of	of	IN	O	O
+nemo	nemo	NN	nem	emo
+in	in	IN	O	O
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+who	who	WP	who	who
+played	play	VVD	pla	yed
+richie	richie	NN	ric	hie
+cunningham	cunningham	NN	cun	ham
+in	in	IN	O	O
+happy	happy	JJ	hap	ppy
+days	day	NNS	day	ays
+
+who	who	WP	who	who
+stars	star	VVZ	sta	ars
+in	in	IN	O	O
+house	house	NN	hou	use
+at	at	IN	O	O
+the	the	DT	the	the
+end	end	NN	end	end
+of	of	IN	O	O
+the	the	DT	the	the
+street	street	NN	str	eet
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+cast	cast	NN	cas	ast
+for	for	IN	for	for
+the	the	DT	the	the
+house	house	NN	hou	use
+at	at	IN	O	O
+the	the	DT	the	the
+end	end	NN	end	end
+of	of	IN	O	O
+the	the	DT	the	the
+street	street	NN	str	eet
+
+cast	cast	NN	cas	ast
+and	and	CC	and	and
+crew	crew	NN	cre	rew
+of	of	IN	O	O
+house	house	NN	hou	use
+at	at	IN	O	O
+the	the	DT	the	the
+end	end	NN	end	end
+of	of	IN	O	O
+the	the	DT	the	the
+street	street	NN	str	eet
+
+ethel	ethel	NN	eth	hel
+actress	actress	NN	act	ess
+from	from	IN	fro	rom
+i	i	NP	O	O
+love	love	NN	lov	ove
+lucy	lucy	NN	luc	ucy
+
+actress	actress	NN	act	ess
+who	who	WP	who	who
+played	play	VVD	pla	yed
+ethel	ethel	NN	eth	hel
+on	on	IN	O	O
+i	i	NP	O	O
+love	love	NN	lov	ove
+lucy	lucy	NN	luc	ucy
+
+who	who	WP	who	who
+are	be	VBP	are	are
+the	the	DT	the	the
+cast	cast	NN	cas	ast
+members	member	NNS	mem	ers
+in	in	IN	O	O
+lord	lord	NN	lor	ord
+of	of	IN	O	O
+the	the	DT	the	the
+rings	ring	VVZ	rin	ngs
+the	the	DT	the	the
+two	two	CD	two	two
+towers	tower	NNS	tow	ers
+
+who	who	WP	who	who
+played	play	VVD	pla	yed
+hawkeye	hawkeye	NN	haw	eye
+in	in	IN	O	O
+mash	mash	NN	mas	ash
+
+who	who	WP	who	who
+played	play	VVD	pla	yed
+mother	mother	NN	mot	her
+in	in	IN	O	O
+tarkovsky	tarkovsky	NP	tar	sky
+'s	's	POS	O	O
+mirror	mirror	NN	mir	ror
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+actor	actor	NN	act	tor
+of	of	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+muthyala	muthyala	NN	mut	ala
+muggu	muggu	NN	mug	ggu
+
+who	who	WP	who	who
+are	be	VBP	are	are
+the	the	DT	the	the
+droids	droids	NNS	dro	ids
+in	in	IN	O	O
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+episode	episode	NN	epi	ode
+four	four	CD	fou	our
+
+who	who	WP	who	who
+was	be	VBD	was	was
+that	that	DT	tha	hat
+guy	guy	NN	guy	guy
+again	again	RB	aga	ain
+who	who	WP	who	who
+was	be	VBD	was	was
+in	in	IN	O	O
+the	the	DT	the	the
+avengers	avenger	NNS	ave	ers
+
+which	which	WDT	whi	ich
+actor	actor	NN	act	tor
+played	play	VVD	pla	yed
+frodo	frodo	NN	fro	odo
+in	in	IN	O	O
+lord	lord	NN	lor	ord
+of	of	IN	O	O
+the	the	DT	the	the
+rings	ring	NNS	rin	ngs
+
+find	find	VV	fin	ind
+the	the	DT	the	the
+name	name	NN	nam	ame
+of	of	IN	O	O
+the	the	DT	the	the
+actress	actress	NN	act	ess
+who	who	WP	who	who
+played	play	VVD	pla	yed
+mother	mother	NN	mot	her
+in	in	IN	O	O
+mirror	mirror	NN	mir	ror
+by	by	IN	O	O
+andrey	andrey	NN	and	rey
+tarkovsky	tarkovsky	NN	tar	sky
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+name	name	NN	nam	ame
+of	of	IN	O	O
+the	the	DT	the	the
+actress	actress	NN	act	ess
+who	who	WP	who	who
+played	play	VVD	pla	yed
+mother	mother	NN	mot	her
+in	in	IN	O	O
+tarkovsky	tarkovsky	NP	tar	sky
+'s	's	POS	O	O
+mirror	mirror	NN	mir	ror
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+name	name	NN	nam	ame
+of	of	IN	O	O
+the	the	DT	the	the
+actor	actor	NN	act	tor
+who	who	WP	who	who
+played	play	VVD	pla	yed
+todd	todd	NNS	tod	odd
+in	in	IN	O	O
+the	the	DT	the	the
+tv	tv	NN	O	O
+show	show	VVP	sho	how
+one	one	CD	one	one
+life	life	NN	lif	ife
+to	to	TO	O	O
+live	live	VV	liv	ive
+
+give	give	VV	giv	ive
+me	me	PP	O	O
+the	the	DT	the	the
+name	name	NN	nam	ame
+of	of	IN	O	O
+the	the	DT	the	the
+main	main	JJ	mai	ain
+actress	actress	NN	act	ess
+in	in	IN	O	O
+platoon	platoon	NN	pla	oon
+
+what	what	WP	wha	hat
+'s	be	VBZ	O	O
+the	the	DT	the	the
+name	name	NN	nam	ame
+of	of	IN	O	O
+the	the	DT	the	the
+mom	mom	NN	mom	mom
+on	on	IN	O	O
+seinfeld	seinfeld	NP	sei	eld
+
+name	name	VV	nam	ame
+the	the	DT	the	the
+co-star	co-star	NN	co-	tar
+in	in	IN	O	O
+shoot	shoot	NN	sho	oot
+to	to	TO	O	O
+kill	kill	VV	kil	ill
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+name	name	NN	nam	ame
+of	of	IN	O	O
+the	the	DT	the	the
+actor	actor	NN	act	tor
+who	who	WP	who	who
+played	play	VVD	pla	yed
+atticus	atticus	NN	att	cus
+finch	finch	NN	fin	nch
+in	in	IN	O	O
+to	to	TO	O	O
+kill	kill	VV	kil	ill
+a	a	DT	O	O
+mockingbird	mockingbird	NN	moc	ird
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+name	name	NN	nam	ame
+of	of	IN	O	O
+the	the	DT	the	the
+guy	guy	NN	guy	guy
+who	who	WP	who	who
+was	be	VBD	was	was
+the	the	DT	the	the
+father	father	NN	fat	her
+and	and	CC	and	and
+a	a	DT	O	O
+lawyer	lawyer	NN	law	yer
+in	in	IN	O	O
+to	to	TO	O	O
+kill	kill	VV	kil	ill
+a	a	DT	O	O
+mockingbird	mockingbird	NN	moc	ird
+
+please	please	UH	ple	ase
+provide	provide	VV	pro	ide
+the	the	DT	the	the
+cost	cost	NN	cos	ost
+for	for	IN	for	for
+producing	produce	VVG	pro	ing
+the	the	DT	the	the
+deer	deer	NN	dee	eer
+hunter	hunter	NN	hun	ter
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+budget	budget	NN	bud	get
+for	for	IN	for	for
+epic	epic	NN	epi	pic
+
+search	search	NN	sea	rch
+budget	budget	NN	bud	get
+for	for	IN	for	for
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+epic	epic	NN	epi	pic
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+the	the	DT	the	the
+budget	budget	NN	bud	get
+for	for	IN	for	for
+fire	fire	NN	fir	ire
+proof	proof	NN	pro	oof
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+the	the	DT	the	the
+budget	budget	NN	bud	get
+for	for	IN	for	for
+fly	fly	NN	fly	fly
+whele	whele	NN	whe	ele
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+the	the	DT	the	the
+budget	budget	NN	bud	get
+for	for	IN	for	for
+1st	1st	JJ	1st	1st
+harry	harry	VVP	har	rry
+potter	potter	NN	pot	ter
+movie	movie	NN	mov	vie
+
+how	how	WRB	how	how
+much	much	RB	muc	uch
+was	be	VBD	was	was
+spent	spend	VVN	spe	ent
+on	on	IN	O	O
+shooting	shoot	VVG	sho	ing
+the	the	DT	the	the
+last	last	JJ	las	ast
+harry	harry	VV	har	rry
+potter	potter	NN	pot	ter
+film	film	NN	fil	ilm
+
+how	how	WRB	how	how
+much	much	RB	muc	uch
+does	do	VVZ	doe	oes
+it	it	PP	O	O
+cost	cost	VVD	cos	ost
+to	to	TO	O	O
+produce	produce	VV	pro	uce
+looper	looper	NN	loo	per
+
+how	how	WRB	how	how
+much	much	RB	muc	uch
+did	do	VVD	did	did
+it	it	PP	O	O
+cost	cost	VVD	cos	ost
+to	to	TO	O	O
+produce	produce	VV	pro	uce
+looper	looper	NN	loo	per
+
+how	how	WRB	how	how
+much	much	JJ	muc	uch
+money	money	NN	mon	ney
+was	be	VBD	was	was
+spent	spend	VVN	spe	ent
+to	to	TO	O	O
+produce	produce	VV	pro	uce
+looper	looper	NN	loo	per
+
+how	how	WRB	how	how
+much	much	RB	muc	uch
+did	do	VVD	did	did
+men	man	NNS	men	men
+in	in	IN	O	O
+black	black	JJ	bla	ack
+3	3	CD	O	O
+cost	cost	NN	cos	ost
+
+how	how	WRB	how	how
+much	much	RB	muc	uch
+was	be	VBD	was	was
+it	it	PP	O	O
+to	to	TO	O	O
+make	make	VV	mak	ake
+paranorman	paranorman	NN	par	man
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+budget	budget	NN	bud	get
+to	to	TO	O	O
+rebel	rebel	JJ	reb	bel
+movie	movie	NN	mov	vie
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+budget	budget	NN	bud	get
+for	for	IN	for	for
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+2	2	CD	O	O
+
+how	how	WRB	how	how
+much	much	RB	muc	uch
+did	do	VVD	did	did
+it	it	PP	O	O
+cost	cost	VVD	cos	ost
+to	to	TO	O	O
+create	create	VV	cre	ate
+the	the	DT	the	the
+boardwalk	boardwalk	NN	boa	alk
+empire	empire	NN	emp	ire
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+budget	budget	NN	bud	get
+for	for	IN	for	for
+expendables	expendable	NNS	exp	les
+1	1	CD	O	O
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+the	the	DT	the	the
+budget	budget	NN	bud	get
+for	for	IN	for	for
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+in	in	IN	O	O
+3d	3d	JJ	O	O
+
+liongate	liongate	NNS	lio	ate
+
+which	which	WDT	whi	ich
+country	country	NN	cou	try
+made	make	VVD	mad	ade
+inchochine	inchochine	NN	inc	ine
+
+what	what	WP	wha	hat
+country	country	NN	cou	try
+filed	file	VVD	fil	led
+les	les	FW	les	les
+mes	mes	FW	mes	mes
+
+what	what	WP	wha	hat
+country	country	NN	cou	try
+is	be	VBZ	O	O
+les	les	FW	les	les
+mes	mes	FW	mes	mes
+from	from	IN	fro	rom
+
+where	where	WRB	whe	ere
+was	be	VBD	was	was
+the	the	DT	the	the
+milk	milk	NN	mil	ilk
+of	of	IN	O	O
+sorrow	sorrow	NN	sor	row
+made	make	VVD	mad	ade
+
+what	what	WP	wha	hat
+country	country	NN	cou	try
+is	be	VBZ	O	O
+shawshank	shawshank	NN	sha	ank
+redemption	redemption	NN	red	ion
+
+what	what	WP	wha	hat
+country	country	NN	cou	try
+does	do	VVZ	doe	oes
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+thoda	thoda	NN	tho	oda
+pyaar	pyaar	NN	pya	aar
+thoda	thoda	NN	tho	oda
+magic	magic	NN	mag	gic
+comes	come	VVZ	com	mes
+from	from	IN	fro	rom
+
+tell	tell	VV	tel	ell
+me	me	PP	O	O
+where	where	WRB	whe	ere
+the	the	DT	the	the
+white	white	JJ	whi	ite
+ribbon	ribbon	NN	rib	bon
+came	come	VVD	cam	ame
+from	from	IN	fro	rom
+
+when	when	WRB	whe	hen
+was	be	VBD	was	was
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+barfi	barfi	NN	bar	rfi
+!	!	SENT	O	O
+released	release	VVN	rel	sed
+
+what	what	WP	wha	hat
+are	be	VBP	are	are
+the	the	DT	the	the
+dates	date	NNS	dat	tes
+for	for	IN	for	for
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+barfi	barfi	NN	bar	rfi
+!	!	SENT	O	O
+
+release	release	NN	rel	ase
+date	date	NN	dat	ate
+of	of	IN	O	O
+the	the	DT	the	the
+new	new	JJ	new	new
+bugs	bug	NNS	bug	ugs
+bunny	bunny	NN	bun	nny
+film	film	NN	fil	ilm
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+release	release	NN	rel	ase
+date	date	NN	dat	ate
+of	of	IN	O	O
+evil	evil	NN	evi	vil
+goes	go	VVZ	goe	oes
+global	global	JJ	glo	bal
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+release	release	NN	rel	ase
+date	date	NN	dat	ate
+for	for	IN	for	for
+jaws	jaw	NNS	jaw	aws
+17	@card@	CD	O	O
+in	in	IN	O	O
+the	the	DT	the	the
+theaters	theater	NNS	the	ers
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+release	release	NN	rel	ase
+date	date	NN	dat	ate
+for	for	IN	for	for
+jurassic	Jurassic	JJ	jur	sic
+park	park	NN	par	ark
+4	4	CD	O	O
+
+list	list	NN	lis	ist
+release	release	NN	rel	ase
+dates	date	NNS	dat	tes
+for	for	IN	for	for
+the	the	DT	the	the
+jurassic	Jurassic	JJ	jur	sic
+park	park	NN	par	ark
+movies	movie	NNS	mov	ies
+
+when	when	WRB	whe	hen
+will	will	MD	wil	ill
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+omg	omg	JJ	omg	omg
+oh	oh	UH	O	O
+my	my	PP$	O	O
+god	god	NN	god	god
+be	be	VB	O	O
+released	release	VVN	rel	sed
+
+when	when	WRB	whe	hen
+was	be	VBD	was	was
+the	the	DT	the	the
+lord	lord	NN	lor	ord
+of	of	IN	O	O
+the	the	DT	the	the
+rings	ring	NNS	rin	ngs
+movie	movie	NN	mov	vie
+released	release	VVD	rel	sed
+
+whats	whats	NNS	wha	ats
+paranormal	paranormal	JJ	par	mal
+activities	activity	NNS	act	ies
+release	release	NN	rel	ase
+date	date	NN	dat	ate
+
+when	when	WRB	whe	hen
+will	will	MD	wil	ill
+robocop	robocop	RB	rob	cop
+come	come	VV	com	ome
+out	out	RP	out	out
+
+when	when	WRB	whe	hen
+was	be	VBD	was	was
+suckerpunch	suckerpunch	NN	suc	nch
+be	be	VB	O	O
+released	release	VVN	rel	sed
+
+when	when	WRB	whe	hen
+was	be	VBD	was	was
+the	the	DT	the	the
+sound	sound	NN	sou	und
+of	of	IN	O	O
+music	music	NN	mus	sic
+released	release	VVN	rel	sed
+
+when	when	WRB	whe	hen
+will	will	MD	wil	ill
+twilight	twilight	NN	twi	ght
+breaking	break	VVG	bre	ing
+dawn	dawn	NN	daw	awn
+part	part	NN	par	art
+2	2	CD	O	O
+be	be	VB	O	O
+released	release	VVN	rel	sed
+
+who	who	WP	who	who
+directed	direct	VVD	dir	ted
+ai	ai	VVP	O	O
+
+find	find	VV	fin	ind
+the	the	DT	the	the
+director	director	NN	dir	tor
+of	of	IN	O	O
+downton	downton	NN	dow	ton
+abbey	abbey	NN	abb	bey
+
+who	who	WP	who	who
+directed	direct	VVD	dir	ted
+good	good	JJ	goo	ood
+bad	bad	JJ	bad	bad
+and	and	CC	and	and
+ugly	ugly	JJ	ugl	gly
+
+i	i	NP	O	O
+can	can	MD	can	can
+'t	't	NP	O	O
+remember	remember	VV	rem	ber
+who	who	WP	who	who
+directed	direct	VVD	dir	ted
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+
+find	find	VV	fin	ind
+the	the	DT	the	the
+director	director	NN	dir	tor
+of	of	IN	O	O
+to	to	TO	O	O
+kill	kill	VV	kil	ill
+a	a	DT	O	O
+mockingbird	mockingbird	NN	moc	ird
+
+is	be	VBZ	O	O
+amelie	amelie	NN	ame	lie
+in	in	IN	O	O
+a	a	DT	O	O
+different	different	JJ	dif	ent
+language	language	NN	lan	age
+
+what	what	WP	wha	hat
+language	language	NN	lan	age
+was	be	VBD	was	was
+amelie	amelie	NN	ame	lie
+filmed	film	VVN	fil	med
+in	in	IN	O	O
+
+what	what	WP	wha	hat
+language	language	NN	lan	age
+is	be	VBZ	O	O
+the	the	DT	the	the
+full	full	JJ	ful	ull
+monty	monty	NN	mon	nty
+in	in	IN	O	O
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+ju	ju	NN	O	O
+on	on	RB	O	O
+'s	's	POS	O	O
+original	original	JJ	ori	nal
+language	language	NN	lan	age
+
+what	what	WP	wha	hat
+language	language	NN	lan	age
+is	be	VBZ	O	O
+secrets	secret	NNS	sec	ets
+and	and	CC	and	and
+lies	lie	VVZ	lie	ies
+in	in	IN	O	O
+
+give	give	VV	giv	ive
+me	me	PP	O	O
+names	name	NNS	nam	mes
+of	of	IN	O	O
+some	some	DT	som	ome
+action	action	NN	act	ion
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+a	a	DT	O	O
+pg	pg	NN	O	O
+thirteen	thirteen	CD	thi	een
+rating	rating	NN	rat	ing
+
+show	show	VV	sho	how
+all	all	DT	all	all
+comedy	comedy	NN	com	edy
+musicals	musical	NNS	mus	als
+for	for	IN	for	for
+twenty	twenty	CD	twe	nty
+twelve	twelve	NN	twe	lve
+
+are	be	VBP	are	are
+there	there	RB	the	ere
+any	any	DT	any	any
+documentaries	documentary	NNS	doc	ies
+on	on	IN	O	O
+classic	classic	JJ	cla	sic
+cars	car	NNS	car	ars
+
+show	show	VV	sho	how
+all	all	DT	all	all
+dramas	dramas	NN	dra	mas
+produced	produce	VVN	pro	ced
+in	in	IN	O	O
+2010	@card@	CD	201	010
+
+find	find	VV	fin	ind
+some	some	DT	som	ome
+mysteries	mystery	NNS	mys	ies
+
+search	search	NN	sea	rch
+romantic	romantic	JJ	rom	tic
+commedies	commedies	NNS	com	ies
+
+sci-fi	sci-fi	NN	sci	-fi
+
+show	show	VV	sho	how
+me	me	PP	O	O
+westerns	western	NNS	wes	rns
+
+show	show	NN	sho	how
+car	car	NN	car	car
+documentaries	documentary	NNS	doc	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+a	a	DT	O	O
+katie	Katie	NP	kat	tie
+holmes	Holmes	NP	hol	mes
+flick	flick	NN	fli	ick
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+videos	video	NNS	vid	eos
+of	of	IN	O	O
+steven	steven	JJ	ste	ven
+spielberg	spielberg	NN	spi	erg
+
+videos	video	NNS	vid	eos
+related	relate	VVN	rel	ted
+to	to	TO	O	O
+steven	steven	JJ	ste	ven
+spielberg	spielberg	NN	spi	erg
+
+new	new	JJ	new	new
+released	release	VVN	rel	sed
+videos	video	NNS	vid	eos
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+brazilian	Brazilian	NN	bra	ian
+movies	movie	NNS	mov	ies
+
+show	show	VV	sho	how
+all	all	DT	all	all
+canandian	canandian	JJ	can	ian
+movies	movie	NNS	mov	ies
+for	for	IN	for	for
+nineteen	nineteen	CD	nin	een
+eighty	eighty	CD	eig	hty
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+were	be	VBD	wer	ere
+made	make	VVN	mad	ade
+in	in	IN	O	O
+ireland	ireland	NN	ire	and
+this	this	DT	thi	his
+year	year	NN	yea	ear
+
+find	find	VV	fin	ind
+philipino	philipino	NN	phi	ino
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+english	English	NN	eng	ish
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+highest-grossing	highest-grossing	JJ	hig	ing
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+portugal	portugal	NN	por	gal
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+america	america	NN	ame	ica
+about	about	IN	abo	out
+obama	obama	NN	oba	ama
+
+i	i	NP	O	O
+'d	will	MD	O	O
+love	love	VV	lov	ove
+to	to	TO	O	O
+watch	watch	VV	wat	tch
+an	an	DT	O	O
+albert	albert	NN	alb	ert
+ruddy	ruddy	JJ	rud	ddy
+movie	movie	NN	mov	vie
+
+what	what	WP	wha	hat
+other	other	JJ	oth	her
+films	film	NNS	fil	lms
+has	have	VHZ	has	has
+arthur	arthur	NN	art	hur
+ruddy	ruddy	JJ	rud	ddy
+done	do	VVN	don	one
+
+bring	bring	VV	bri	ing
+up	up	RP	O	O
+all	all	DT	all	all
+movies	movie	NNS	mov	ies
+brad	brad	NN	bra	rad
+pitt	pitt	NN	pit	itt
+directed	direct	VVD	dir	ted
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+has	have	VHZ	has	has
+brad	brad	NN	bra	rad
+pitt	pitt	NN	pit	itt
+directed	direct	VVD	dir	ted
+
+movies	movie	NNS	mov	ies
+by	by	IN	O	O
+david	david	JJ	dav	vid
+selsnic	selsnic	NN	sel	nic
+
+did	do	VVD	did	did
+holly	holly	NN	hol	lly
+hunter	hunter	NN	hun	ter
+direct	direct	VV	dir	ect
+any	any	DT	any	any
+movies	movie	NNS	mov	ies
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+did	do	VVD	did	did
+joe	joe	NN	joe	joe
+coen	coen	NNS	coe	oen
+do	do	VVP	O	O
+
+movies	movie	NNS	mov	ies
+by	by	IN	O	O
+john	john	NN	joh	ohn
+paul	paul	NNS	pau	aul
+as	as	IN	O	O
+a	a	DT	O	O
+director	director	NN	dir	tor
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+john	john	NN	joh	ohn
+paul	paul	NNS	pau	aul
+
+tom	tom	NN	tom	tom
+cruise	cruise	NN	cru	ise
+has	have	VHZ	has	has
+directed	direct	VVN	dir	ted
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+
+please	please	UH	ple	ase
+list	list	VV	lis	ist
+all	all	DT	all	all
+movies	movie	NNS	mov	ies
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+tom	tom	NN	tom	tom
+cruise	cruise	NN	cru	ise
+
+wesley	wesley	NN	wes	ley
+snipes	snipe	NNS	sni	pes
+directed	direct	VVD	dir	ted
+what	what	WP	wha	hat
+movie	movie	NN	mov	vie
+
+find	find	VV	fin	ind
+action	action	NN	act	ion
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+john	john	NN	joh	ohn
+travolta	travolta	NN	tra	lta
+
+show	show	VV	sho	how
+all	all	DT	all	all
+animation	animation	NN	ani	ion
+films	film	NNS	fil	lms
+for	for	IN	for	for
+twenty	twenty	CD	twe	nty
+twelve	twelve	NN	twe	lve
+
+animated	animated	JJ	ani	ted
+pg	pg	NN	O	O
+thirteen	thirteen	CD	thi	een
+movies	movie	NNS	mov	ies
+
+physfi	physfi	NN	phy	sfi
+movies	movie	NNS	mov	ies
+
+i	i	NP	O	O
+like	like	IN	lik	ike
+sci-fi	sci-fi	NN	sci	-fi
+movies	movie	NNS	mov	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+films	film	NNS	fil	lms
+released	release	VVN	rel	sed
+in	in	IN	O	O
+september	September	NN	sep	ber
+
+show	show	VV	sho	how
+all	all	DT	all	all
+movies	movie	NNS	mov	ies
+released	release	VVN	rel	sed
+in	in	IN	O	O
+september	September	NN	sep	ber
+
+look	look	VV	loo	ook
+up	up	RP	O	O
+all	all	DT	all	all
+movies	movie	NNS	mov	ies
+coming	come	VVG	com	ing
+in	in	IN	O	O
+september	September	NN	sep	ber
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+for	for	IN	for	for
+twenty	twenty	CD	twe	nty
+ten	ten	CD	ten	ten
+
+most	most	RBS	mos	ost
+recent	recent	JJ	rec	ent
+zombie	zombie	NN	zom	bie
+movies	movie	NNS	mov	ies
+
+search	search	NN	sea	rch
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+chinese	Chinese	NN	chi	ese
+
+find	find	VV	fin	ind
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+that	that	WDT	tha	hat
+are	be	VBP	are	are
+in	in	IN	O	O
+chinese	Chinese	NN	chi	ese
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+all	all	DT	all	all
+movies	movie	NNS	mov	ies
+shown	show	VVN	sho	own
+in	in	IN	O	O
+english	English	NN	eng	ish
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+farsi	farsi	NNS	far	rsi
+
+send	send	VV	sen	end
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+that	that	WDT	tha	hat
+are	be	VBP	are	are
+in	in	IN	O	O
+french	French	NN	fre	nch
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+french	French	NNS	fre	nch
+
+i	i	NP	O	O
+would	would	MD	wou	uld
+like	like	VV	lik	ike
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+french	French	NNS	fre	nch
+
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+french	French	NNS	fre	nch
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+using	use	VVG	usi	ing
+the	the	DT	the	the
+french	French	JJ	fre	nch
+langauage	langauage	NN	lan	age
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+french	French	NNS	fre	nch
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+german	german	NN	ger	man
+before	before	IN	bef	ore
+2000	@card@	CD	200	000
+
+give	give	VV	giv	ive
+me	me	PP	O	O
+some	some	DT	som	ome
+movies	movie	NNS	mov	ies
+which	which	WDT	whi	ich
+were	be	VBD	wer	ere
+filmed	film	VVN	fil	med
+in	in	IN	O	O
+polish	polish	NN	pol	ish
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+portugese	portugese	NN	por	ese
+
+show	show	VV	sho	how
+all	all	DT	all	all
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+spanish	Spanish	NN	spa	ish
+
+list	list	NN	lis	ist
+of	of	IN	O	O
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+the	the	DT	the	the
+spanish	Spanish	JJ	spa	ish
+language	language	NN	lan	age
+
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+spanish	Spanish	NN	spa	ish
+
+i	i	NNS	O	O
+am	be	VBP	O	O
+searching	search	VVG	sea	ing
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+spanish	Spanish	NN	spa	ish
+
+i	i	NP	O	O
+would	would	MD	wou	uld
+like	like	VV	lik	ike
+to	to	TO	O	O
+look	look	VV	loo	ook
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+spanish	Spanish	NN	spa	ish
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+swahili	swahili	NNS	swa	ili
+
+show	show	VV	sho	how
+me	me	PP	O	O
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+all	all	DT	all	all
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+alfred	alfred	NNS	alf	red
+ruddy	ruddy	JJ	rud	ddy
+
+what	what	WP	wha	hat
+other	other	JJ	oth	her
+movies	movie	NNS	mov	ies
+charles	charles	NNS	cha	les
+vidor	vidor	NN	vid	dor
+produce	produce	NN	pro	uce
+
+has	have	VHZ	has	has
+jennifer	jennifer	NN	jen	fer
+anniston	anniston	NN	ann	ton
+produced	produce	VVD	pro	ced
+movies	movie	NNS	mov	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+movies	movie	NNS	mov	ies
+produced	produce	VVN	pro	ced
+by	by	IN	O	O
+m	m	NN	O	O
+s	S	NN	O	O
+raju	raju	NN	raj	aju
+
+list	list	VV	lis	ist
+the	the	DT	the	the
+movies	movie	NNS	mov	ies
+created	create	VVN	cre	ted
+by	by	IN	O	O
+7	7	CD	O	O
+arts	art	NNS	art	rts
+
+lionsgate	lionsgate	NN	lio	ate
+=	=	SYM	O	O
+i	i	FW	O	O
+would	would	MD	wou	uld
+like	like	VV	lik	ike
+to	to	TO	O	O
+get	get	VV	get	get
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+your	your	PP$	you	our
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+two	two	CD	two	two
+thousand	thousand	CD	tho	and
+and	and	CC	and	and
+nine	nine	CD	nin	ine
+to	to	TO	O	O
+two	two	CD	two	two
+thousand	thousand	CD	tho	and
+and	and	CC	and	and
+twelve	twelve	NN	twe	lve
+
+twentieth	twentieth	JJ	twe	eth
+century	century	NN	cen	ury
+fox	fox	NN	fox	fox
+movies	movie	NNS	mov	ies
+2012	@card@	CD	201	012
+
+show	show	VV	sho	how
+me	me	PP	O	O
+nc	nc	NN	O	O
+minus	minus	CC	min	nus
+seventeen	seventeen	CD	sev	een
+rated	rate	VVN	rat	ted
+movies	movie	NNS	mov	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+not	not	RB	not	not
+rated	rate	VVN	rat	ted
+rating	rating	NN	rat	ing
+
+give	give	VV	giv	ive
+me	me	PP	O	O
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+nr	nr	NN	O	O
+movies	movie	NNS	mov	ies
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+pg	pg	NN	O	O
+thirteen	thirteen	CD	thi	een
+action	action	NN	act	ion
+movies	movie	NNS	mov	ies
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+a	a	DT	O	O
+pg	pg	NN	O	O
+thirteen	thirteen	CD	thi	een
+movie	movie	NN	mov	vie
+
+show	show	VV	sho	how
+me	me	PP	O	O
+a	a	DT	O	O
+complete	complete	JJ	com	ete
+list	list	NN	lis	ist
+of	of	IN	O	O
+r	r	NN	O	O
+rated	rate	VVN	rat	ted
+movies	movie	NNS	mov	ies
+that	that	WDT	tha	hat
+came	come	VVD	cam	ame
+out	out	RP	out	out
+in	in	IN	O	O
+the	the	DT	the	the
+last	last	JJ	las	ast
+30	@card@	CD	O	O
+days	day	NNS	day	ays
+
+show	show	VV	sho	how
+me	me	PP	O	O
+all	all	DT	all	all
+rated	rate	VVN	rat	ted
+r	r	NN	O	O
+movies	movie	NNS	mov	ies
+by	by	IN	O	O
+paramount	paramount	NN	par	unt
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+that	that	WDT	tha	hat
+are	be	VBP	are	are
+unrated	unrated	JJ	unr	ted
+
+list	list	NN	lis	ist
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+1995	@card@	CD	199	995
+with	with	IN	wit	ith
+adam	adam	NN	ada	dam
+sandler	sandler	NN	san	ler
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+alan	alan	JJ	ala	lan
+rickmman	rickmman	NN	ric	man
+
+which	which	WDT	whi	ich
+movies	movie	NNS	mov	ies
+has	have	VHZ	has	has
+angelina	angelina	NN	ang	ina
+jolie	jolie	NN	jol	lie
+starred	star	VVD	sta	red
+this	this	DT	thi	his
+season	season	NN	sea	son
+
+what	what	WP	wha	hat
+movie	movie	NN	mov	vie
+was	be	VBD	was	was
+angelina	angelina	VVG	ang	ina
+a	a	DT	O	O
+main	main	JJ	mai	ain
+actress	actress	NN	act	ess
+
+look	look	VV	loo	ook
+up	up	RP	O	O
+movies	movie	NNS	mov	ies
+starring	star	VVG	sta	ing
+the	the	DT	the	the
+singer	singer	NN	sin	ger
+mario	mario	NN	mar	rio
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+starring	star	VVG	sta	ing
+the	the	DT	the	the
+singer	singer	NN	sin	ger
+mario	mario	NN	mar	rio
+
+look	look	NN	loo	ook
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+max	Max	NP	max	max
+von	von	NP	von	von
+sudow	sudow	NN	sud	dow
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+that	that	WDT	tha	hat
+have	have	VHP	hav	ave
+patrick	patrick	JJ	pat	ick
+swayze	swayze	NNS	swa	yze
+and	and	CC	and	and
+jennifer	jennifer	NN	jen	fer
+grey	grey	NN	gre	rey
+in	in	IN	O	O
+them	them	PP	the	hem
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+that	that	IN/that	tha	hat
+star	star	JJ	sta	tar
+patrick	patrick	NN	pat	ick
+swayze	swayze	NNS	swa	yze
+starred	star	VVN	sta	red
+in	in	IN	O	O
+from	from	IN	fro	rom
+nineteen	nineteen	CD	nin	een
+eighty	eighty	CD	eig	hty
+seven	seven	CD	sev	ven
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+that	that	DT	tha	hat
+dancing	dance	VVG	dan	ing
+movie	movie	NN	mov	vie
+with	with	IN	wit	ith
+patrick	patrick	NN	pat	ick
+swayze	swayze	NNS	swa	yze
+
+movies	movie	NNS	mov	ies
+of	of	IN	O	O
+sharukh	sharukh	NN	sha	ukh
+khan	khan	NN	kha	han
+
+movie	movie	NN	mov	vie
+that	that	IN/that	tha	hat
+tom	tom	NN	tom	tom
+hanks	hank	NNS	han	nks
+and	and	CC	and	and
+kevin	kevin	NN	kev	vin
+becon	becon	NN	bec	con
+played	play	VVN	pla	yed
+in	in	IN	O	O
+together	together	RB	tog	her
+
+movies	movie	NNS	mov	ies
+about	about	IN	abo	out
+animals	animal	NNS	ani	als
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+about	about	IN	abo	out
+bollywood	bollywood	NN	bol	ood
+
+chess	chess	NN	che	ess
+movies	movie	NNS	mov	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+on	on	IN	O	O
+chess	chess	NN	che	ess
+
+what	what	WP	wha	hat
+are	be	VBP	are	are
+some	some	DT	som	ome
+movies	movie	NNS	mov	ies
+about	about	IN	abo	out
+disco	disco	NN	dis	sco
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+can	can	MD	can	can
+offer	offer	VV	off	fer
+tips	tip	NNS	tip	ips
+on	on	IN	O	O
+gardening	gardening	NN	gar	ing
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+look	look	VV	loo	ook
+up	up	RP	O	O
+movies	movie	NNS	mov	ies
+about	about	IN	abo	out
+hair	hair	NN	hai	air
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+about	about	IN	abo	out
+libraries	library	NNS	lib	ies
+
+find	find	VV	fin	ind
+some	some	DT	som	ome
+movies	movie	NNS	mov	ies
+about	about	IN	abo	out
+musicians	musician	NNS	mus	ans
+
+can	can	MD	can	can
+you	you	PP	you	you
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+about	about	IN	abo	out
+preschool	preschool	JJ	pre	ool
+boys	boy	NNS	boy	oys
+
+look	look	NN	loo	ook
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+about	about	IN	abo	out
+preschool	preschool	JJ	pre	ool
+boys	boy	NNS	boy	oys
+
+what	what	WP	wha	hat
+films	film	NNS	fil	lms
+focus	focus	VVP	foc	cus
+on	on	IN	O	O
+rape	rape	NN	rap	ape
+and	and	CC	and	and
+victim	victim	NN	vic	tim
+'s	's	POS	O	O
+rights	right	NNS	rig	hts
+
+i	i	NP	O	O
+would	would	MD	wou	uld
+like	like	VV	lik	ike
+to	to	TO	O	O
+know	know	VV	kno	now
+names	name	NNS	nam	mes
+of	of	IN	O	O
+some	some	DT	som	ome
+movies	movie	NNS	mov	ies
+on	on	IN	O	O
+religious	religious	JJ	rel	ous
+issues	issue	NNS	iss	ues
+
+give	give	VV	giv	ive
+me	me	PP	O	O
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+some	some	DT	som	ome
+movies	movie	NNS	mov	ies
+on	on	IN	O	O
+religious	religious	JJ	rel	ous
+issues	issue	NNS	iss	ues
+
+look	look	NN	loo	ook
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+about	about	IN	abo	out
+school	school	NN	sch	ool
+
+tell	tell	VV	tel	ell
+me	me	PP	O	O
+the	the	DT	the	the
+names	name	NNS	nam	mes
+of	of	IN	O	O
+some	some	DT	som	ome
+soccer	soccer	NN	soc	cer
+movies	movie	NNS	mov	ies
+
+what	what	WP	wha	hat
+are	be	VBP	are	are
+some	some	DT	som	ome
+time	time	NN	tim	ime
+travel	travel	NN	tra	vel
+movies	movie	NNS	mov	ies
+i	i	NP	O	O
+can	can	MD	can	can
+watch	watch	VV	wat	tch
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+involving	involve	VVG	inv	ing
+time	time	NN	tim	ime
+travel	travel	NN	tra	vel
+
+vampire	vampire	NN	vam	ire
+movies	movie	NNS	mov	ies
+please	please	VVP	ple	ase
+
+list	list	NN	lis	ist
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+a	a	DT	O	O
+theme	theme	NN	the	eme
+of	of	IN	O	O
+war	war	NN	war	war
+in	in	IN	O	O
+them	them	PP	the	hem
+
+show	show	VV	sho	how
+all	all	DT	all	all
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+the	the	DT	the	the
+theme	theme	NN	the	eme
+of	of	IN	O	O
+war	war	NN	war	war
+
+can	can	MD	can	can
+you	you	PP	you	you
+find	find	VV	fin	ind
+me	me	PP	O	O
+some	some	DT	som	ome
+movies	movie	NNS	mov	ies
+about	about	IN	abo	out
+war	war	NN	war	war
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+movies	movie	NNS	mov	ies
+about	about	IN	abo	out
+war	war	NN	war	war
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+movies	movie	NNS	mov	ies
+about	about	IN	abo	out
+war	war	NN	war	war
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+about	about	IN	abo	out
+world	world	NN	wor	rld
+war	war	NN	war	war
+two	two	CD	two	two
+
+what	what	WP	wha	hat
+are	be	VBP	are	are
+some	some	DT	som	ome
+zombie	zombie	NN	zom	bie
+apocalypse	apocalypse	NN	apo	pse
+movies	movie	NNS	mov	ies
+
+search	search	NN	sea	rch
+for	for	IN	for	for
+zombie	zombie	NN	zom	bie
+movies	movie	NNS	mov	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+belle	belle	NN	bel	lle
+in	in	IN	O	O
+spanish	Spanish	NN	spa	ish
+
+is	be	VBZ	O	O
+dredd	dredd	RB	dre	edd
+rated	rate	VVN	rat	ted
+r	r	NN	O	O
+
+take	take	VV	tak	ake
+me	me	PP	O	O
+to	to	TO	O	O
+the	the	DT	the	the
+french	French	JJ	fre	nch
+version	version	NN	ver	ion
+of	of	IN	O	O
+et	et	FW	O	O
+
+find	find	VV	fin	ind
+et	et	NP	O	O
+in	in	IN	O	O
+french	French	NN	fre	nch
+
+find	find	VV	fin	ind
+fast	fast	JJ	fas	ast
+and	and	CC	and	and
+furious	furious	JJ	fur	ous
+in	in	IN	O	O
+japanese	Japanese	NN	jap	ese
+
+hard	hard	JJ	har	ard
+day	day	NN	day	day
+'s	's	POS	O	O
+night	night	NN	nig	ght
+richard	richard	NN	ric	ard
+lester	lester	NN	les	ter
+
+information	information	NN	inf	ion
+about	about	IN	abo	out
+movie	movie	NN	mov	vie
+life	life	NN	lif	ife
+is	be	VBZ	O	O
+beautiful	beautiful	JJ	bea	ful
+
+movie	movie	NN	mov	vie
+information	information	NN	inf	ion
+for	for	IN	for	for
+life	life	NN	lif	ife
+is	be	VBZ	O	O
+beautiful	beautiful	JJ	bea	ful
+
+will	will	MD	wil	ill
+you	you	PP	you	you
+please	please	VV	ple	ase
+show	show	VV	sho	how
+me	me	PP	O	O
+info	info	NN	inf	nfo
+on	on	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+life	life	NN	lif	ife
+is	be	VBZ	O	O
+beautiful	beautiful	JJ	bea	ful
+
+can	can	MD	can	can
+you	you	PP	you	you
+please	please	VV	ple	ase
+show	show	VV	sho	how
+me	me	PP	O	O
+info	info	NN	inf	nfo
+on	on	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+life	life	NN	lif	ife
+is	be	VBZ	O	O
+beautiful	beautiful	JJ	bea	ful
+
+show	show	VV	sho	how
+me	me	PP	O	O
+details	detail	NNS	det	ils
+to	to	TO	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+life	life	NN	lif	ife
+is	be	VBZ	O	O
+beautiful	beautiful	JJ	bea	ful
+
+show	show	VV	sho	how
+me	me	PP	O	O
+info	info	NN	inf	nfo
+on	on	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+life	life	NN	lif	ife
+is	be	VBZ	O	O
+beautiful	beautiful	JJ	bea	ful
+please	please	RB	ple	ase
+
+open	open	VV	ope	pen
+a	a	DT	O	O
+page	page	NN	pag	age
+about	about	IN	abo	out
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+life	life	NN	lif	ife
+is	be	VBZ	O	O
+beautiful	beautiful	JJ	bea	ful
+
+is	be	VBZ	O	O
+nine	nine	CD	nin	ine
+fourteen	fourteen	NN	fou	een
+the	the	DT	the	the
+premiere	premiere	JJ	pre	ere
+date	date	NN	dat	ate
+for	for	IN	for	for
+resident	resident	JJ	res	ent
+evil	evil	NN	evi	vil
+
+select	select	JJ	sel	ect
+rio	Rio	NN	rio	rio
+in	in	IN	O	O
+chinese	Chinese	NN	chi	ese
+
+find	find	VV	fin	ind
+me	me	PP	O	O
+the	the	DT	the	the
+first	first	JJ	fir	rst
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+movie	movie	NN	mov	vie
+info	info	NN	inf	nfo
+
+i	i	NNS	O	O
+need	need	VVP	nee	eed
+details	detail	NNS	det	ils
+about	about	IN	abo	out
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+:	:	:	O	O
+episode	episode	NN	epi	ode
+four	four	CD	fou	our
+-	-	:	O	O
+a	a	DT	O	O
+new	new	JJ	new	new
+hope	hope	NN	hop	ope
+
+did	do	VVD	did	did
+ray	ray	NN	ray	ray
+stark	stark	JJ	sta	ark
+produce	produce	NN	pro	uce
+steel	steel	NN	ste	eel
+magnolias	magnolia	NNS	mag	ias
+
+is	be	VBZ	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+toy	toy	NN	toy	toy
+story	story	NN	sto	ory
+4	4	CD	O	O
+being	be	VBG	bei	ing
+released	release	VVN	rel	sed
+next	next	JJ	nex	ext
+summer	summer	NN	sum	mer
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+look	look	VV	loo	ook
+up	up	RP	O	O
+information	information	NN	inf	ion
+about	about	IN	abo	out
+american	American	JJ	ame	can
+movies	movie	NNS	mov	ies
+
+chinese	Chinese	JJ	chi	ese
+foreign	foreign	JJ	for	ign
+film	film	NN	fil	ilm
+with	with	IN	wit	ith
+kungfu	kungfu	NN	kun	gfu
+
+french	French	NN	fre	nch
+movies	movie	NNS	mov	ies
+for	for	IN	for	for
+twenty	twenty	CD	twe	nty
+twelve	twelve	NN	twe	lve
+
+look	look	NN	loo	ook
+for	for	IN	for	for
+russian	Russian	JJ	rus	ian
+movies	movie	NNS	mov	ies
+by	by	IN	O	O
+mosfilm	mosfilm	NN	mos	ilm
+
+show	show	NN	sho	how
+production	production	NN	pro	ion
+company	company	NN	com	any
+lionsgate	lionsgate	NNS	lio	ate
+
+paramount	paramount	JJ	par	unt
+film	film	NN	fil	ilm
+studios	studio	NNS	stu	ios
+
+i	i	NP	O	O
+would	would	MD	wou	uld
+like	like	VV	lik	ike
+to	to	TO	O	O
+have	have	VH	hav	ave
+more	more	JJR	mor	ore
+information	information	NN	inf	ion
+about	about	IN	abo	out
+the	the	DT	the	the
+producer	producer	NN	pro	cer
+ray	ray	NN	ray	ray
+stark	stark	JJ	sta	ark
+
+show	show	VV	sho	how
+me	me	PP	O	O
+details	detail	NNS	det	ils
+for	for	IN	for	for
+the	the	DT	the	the
+director	director	NN	dir	tor
+steven	steven	JJ	ste	ven
+spielberg	spielberg	NN	spi	erg
+
+show	show	VV	sho	how
+me	me	PP	O	O
+that	that	IN/that	tha	hat
+actor	actor	NN	act	tor
+tom	tom	NN	tom	tom
+cruise	cruise	NN	cru	ise
+
+i	i	NP	O	O
+would	would	MD	wou	uld
+like	like	VV	lik	ike
+information	information	NN	inf	ion
+about	about	IN	abo	out
+the	the	DT	the	the
+actor	actor	NN	act	tor
+will	will	MD	wil	ill
+ferrell	ferrell	VV	fer	ell
+
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+great	great	JJ	gre	eat
+debaters	debater	NNS	deb	ers
+
+king	king	NN	kin	ing
+'s	's	POS	O	O
+speech	speech	NN	spe	ech
+production	production	NN	pro	ion
+company	company	NN	com	any
+
+i	i	NP	O	O
+wonder	wonder	NN	won	der
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+
+i	i	NP	O	O
+can	can	MD	can	can
+'t	't	NP	O	O
+remember	remember	VV	rem	ber
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+
+movie	movie	NN	mov	vie
+producers	producer	NNS	pro	ers
+
+how	how	WRB	how	how
+much	much	RB	muc	uch
+did	do	VVD	did	did
+end	end	NN	end	end
+of	of	IN	O	O
+watch	watch	NN	wat	tch
+gross	gross	JJ	gro	oss
+
+how	how	WRB	how	how
+much	much	RB	muc	uch
+did	do	VVD	did	did
+movie	movie	NN	mov	vie
+earn	earn	VV	ear	arn
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+earnings	earning	NNS	ear	ngs
+for	for	IN	for	for
+hotel	hotel	NN	hot	tel
+transylvania	transylvania	NN	tra	nia
+
+what	what	WP	wha	hat
+did	do	VVD	did	did
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+the	the	DT	the	the
+house	house	NN	hou	use
+at	at	IN	O	O
+the	the	DT	the	the
+end	end	NN	end	end
+of	of	IN	O	O
+the	the	DT	the	the
+steet	steet	NN	ste	eet
+gross	gross	JJ	gro	oss
+
+revenue	revenue	NN	rev	nue
+for	for	IN	for	for
+iron	iron	NN	iro	ron
+man	man	NN	man	man
+2	2	CD	O	O
+
+what	what	WP	wha	hat
+amount	amount	NN	amo	unt
+of	of	IN	O	O
+revenue	revenue	NN	rev	nue
+did	do	VVD	did	did
+iron	iron	NN	iro	ron
+man	man	NN	man	man
+make	make	VV	mak	ake
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+the	the	DT	the	the
+gross	gross	JJ	gro	oss
+revenue	revenue	NN	rev	nue
+of	of	IN	O	O
+iron	iron	NN	iro	ron
+man	man	NN	man	man
+
+kahani	kahani	NP	kah	ani
+'s	's	POS	O	O
+revenue	revenue	NN	rev	nue
+
+get	get	VV	get	get
+the	the	DT	the	the
+revenue	revenue	NN	rev	nue
+of	of	IN	O	O
+kahani	kahani	NNS	kah	ani
+
+revenue	revenue	NN	rev	nue
+looper	looper	NN	loo	per
+
+how	how	WRB	how	how
+much	much	RB	muc	uch
+did	do	VVD	did	did
+looper	looper	NN	loo	per
+gross	gross	JJ	gro	oss
+in	in	IN	O	O
+sales	sale	NNS	sal	les
+
+how	how	WRB	how	how
+much	much	RB	muc	uch
+did	do	VVD	did	did
+looper	looper	NN	loo	per
+gross	gross	JJ	gro	oss
+
+ho	Ho	NP	O	O
+much	much	RB	muc	uch
+did	do	VVD	did	did
+looper	looper	NN	loo	per
+make	make	VV	mak	ake
+
+how	how	WRB	how	how
+much	much	JJ	muc	uch
+money	money	NN	mon	ney
+did	do	VVD	did	did
+mr	Mr	NN	O	O
+and	and	CC	and	and
+mrs	Mrs	NN	mrs	mrs
+smith	smith	NN	smi	ith
+make	make	VV	mak	ake
+
+how	how	WRB	how	how
+much	much	JJ	muc	uch
+money	money	NN	mon	ney
+did	do	VVD	did	did
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+mr	Mr	NN	O	O
+and	and	CC	and	and
+mrs	Mrs	NN	mrs	mrs
+smith	smith	NN	smi	ith
+make	make	VV	mak	ake
+
+in	in	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+mr	Mr	NN	O	O
+and	and	CC	and	and
+mrs	Mrs	NN	mrs	mrs
+smith	smith	NN	smi	ith
+how	how	WRB	how	how
+much	much	JJ	muc	uch
+money	money	NN	mon	ney
+did	do	VVD	did	did
+the	the	DT	the	the
+box	box	NN	box	box
+offfice	offfice	NN	off	ice
+report	report	NN	rep	ort
+
+how	how	WRB	how	how
+much	much	JJ	muc	uch
+money	money	NN	mon	ney
+did	do	VVD	did	did
+philadelphia	philadelphia	NN	phi	hia
+make	make	VV	mak	ake
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+know	know	VV	kno	now
+what	what	WP	wha	hat
+the	the	DT	the	the
+revenue	revenue	NN	rev	nue
+for	for	IN	for	for
+pirates	pirate	NNS	pir	tes
+was	be	VBD	was	was
+
+how	how	WRB	how	how
+much	much	RB	muc	uch
+was	be	VBD	was	was
+made	make	VVN	mad	ade
+from	from	IN	fro	rom
+platoon	platoon	NN	pla	oon
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+the	the	DT	the	the
+gross	gross	JJ	gro	oss
+revenue	revenue	NN	rev	nue
+earned	earn	VVD	ear	ned
+by	by	IN	O	O
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+in	in	IN	O	O
+its	its	PP$	its	its
+original	original	JJ	ori	nal
+release	release	NN	rel	ase
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+the	the	DT	the	the
+total	total	JJ	tot	tal
+gross	gross	JJ	gro	oss
+receipts	receipt	NNS	rec	pts
+at	at	IN	O	O
+the	the	DT	the	the
+box	box	NN	box	box
+office	office	NN	off	ice
+for	for	IN	for	for
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+
+what	what	WP	wha	hat
+were	be	VBD	wer	ere
+the	the	DT	the	the
+gross	gross	JJ	gro	oss
+receipts	receipt	NNS	rec	pts
+for	for	IN	for	for
+hunger	hunger	NN	hun	ger
+games	game	NNS	gam	mes
+
+tell	tell	VV	tel	ell
+me	me	PP	O	O
+how	how	WRB	how	how
+much	much	JJ	muc	uch
+money	money	NN	mon	ney
+tommy	tommy	NN	tom	mmy
+boy	boy	NN	boy	boy
+made	make	VVD	mad	ade
+
+how	how	WRB	how	how
+much	much	JJ	muc	uch
+revenue	revenue	NN	rev	nue
+did	do	VVD	did	did
+top	top	JJ	top	top
+gun	gun	NN	gun	gun
+make	make	VV	mak	ake
+
+tell	tell	VV	tel	ell
+me	me	PP	O	O
+the	the	DT	the	the
+revenue	revenue	NN	rev	nue
+of	of	IN	O	O
+training	training	NN	tra	ing
+day	day	NN	day	day
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+life	life	NN	lif	ife
+is	be	VBZ	O	O
+beautiful	beautiful	JJ	bea	ful
+about	about	RB	abo	out
+
+show	show	VV	sho	how
+me	me	PP	O	O
+a	a	DT	O	O
+list	list	NN	lis	ist
+of	of	IN	O	O
+production	production	NN	pro	ion
+companies	company	NNS	com	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+viewer	viewer	NN	vie	wer
+ratings	rating	NNS	rat	ngs
+in	in	IN	O	O
+orange	orange	NN	ora	nge
+
+is	be	VBZ	O	O
+in	in	RB	O	O
+july	july	RB	jul	uly
+on	on	IN	O	O
+netflix	netflix	NN	net	lix
+
+rate	rate	NN	rat	ate
+movies	movie	NNS	mov	ies
+
+find	find	VV	fin	ind
+the	the	DT	the	the
+actor	actor	NN	act	tor
+that	that	WDT	tha	hat
+sings	sing	VVZ	sin	ngs
+let	let	VV	let	let
+me	me	PP	O	O
+love	love	VV	lov	ove
+you	you	PP	you	you
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+steven	steven	JJ	ste	ven
+spielberg	spielberg	NN	spi	erg
+up	up	RB	O	O
+to	to	TO	O	O
+
+israel	Israel	NP	isr	ael
+are	be	VBP	are	are
+all	all	PDT	all	all
+your	your	PP$	you	our
+movies	movie	NNS	mov	ies
+in	in	IN	O	O
+your	your	PP$	you	our
+native	native	JJ	nat	ive
+language	language	NN	lan	age
+or	or	CC	O	O
+in	in	IN	O	O
+english	English	NN	eng	ish
+
+what	what	WP	wha	hat
+'s	be	VBZ	O	O
+playing	play	VVG	pla	ing
+tonight	tonight	RB	ton	ght
+
+where	where	WRB	whe	ere
+can	can	MD	can	can
+i	i	NNS	O	O
+buy	buy	VV	buy	buy
+this	this	DT	thi	his
+movie	movie	NN	mov	vie
+
+i	i	NP	O	O
+would	would	MD	wou	uld
+like	like	VV	lik	ike
+to	to	TO	O	O
+know	know	VV	kno	now
+if	if	IN	O	O
+this	this	DT	thi	his
+is	be	VBZ	O	O
+a	a	DT	O	O
+real	real	RB	rea	eal
+scary	scary	JJ	sca	ary
+
+how	how	WRB	how	how
+to	to	TO	O	O
+rent	rent	VV	ren	ent
+dirty	dirty	JJ	dir	rty
+dancing	dancing	NN	dan	ing
+
+can	can	MD	can	can
+i	i	NP	O	O
+rent	rent	NN	ren	ent
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+on	on	IN	O	O
+netflix	netflix	NN	net	lix
+
+hotel	hotel	NN	hot	tel
+rwanda	rwanda	NN	rwa	nda
+is	be	VBZ	O	O
+based	base	VVN	bas	sed
+on	on	IN	O	O
+what	what	WP	wha	hat
+
+i	i	NNS	O	O
+need	need	VVP	nee	eed
+to	to	TO	O	O
+know	know	VV	kno	now
+where	where	WRB	whe	ere
+you	you	PP	you	you
+keep	keep	VVP	kee	eep
+resident	resident	JJ	res	ent
+evil	evil	NN	evi	vil
+
+in	in	IN	O	O
+september	September	NN	sep	ber
+
+dvd	dvd	NNS	dvd	dvd
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+find	find	VV	fin	ind
+movie	movie	NN	mov	vie
+from	from	IN	fro	rom
+criteria	criterion	NNS	cri	ria
+
+find	find	VV	fin	ind
+a	a	DT	O	O
+movie	movie	NN	mov	vie
+
+can	can	MD	can	can
+you	you	PP	you	you
+tell	tell	VV	tel	ell
+me	me	PP	O	O
+which	which	WDT	whi	ich
+movie	movie	NN	mov	vie
+made	make	VVD	mad	ade
+the	the	DT	the	the
+most	most	JJS	mos	ost
+at	at	IN	O	O
+the	the	DT	the	the
+box	box	NN	box	box
+office	office	NN	off	ice
+in	in	IN	O	O
+the	the	DT	the	the
+weekend	weekend	NN	wee	end
+of	of	IN	O	O
+september	September	NN	sep	ber
+twenty	twenty	CD	twe	nty
+eighth	eighth	NN	eig	hth
+
+find	find	VV	fin	ind
+movies	movie	NNS	mov	ies
+selected	select	VVN	sel	ted
+on	on	IN	O	O
+all	all	DT	all	all
+criteria	criterion	NNS	cri	ria
+
+options	option	NNS	opt	ons
+available	available	JJ	ava	ble
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+today	today	NN	tod	day
+
+find	find	VV	fin	ind
+all	all	DT	all	all
+selected	selected	JJ	sel	ted
+criteria	criterion	NNS	cri	ria
+
+search	search	NN	sea	rch
+highlighted	highlight	VVD	hig	ted
+information	information	NN	inf	ion
+
+bring	bring	VV	bri	ing
+up	up	RP	O	O
+movie	movie	NN	mov	vie
+request	request	NN	req	est
+
+find	find	VV	fin	ind
+selected	selected	JJ	sel	ted
+information	information	NN	inf	ion
+
+find	find	VV	fin	ind
+selected	selected	JJ	sel	ted
+criteria	criterion	NNS	cri	ria
+
+where	where	WRB	whe	ere
+can	can	MD	can	can
+i	i	NP	O	O
+watch	watch	NN	wat	tch
+movie	movie	NN	mov	vie
+
+search	search	VV	sea	rch
+all	all	DT	all	all
+databases	database	NNS	dat	ses
+
+search	search	NN	sea	rch
+databases	database	NNS	dat	ses
+
+where	where	WRB	whe	ere
+can	can	MD	can	can
+i	i	NNS	O	O
+see	see	VV	see	see
+movie	movie	NN	mov	vie
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+age	age	NN	age	age
+limit	limit	NN	lim	mit
+for	for	IN	for	for
+the	the	DT	the	the
+pg	pg	NN	O	O
+rating	rating	NN	rat	ing
+for	for	IN	for	for
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+hotel	hotel	NN	hot	tel
+transylvania	transylvania	NN	tra	nia
+
+what	what	WP	wha	hat
+does	do	VVZ	doe	oes
+the	the	DT	the	the
+rating	rating	NN	rat	ing
+r	r	SYM	O	O
+mean	mean	JJ	mea	ean
+for	for	IN	for	for
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+dred	dred	VVD	dre	red
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+sequels	sequel	NNS	seq	els
+or	or	CC	O	O
+prequels	prequels	NNS	pre	els
+to	to	TO	O	O
+this	this	DT	thi	his
+movie	movie	NN	mov	vie
+
+how	how	WRB	how	how
+long	long	RB	lon	ong
+did	do	VVD	did	did
+it	it	PP	O	O
+take	take	VV	tak	ake
+james	james	NNS	jam	mes
+cameron	cameron	NN	cam	ron
+to	to	TO	O	O
+produce	produce	VV	pro	uce
+avatar	avatar	NN	ava	tar
+
+is	be	VBZ	O	O
+this	this	DT	thi	his
+film	film	NN	fil	ilm
+dubbed	dub	VVN	dub	bed
+in	in	IN	O	O
+english	English	NN	eng	ish
+
+apollo	apollo	NN	apo	llo
+thirteen	thirteen	CD	thi	een
+cast	cast	NN	cas	ast
+was	be	VBD	was	was
+chosen	choose	VVN	cho	sen
+how	how	WRB	how	how
+
+what	what	WP	wha	hat
+other	other	JJ	oth	her
+formats	format	NNS	for	ats
+is	be	VBZ	O	O
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+in	in	IN	O	O
+
+in	in	IN	O	O
+how	how	WRB	how	how
+many	many	JJ	man	any
+days	day	NNS	day	ays
+did	do	VVD	did	did
+it	it	PP	O	O
+take	take	VVP	tak	ake
+to	to	TO	O	O
+make	make	VV	mak	ake
+twenty	twenty	CD	twe	nty
+one	one	CD	one	one
+point	point	NN	poi	int
+two	two	CD	two	two
+for	for	IN	for	for
+looper	looper	NN	loo	per
+
+what	what	WP	wha	hat
+age	age	NN	age	age
+group	group	NN	gro	oup
+is	be	VBZ	O	O
+for	for	IN	for	for
+rated	rate	VVN	rat	ted
+r	r	NN	O	O
+movies	movie	NNS	mov	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+behind	behind	IN	beh	ind
+scenes	scene	NNS	sce	nes
+of	of	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+in	in	IN	O	O
+orange	orange	NN	ora	nge
+
+how	how	WRB	how	how
+long	long	RB	lon	ong
+do	do	VVP	O	O
+you	you	PP	you	you
+predict	predict	VVP	pre	ict
+that	that	IN/that	tha	hat
+wb	wb	NN	O	O
+will	will	MD	wil	ill
+continue	continue	VV	con	nue
+to	to	TO	O	O
+strive	strive	VV	str	ive
+in	in	IN	O	O
+today	today	NN	tod	day
+'s	's	POS	O	O
+market	market	NN	mar	ket
+
+the	the	DT	the	the
+crap	crap	NN	cra	rap
+
+who	who	WP	who	who
+determines	determine	VVZ	det	nes
+the	the	DT	the	the
+ratings	rating	NNS	rat	ngs
+on	on	IN	O	O
+movies	movie	NNS	mov	ies
+
+house	house	NN	hou	use
+at	at	IN	O	O
+the	the	DT	the	the
+end	end	NN	end	end
+of	of	IN	O	O
+the	the	DT	the	the
+street	street	NN	str	eet
+should	should	MD	sho	uld
+of	of	IN	O	O
+made	make	VVD	mad	ade
+more	more	JJR	mor	ore
+money	money	NN	mon	ney
+
+find	find	VV	fin	ind
+me	me	PP	O	O
+dirty	dirty	JJ	dir	rty
+dancing	dancing	NN	dan	ing
+news	news	NN	new	ews
+
+who	who	WP	who	who
+else	else	RB	els	lse
+could	could	MD	cou	uld
+have	have	VH	hav	ave
+preformed	preformed	VVN	pre	med
+your	your	PP$	you	our
+job	job	NN	job	job
+
+twenty	twenty	CD	twe	nty
+one	one	CD	one	one
+point	point	NN	poi	int
+two	two	CD	two	two
+was	be	VBD	was	was
+paid	pay	VVN	pai	aid
+out	out	RP	out	out
+
+find	find	VV	fin	ind
+some	some	DT	som	ome
+notes	note	NNS	not	tes
+on	on	IN	O	O
+parental	parental	JJ	par	tal
+guidance	guidance	NN	gui	nce
+please	please	VV	ple	ase
+
+who	who	WP	who	who
+came	come	VVD	cam	ame
+up	up	RP	O	O
+for	for	IN	for	for
+the	the	DT	the	the
+main	main	JJ	mai	ain
+plot	plot	NN	plo	lot
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+standard	standard	NN	sta	ard
+to	to	TO	O	O
+be	be	VB	O	O
+rated	rate	VVN	rat	ted
+g	g	NN	O	O
+
+i	i	NP	O	O
+love	love	NN	lov	ove
+taye	taye	NN	tay	aye
+diggs	diggs	NNS	dig	ggs
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+reviews	review	VVZ	rev	ews
+in	in	IN	O	O
+orange	orange	NN	ora	nge
+
+show	show	VV	sho	how
+me	me	PP	O	O
+celebrities	celebrity	NNS	cel	ies
+
+how	how	WRB	how	how
+old	old	JJ	old	old
+do	do	VVP	O	O
+you	you	PP	you	you
+have	have	VHP	hav	ave
+to	to	TO	O	O
+be	be	VB	O	O
+to	to	TO	O	O
+see	see	VV	see	see
+an	an	DT	O	O
+r-rated	R-rated	JJ	r-r	ted
+movie	movie	NN	mov	vie
+
+does	do	VVZ	doe	oes
+ireland	Ireland	NP	ire	and
+have	have	VHP	hav	ave
+an	an	DT	O	O
+equivalent	equivalent	NN	equ	ent
+to	to	TO	O	O
+th	th	NN	O	O
+us	us	PP	O	O
+oscar	oscar	NN	osc	car
+awards	award	NNS	awa	rds
+
+click	click	NN	cli	ick
+on	on	IN	O	O
+the	the	DT	the	the
+most	most	RBS	mos	ost
+popular	popular	JJ	pop	lar
+movie	movie	NN	mov	vie
+in	in	IN	O	O
+orange	orange	NN	ora	nge
+
+brazil	brazil	NN	bra	zil
+movie	movie	NN	mov	vie
+locations	location	NNS	loc	ons
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+history	history	NN	his	ory
+behind	behind	IN	beh	ind
+lionsgate	lionsgate	NNS	lio	ate
+
+what	what	WP	wha	hat
+does	do	VVZ	doe	oes
+an	an	DT	O	O
+r	r	NN	O	O
+rating	rating	NN	rat	ing
+mean	mean	VVP	mea	ean
+on	on	IN	O	O
+a	a	DT	O	O
+movie	movie	NN	mov	vie
+
+can	can	MD	can	can
+you	you	PP	you	you
+give	give	VV	giv	ive
+me	me	PP	O	O
+more	more	JJR	mor	ore
+information	information	NN	inf	ion
+about	about	IN	abo	out
+the	the	DT	the	the
+text	text	NN	tex	ext
+highlighted	highlight	VVN	hig	ted
+in	in	IN	O	O
+orange	orange	NN	ora	nge
+
+what	what	WP	wha	hat
+are	be	VBP	are	are
+the	the	DT	the	the
+recommended	recommended	JJ	rec	ded
+ages	age	NNS	age	ges
+for	for	IN	for	for
+a	a	DT	O	O
+pg	pg	NN	O	O
+movie	movie	NN	mov	vie
+
+send	send	VV	sen	end
+dredd	dredd	NN	dre	edd
+movie	movie	NN	mov	vie
+
+jenn	Jenn	NP	jen	enn
+ann	Ann	NP	ann	ann
+lover	lover	NN	lov	ver
+
+did	do	VVD	did	did
+kristen	Kristen	NP	kri	ten
+stewart	Stewart	NP	ste	art
+have	have	VHP	hav	ave
+an	an	DT	O	O
+affair	affair	NN	aff	air
+with	with	IN	wit	ith
+the	the	DT	the	the
+director	director	NN	dir	tor
+of	of	IN	O	O
+snow	snow	NN	sno	now
+white	white	NN	whi	ite
+and	and	CC	and	and
+the	the	DT	the	the
+huntsman	huntsman	NN	hun	man
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movie	movie	NN	mov	vie
+highlights	highlight	NNS	hig	hts
+in	in	IN	O	O
+orange	orange	NN	ora	nge
+
+need	need	NN	nee	eed
+to	to	TO	O	O
+rate	rate	NN	rat	ate
+movie	movie	NN	mov	vie
+
+how	how	WRB	how	how
+old	old	JJ	old	old
+do	do	VVP	O	O
+you	you	PP	you	you
+have	have	VHP	hav	ave
+to	to	TO	O	O
+be	be	VB	O	O
+to	to	TO	O	O
+see	see	VV	see	see
+a	a	DT	O	O
+rated	rate	VVN	rat	ted
+r	r	NN	O	O
+movie	movie	NN	mov	vie
+
+what	what	WP	wha	hat
+does	do	VVZ	doe	oes
+a	a	DT	O	O
+pg	pg	NN	O	O
+thirteen	thirteen	CD	thi	een
+rating	rating	NN	rat	ing
+mean	mean	NN	mea	ean
+
+twenty	twenty	CD	twe	nty
+one	one	CD	one	one
+point	point	NN	poi	int
+two	two	CD	two	two
+is	be	VBZ	O	O
+the	the	DT	the	the
+first	first	JJ	fir	rst
+week	week	NN	wee	eek
+gross	gross	JJ	gro	oss
+
+r	r	SYM	O	O
+rating	rating	NN	rat	ing
+what	what	WP	wha	hat
+does	do	VVZ	doe	oes
+that	that	RB	tha	hat
+include	include	VV	inc	ude
+
+in	in	IN	O	O
+julie	julie	NN	jul	lie
+
+wb	wb	NN	O	O
+-	-	:	O	O
+what	what	WP	wha	hat
+does	do	VVZ	doe	oes
+it	it	PP	O	O
+take	take	VV	tak	ake
+to	to	TO	O	O
+become	become	VV	bec	ome
+a	a	DT	O	O
+movie	movie	NN	mov	vie
+producer	producer	NN	pro	cer
+
+show	show	VV	sho	how
+me	me	PP	O	O
+hollywood	hollywood	NN	hol	ood
+influences	influence	NNS	inf	ces
+
+how	how	WRB	how	how
+does	do	VVZ	doe	oes
+a	a	DT	O	O
+movie	movie	NN	mov	vie
+receive	receive	VV	rec	ive
+an	an	DT	O	O
+r	r	NN	O	O
+rating	rating	NN	rat	ing
+
+did	do	VVD	did	did
+you	you	PP	you	you
+have	have	VHP	hav	ave
+fun	fun	NN	fun	fun
+on	on	IN	O	O
+the	the	DT	the	the
+set	set	NN	set	set
+
+what	what	WP	wha	hat
+are	be	VBP	are	are
+the	the	DT	the	the
+rating	rating	NN	rat	ing
+symbols	symbol	NNS	sym	ols
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+
+sb	sb	NN	O	O
+news	news	NN	new	ews
+on	on	IN	O	O
+life	life	NN	lif	ife
+
+i	i	NNS	O	O
+have	have	VHP	hav	ave
+a	a	DT	O	O
+thirteen	thirteen	CD	thi	een
+year	year	NN	yea	ear
+old	old	JJ	old	old
+
+end	end	NN	end	end
+of	of	IN	O	O
+watch	watch	NN	wat	tch
+shoulde	shoulde	NN	sho	lde
+of	of	IN	O	O
+made	make	VVD	mad	ade
+less	less	JJR	les	ess
+money	money	NN	mon	ney
+
+when	when	WRB	whe	hen
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+comes	come	VVZ	com	mes
+out	out	RB	out	out
+do	do	VV	O	O
+you	you	PP	you	you
+think	think	VVP	thi	ink
+it	it	PP	O	O
+will	will	MD	wil	ill
+raise	raise	VV	rai	ise
+in	in	IN	O	O
+the	the	DT	the	the
+box	box	NN	box	box
+office	office	NN	off	ice
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+list	list	NN	lis	ist
+in	in	IN	O	O
+orange	orange	NN	ora	nge
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+story	story	NN	sto	ory
+of	of	IN	O	O
+the	the	DT	the	the
+armstrong	armstrong	NN	arm	ong
+siddeley	siddeley	NN	sid	ley
+
+classic	classic	JJ	cla	sic
+cars	car	NNS	car	ars
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+learn	learn	VV	lea	arn
+about	about	IN	abo	out
+flowers	flower	NNS	flo	ers
+
+out	out	IN	out	out
+camping	camping	NN	cam	ing
+
+happy	happy	JJ	hap	ppy
+
+interesting	interesting	JJ	int	ing
+
+sort	sort	NN	sor	ort
+by	by	IN	O	O
+spanish	Spanish	NN	spa	ish
+
+where	where	WRB	whe	ere
+is	be	VBZ	O	O
+punjabi	punjabi	NN	pun	abi
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+robert	robert	NN	rob	ert
+wise	wise	NN	wis	ise
+'s	's	POS	O	O
+middle	middle	JJ	mid	dle
+name	name	NN	nam	ame
+
+ferret	ferret	NN	fer	ret
+
+forty	forty	NN	for	rty
+three	three	CD	thr	ree
+million	million	CD	mil	ion
+what	what	WP	wha	hat
+
+twenty	twenty	CD	twe	nty
+one	one	CD	one	one
+point	point	NN	poi	int
+two	two	CD	two	two
+million	million	CD	mil	ion
+dollars	dollar	NNS	dol	ars
+was	be	VBD	was	was
+divided	divide	VVN	div	ded
+between	between	IN	bet	een
+who	who	WP	who	who
+
+do	do	VV	O	O
+movie	movie	NN	mov	vie
+authors	author	NNS	aut	ors
+use	use	VVP	use	use
+real	real	JJ	rea	eal
+countries	country	NNS	cou	ies
+
+on	on	IN	O	O
+lies	lie	NNS	lie	ies
+
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+a	a	DT	O	O
+tanu	tanu	NN	tan	anu
+is	be	VBZ	O	O
+from	from	IN	fro	rom
+hungary	hungary	NN	hun	ary
+;	;	:	O	O
+where	where	WRB	whe	ere
+is	be	VBZ	O	O
+the	the	DT	the	the
+country	country	NN	cou	try
+hungary	hungary	NN	hun	ary
+
+how	how	WRB	how	how
+fun	fun	NN	fun	fun
+is	be	VBZ	O	O
+it	it	PP	O	O
+to	to	TO	O	O
+produce	produce	VV	pro	uce
+a	a	DT	O	O
+movie	movie	NN	mov	vie
+
+did	do	VVD	did	did
+you	you	PP	you	you
+like	like	IN	lik	ike
+working	work	VVG	wor	ing
+with	with	IN	wit	ith
+who	who	WP	who	who
+you	you	PP	you	you
+did	do	VVD	did	did
+
+can	can	MD	can	can
+i	i	NNS	O	O
+see	see	VV	see	see
+a	a	DT	O	O
+map	map	NN	map	map
+of	of	IN	O	O
+canada	Canada	NP	can	ada
+
+was	be	VBD	was	was
+your	your	PP$	you	our
+journey	journey	NN	jou	ney
+worth	worth	NN	wor	rth
+it	it	PP	O	O
+
+south	south	JJ	sou	uth
+american	American	JJ	ame	can
+country	country	NN	cou	try
+flags	flag	NNS	fla	ags
+
+need	need	VV	nee	eed
+more	more	JJR	mor	ore
+info	info	NN	inf	nfo
+that	that	WDT	tha	hat
+relates	relate	VVZ	rel	tes
+to	to	TO	O	O
+china	china	NN	chi	ina
+
+flags	flag	NNS	fla	ags
+of	of	IN	O	O
+planet	planet	NN	pla	net
+earth	earth	NN	ear	rth
+
+best	good	JJS	bes	est
+writers	writer	NNS	wri	ers
+in	in	IN	O	O
+the	the	DT	the	the
+field	field	NN	fie	eld
+
+find	find	VV	fin	ind
+the	the	DT	the	the
+male	male	JJ	mal	ale
+actor	actor	NN	act	tor
+from	from	IN	fro	rom
+grand	grand	JJ	gra	and
+torino	torino	NN	tor	ino
+
+who	who	WP	who	who
+played	play	VVD	pla	yed
+the	the	DT	the	the
+female	female	JJ	fem	ale
+lead	lead	NN	lea	ead
+in	in	IN	O	O
+hitch	hitch	NN	hit	tch
+
+find	find	VV	fin	ind
+the	the	DT	the	the
+female	female	JJ	fem	ale
+actress	actress	NN	act	ess
+from	from	IN	fro	rom
+shallow	shallow	JJ	sha	low
+hal	hal	NNS	hal	hal
+
+who	who	WP	who	who
+is	be	VBZ	O	O
+in	in	IN	O	O
+picture	picture	NN	pic	ure
+three	three	CD	thr	ree
+
+who	who	WP	who	who
+are	be	VBP	are	are
+the	the	DT	the	the
+lead	lead	JJ	lea	ead
+actors	actor	NNS	act	ors
+
+how	how	WRB	how	how
+old	old	NN	old	old
+is	be	VBZ	O	O
+jennifer	jennifer	NN	jen	fer
+aniston	aniston	NN	ani	ton
+
+when	when	WRB	whe	hen
+was	be	VBD	was	was
+will	will	NN	wil	ill
+ferrell	ferrell	NN	fer	ell
+born	bear	VVN	bor	orn
+
+where	where	WRB	whe	ere
+was	be	VBD	was	was
+black	black	JJ	bla	ack
+swan	swan	NN	swa	wan
+directed	direct	VVD	dir	ted
+
+where	where	WRB	whe	ere
+was	be	VBD	was	was
+muriel	Muriel	NP	mur	iel
+'s	's	POS	O	O
+wedding	wedding	NN	wed	ing
+shot	shot	NN	sho	hot
+
+show	show	NN	sho	how
+release	release	NN	rel	ase
+date	date	NN	dat	ate
+in	in	IN	O	O
+the	the	DT	the	the
+usa	usa	NN	usa	usa
+for	for	IN	for	for
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+little	little	JJ	lit	tle
+women	woman	NNS	wom	men
+
+show	show	NN	sho	how
+movie	movie	NN	mov	vie
+description	description	NN	des	ion
+
+i	i	NP	O	O
+'d	will	MD	O	O
+like	like	VV	lik	ike
+to	to	TO	O	O
+see	see	VV	see	see
+popular	popular	JJ	pop	lar
+film	film	NN	fil	ilm
+directors	director	NNS	dir	ors
+from	from	IN	fro	rom
+the	the	DT	the	the
+nineteen	nineteen	CD	nin	een
+fifty	fifty	CD	fif	fty
+'s	be	VBZ	O	O
+through	through	IN	thr	ugh
+today	today	NN	tod	day
+
+best	good	JJS	bes	est
+director	director	NN	dir	tor
+
+best	good	JJS	bes	est
+directors	director	NNS	dir	ors
+of	of	IN	O	O
+all	all	DT	all	all
+time	time	NN	tim	ime
+
+please	please	UH	ple	ase
+show	show	VV	sho	how
+me	me	PP	O	O
+famous	famous	JJ	fam	ous
+film	film	NN	fil	ilm
+directors	director	NNS	dir	ors
+
+greatest	great	JJS	gre	est
+directors	director	NNS	dir	ors
+
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+some	some	DT	som	ome
+of	of	IN	O	O
+the	the	DT	the	the
+most	most	RBS	mos	ost
+popular	popular	JJ	pop	lar
+movies	movie	NNS	mov	ies
+
+show	show	VV	sho	how
+me	me	PP	O	O
+successful	successful	JJ	suc	ful
+movie	movie	NN	mov	vie
+directors	director	NNS	dir	ors
+
+who	who	WP	who	who
+produced	produce	VVD	pro	ced
+hotel	hotel	NN	hot	tel
+rwanda	rwanda	NNS	rwa	nda
+cover	cover	VVP	cov	ver
+art	art	NN	art	art
+
+who	who	WP	who	who
+'s	be	VBZ	O	O
+the	the	DT	the	the
+director	director	NN	dir	tor
+
+director	director	NN	dir	tor
+'s	's	POS	O	O
+name	name	NN	nam	ame
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+name	name	NN	nam	ame
+of	of	IN	O	O
+a	a	DT	O	O
+turkish	Turkish	JJ	tur	ish
+director	director	NN	dir	tor
+that	that	WDT	tha	hat
+produced	produce	VVD	pro	ced
+a	a	DT	O	O
+drama	drama	NN	dra	ama
+film	film	NN	fil	ilm
+
+watch	watch	NN	wat	tch
+dredd	dredd	NN	dre	edd
+movie	movie	NN	mov	vie
+
+see	see	VV	see	see
+dredd	dredd	NN	dre	edd
+movie	movie	NN	mov	vie
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+the	the	DT	the	the
+name	name	NN	nam	ame
+of	of	IN	O	O
+an	an	DT	O	O
+academy	academy	NN	aca	emy
+award	award	NN	awa	ard
+winning	win	VVG	win	ing
+russian	Russian	JJ	rus	ian
+documentary	documentary	NN	doc	ary
+
+what	what	WP	wha	hat
+movie	movie	NN	mov	vie
+titles	title	NNS	tit	les
+starring	star	VVG	sta	ing
+meryl	meryl	NN	mer	ryl
+streep	streep	NNS	str	eep
+earned	earn	VVD	ear	ned
+oscar	oscar	NN	osc	car
+nominations	nomination	NNS	nom	ons
+
+in	in	IN	O	O
+search	search	NN	sea	rch
+for	for	IN	for	for
+names	name	NNS	nam	mes
+of	of	IN	O	O
+crew	crew	NN	cre	rew
+members	member	NNS	mem	ers
+please	please	VVP	ple	ase
+
+get	get	VV	get	get
+me	me	PP	O	O
+reviews	review	NNS	rev	ews
+and	and	CC	and	and
+info	info	NN	inf	nfo
+about	about	IN	abo	out
+the	the	DT	the	the
+campaign	campaign	NN	cam	ign
+movie	movie	NN	mov	vie
+
+show	show	VV	sho	how
+me	me	PP	O	O
+reviews	review	NNS	rev	ews
+and	and	CC	and	and
+info	info	NN	inf	nfo
+for	for	IN	for	for
+the	the	DT	the	the
+campaign	campaign	NN	cam	ign
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+that	that	DT	tha	hat
+clint	clint	NN	cli	int
+eastwood	eastwood	NN	eas	ood
+direct	direct	JJ	dir	ect
+that	that	IN/that	tha	hat
+he	he	PP	O	O
+won	win	VVD	won	won
+the	the	DT	the	the
+best	good	JJS	bes	est
+director	director	NN	dir	tor
+oscar	oscar	NN	osc	car
+for	for	IN	for	for
+
+what	what	WP	wha	hat
+'s	be	VBZ	O	O
+hitchcock	hitchcock	NN	hit	ock
+'s	's	POS	O	O
+most	most	RBS	mos	ost
+famous	famous	JJ	fam	ous
+movie	movie	NN	mov	vie
+
+tell	tell	VV	tel	ell
+me	me	PP	O	O
+some	some	DT	som	ome
+of	of	IN	O	O
+walter	Walter	NP	wal	ter
+f	f	SYM	O	O
+parkes	parkes	VVZ	par	kes
+best	good	JJS	bes	est
+movies	movie	NNS	mov	ies
+
+looking	look	VVG	loo	ing
+for	for	IN	for	for
+movies	movie	NNS	mov	ies
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+actor	actor	NN	act	tor
+number	number	NN	num	ber
+one	one	CD	one	one
+
+list	list	NN	lis	ist
+of	of	IN	O	O
+movies	movie	NNS	mov	ies
+directed	direct	VVN	dir	ted
+by	by	IN	O	O
+director	director	NN	dir	tor
+three	three	CD	thr	ree
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+film	film	NN	fil	ilm
+that	that	WDT	tha	hat
+grossed	gross	VVD	gro	sed
+seven	seven	CD	sev	ven
+point	point	NN	poi	int
+two	two	CD	two	two
+million	million	CD	mil	ion
+at	at	IN	O	O
+the	the	DT	the	the
+box	box	NN	box	box
+office	office	NN	off	ice
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+that	that	WDT	tha	hat
+made	make	VVD	mad	ade
+over	over	IN	ove	ver
+seven	seven	CD	sev	ven
+million	million	CD	mil	ion
+dollars	dollar	NNS	dol	ars
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+that	that	IN/that	tha	hat
+didn	didn	NN	did	idn
+'t	't	NN	O	O
+gross	gross	JJ	gro	oss
+much	much	RB	muc	uch
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+early	early	RB	ear	rly
+two	two	CD	two	two
+thousands	thousand	NNS	tho	nds
+
+show	show	VV	sho	how
+last	last	JJ	las	ast
+years	year	NNS	yea	ars
+films	film	NNS	fil	lms
+by	by	IN	O	O
+7	7	CD	O	O
+arts	art	NNS	art	rts
+
+show	show	VV	sho	how
+all	all	DT	all	all
+movies	movie	NNS	mov	ies
+that	that	WDT	tha	hat
+came	come	VVD	cam	ame
+out	out	RP	out	out
+nine	nine	CD	nin	ine
+fourteen	fourteen	NN	fou	een
+twenty	twenty	CD	twe	nty
+twelve	twelve	NN	twe	lve
+
+were	be	VBD	wer	ere
+there	there	RB	the	ere
+any	any	DT	any	any
+movies	movie	NNS	mov	ies
+released	release	VVD	rel	sed
+nine	nine	CD	nin	ine
+fourteen	fourteen	NN	fou	een
+twenty	twenty	CD	twe	nty
+twelve	twelve	NN	twe	lve
+
+show	show	VV	sho	how
+me	me	PP	O	O
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+the	the	DT	the	the
+nineteen	nineteen	CD	nin	een
+seventies	seventy	NNS	sev	ies
+
+can	can	MD	can	can
+you	you	PP	you	you
+list	list	VV	lis	ist
+all	all	DT	all	all
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+twenty	twenty	CD	twe	nty
+twelve	twelve	NN	twe	lve
+with	with	IN	wit	ith
+a	a	DT	O	O
+rating	rating	NN	rat	ing
+of	of	IN	O	O
+three	three	CD	thr	ree
+stars	star	NNS	sta	ars
+and	and	CC	and	and
+up	up	RB	O	O
+
+academy	academy	NN	aca	emy
+award	award	NN	awa	ard
+lionsgate	lionsgate	NN	lio	ate
+movies	movie	NNS	mov	ies
+
+show	show	NN	sho	how
+oscar	oscar	NN	osc	car
+winning	win	VVG	win	ing
+movies	movie	NNS	mov	ies
+by	by	IN	O	O
+warner	warner	NN	war	ner
+brothers	brother	NNS	bro	ers
+
+what	what	WP	wha	hat
+movie	movie	NN	mov	vie
+performance	performance	NN	per	nce
+did	do	VVD	did	did
+meryl	meryl	NN	mer	ryl
+streep	streep	NNS	str	eep
+win	win	VVP	win	win
+her	her	PP$	her	her
+best	good	JJS	bes	est
+supporting	supporting	JJ	sup	ing
+oscar	oscar	NN	osc	car
+
+have	have	VHP	hav	ave
+any	any	DT	any	any
+us	us	PP	O	O
+released	release	VVN	rel	sed
+movies	movie	NNS	mov	ies
+been	be	VBN	bee	een
+filmed	film	VVN	fil	med
+on	on	IN	O	O
+location	location	NN	loc	ion
+in	in	IN	O	O
+the	the	DT	the	the
+czech	Czech	NN	cze	ech
+republic	republic	NN	rep	lic
+
+what	what	WP	wha	hat
+us	us	PP	O	O
+release	release	VVP	rel	ase
+movies	movie	NNS	mov	ies
+have	have	VHP	hav	ave
+been	be	VBN	bee	een
+filmed	film	VVN	fil	med
+in	in	IN	O	O
+the	the	DT	the	the
+czech	Czech	NN	cze	ech
+republic	republic	NN	rep	lic
+
+list	list	NN	lis	ist
+movies	movie	NNS	mov	ies
+set	set	VVN	set	set
+in	in	IN	O	O
+ireland	ireland	NN	ire	and
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+movies	movie	NNS	mov	ies
+released	release	VVN	rel	sed
+in	in	IN	O	O
+england	england	NN	eng	and
+
+what	what	WP	wha	hat
+movies	movie	NNS	mov	ies
+are	be	VBP	are	are
+coming	come	VVG	com	ing
+out	out	RP	out	out
+this	this	DT	thi	his
+week	week	NN	wee	eek
+in	in	IN	O	O
+great	great	JJ	gre	eat
+britain	britain	NN	bri	ain
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+movies	movie	NNS	mov	ies
+released	release	VVN	rel	sed
+in	in	IN	O	O
+nepal	nepal	NN	nep	pal
+
+what	what	WP	wha	hat
+are	be	VBP	are	are
+the	the	DT	the	the
+top	top	JJ	top	top
+five	five	CD	fiv	ive
+french	French	NN	fre	nch
+movies	movie	NNS	mov	ies
+of	of	IN	O	O
+all	all	DT	all	all
+time	time	NN	tim	ime
+
+what	what	WP	wha	hat
+top	top	JJ	top	top
+films	film	NNS	fil	lms
+have	have	VHP	hav	ave
+come	come	VVN	com	ome
+out	out	RP	out	out
+of	of	IN	O	O
+russia	russia	NN	rus	sia
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+top	top	JJ	top	top
+movies	movie	NNS	mov	ies
+from	from	IN	fro	rom
+spain	spain	NN	spa	ain
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+highest	high	JJS	hig	est
+rated	rate	VVN	rat	ted
+zombie	zombie	NN	zom	bie
+movie	movie	NN	mov	vie
+
+what	what	WP	wha	hat
+are	be	VBP	are	are
+highly	highly	RB	hig	hly
+rated	rate	VVN	rat	ted
+zombie	zombie	NN	zom	bie
+movies	movie	NNS	mov	ies
+i	i	NP	O	O
+can	can	MD	can	can
+watch	watch	VV	wat	tch
+
+look	look	NN	loo	ook
+for	for	IN	for	for
+popular	popular	JJ	pop	lar
+movies	movie	NNS	mov	ies
+
+search	search	NN	sea	rch
+for	for	IN	for	for
+foreign	foreign	JJ	for	ign
+language	language	NN	lan	age
+films	film	NNS	fil	lms
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+will	will	NN	wil	ill
+ferrell	ferrell	NN	fer	ell
+famous	famous	JJ	fam	ous
+for	for	IN	for	for
+
+is	be	VBZ	O	O
+this	this	DT	thi	his
+a	a	DT	O	O
+musical	musical	NN	mus	cal
+
+hope	hope	VVP	hop	ope
+that	that	IN/that	tha	hat
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+is	be	VBZ	O	O
+in	in	IN	O	O
+english	English	NN	eng	ish
+
+is	be	VBZ	O	O
+this	this	DT	thi	his
+movie	movie	NN	mov	vie
+in	in	IN	O	O
+english	English	NN	eng	ish
+
+do	do	VV	O	O
+they	they	PP	the	hey
+speak	speak	VV	spe	eak
+german	german	JJ	ger	man
+in	in	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+
+is	be	VBZ	O	O
+this	this	DT	thi	his
+movie	movie	NN	mov	vie
+filmed	film	VVN	fil	med
+in	in	IN	O	O
+india	india	NN	ind	dia
+
+show	show	VV	sho	how
+all	all	DT	all	all
+dawn	dawn	NN	daw	awn
+of	of	IN	O	O
+the	the	DT	the	the
+dead	dead	JJ	dea	ead
+movies	movie	NNS	mov	ies
+
+all	all	DT	all	all
+of	of	IN	O	O
+kung	kung	NP	kun	ung
+fu	fu	NP	O	O
+panda	panda	NN	pan	nda
+movies	movie	NNS	mov	ies
+
+list	list	NN	lis	ist
+movies	movie	NNS	mov	ies
+that	that	WDT	tha	hat
+have	have	VHP	hav	ave
+time	time	NN	tim	ime
+travel	travel	NN	tra	vel
+in	in	IN	O	O
+their	their	PP$	the	eir
+title	title	NN	tit	tle
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+nine	nine	CD	nin	ine
+twenty	twenty	CD	twe	nty
+eight	eight	CD	eig	ght
+release	release	NN	rel	ase
+date	date	NN	dat	ate
+films	film	NNS	fil	lms
+from	from	IN	fro	rom
+twenty	twenty	CD	twe	nty
+twelve	twelve	NN	twe	lve
+
+find	find	VV	fin	ind
+information	information	NN	inf	ion
+about	about	IN	abo	out
+french	French	JJ	fre	nch
+movies	movie	NNS	mov	ies
+
+i	i	NNS	O	O
+need	need	VVP	nee	eed
+to	to	TO	O	O
+know	know	VV	kno	now
+more	more	JJR	mor	ore
+about	about	IN	abo	out
+the	the	DT	the	the
+life	life	NN	lif	ife
+and	and	CC	and	and
+movies	movie	NNS	mov	ies
+of	of	IN	O	O
+indian	Indian	JJ	ind	ian
+actor	actor	NN	act	tor
+dilip	dilip	NN	dil	lip
+kumar	kumar	NN	kum	mar
+
+what	what	WP	wha	hat
+does	do	VVZ	doe	oes
+the	the	DT	the	the
+miramax	miramax	NN	mir	max
+logo	logo	NN	log	ogo
+look	look	VVP	loo	ook
+like	like	IN	lik	ike
+
+show	show	VV	sho	how
+me	me	PP	O	O
+pictures	picture	NNS	pic	res
+of	of	IN	O	O
+martin	martin	NN	mar	tin
+scorsese	scorsese	NN	sco	ese
+
+photos	photo	NNS	pho	tos
+of	of	IN	O	O
+steven	steven	JJ	ste	ven
+spielberg	spielberg	NN	spi	erg
+
+i	i	NNS	O	O
+want	want	VVP	wan	ant
+to	to	TO	O	O
+see	see	VV	see	see
+images	image	NNS	ima	ges
+of	of	IN	O	O
+will	will	NN	wil	ill
+ferrell	ferrell	NN	fer	ell
+
+show	show	VV	sho	how
+me	me	PP	O	O
+pictures	picture	NNS	pic	res
+of	of	IN	O	O
+woody	woody	JJ	woo	ody
+allen	allen	NN	all	len
+
+what	what	WP	wha	hat
+are	be	VBP	are	are
+popular	popular	JJ	pop	lar
+movie	movie	NN	mov	vie
+producers	producer	NNS	pro	ers
+
+can	can	MD	can	can
+you	you	PP	you	you
+give	give	VV	giv	ive
+me	me	PP	O	O
+the	the	DT	the	the
+producer	producer	NN	pro	cer
+
+i	i	NP	O	O
+would	would	MD	wou	uld
+like	like	VV	lik	ike
+to	to	TO	O	O
+know	know	VV	kno	now
+the	the	DT	the	the
+rating	rating	NN	rat	ing
+of	of	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+avatar	avatar	NN	ava	tar
+
+what	what	WP	wha	hat
+rating	rating	NN	rat	ing
+is	be	VBZ	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+barfi	barfi	NN	bar	rfi
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+rated	rate	VVN	rat	ted
+
+i	i	NNS	O	O
+need	need	VVP	nee	eed
+to	to	TO	O	O
+know	know	VV	kno	now
+the	the	DT	the	the
+rating	rating	NN	rat	ing
+of	of	IN	O	O
+grease	grease	NN	gre	ase
+
+can	can	MD	can	can
+you	you	PP	you	you
+find	find	VV	fin	ind
+out	out	RP	out	out
+what	what	WP	wha	hat
+rating	rating	NN	rat	ing
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+grease	grease	NN	gre	ase
+is	be	VBZ	O	O
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+kids	kid	NNS	kid	ids
+by	by	IN	O	O
+larry	larry	NN	lar	rry
+clark	clark	NN	cla	ark
+rated	rate	VVN	rat	ted
+
+what	what	WP	wha	hat
+rating	rating	NN	rat	ing
+did	do	VVD	did	did
+marley	marley	NN	mar	ley
+and	and	CC	and	and
+me	me	PP	O	O
+receive	receive	VVP	rec	ive
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+rating	rating	NN	rat	ing
+for	for	IN	for	for
+mr	Mr	NN	O	O
+and	and	CC	and	and
+mrs	Mrs	NN	mrs	mrs
+smith	smith	NN	smi	ith
+
+what	what	WP	wha	hat
+rating	rating	NN	rat	ing
+did	do	VVD	did	did
+resident	resident	JJ	res	ent
+evil	evil	NN	evi	vil
+receive	receive	VV	rec	ive
+
+rating	rating	NN	rat	ing
+for	for	IN	for	for
+snow	snow	NN	sno	now
+white	white	NN	whi	ite
+and	and	CC	and	and
+the	the	DT	the	the
+huntsman	huntsman	NN	hun	man
+
+what	what	WP	wha	hat
+rating	rating	NN	rat	ing
+is	be	VBZ	O	O
+step	step	NN	ste	tep
+up	up	RB	O	O
+
+look	look	VV	loo	ook
+up	up	RP	O	O
+the	the	DT	the	the
+rating	rating	NN	rat	ing
+of	of	IN	O	O
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+step	step	NN	ste	tep
+up	up	RB	O	O
+
+what	what	WP	wha	hat
+rating	rating	NN	rat	ing
+did	do	VVD	did	did
+the	the	DT	the	the
+campaign	campaign	NN	cam	ign
+movie	movie	NN	mov	vie
+get	get	VV	get	get
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+rating	rating	NN	rat	ing
+for	for	IN	for	for
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+the	the	DT	the	the
+expendables	expendable	NNS	exp	les
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+rating	rating	NN	rat	ing
+for	for	IN	for	for
+toy	toy	JJ	toy	toy
+story	story	NN	sto	ory
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+rating	rating	NN	rat	ing
+for	for	IN	for	for
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+toy	toy	NN	toy	toy
+story	story	NN	sto	ory
+
+rating	rating	NN	rat	ing
+for	for	IN	for	for
+twilight	twilight	NN	twi	ght
+breaking	break	VVG	bre	ing
+dawn	dawn	NN	daw	awn
+
+what	what	WP	wha	hat
+was	be	VBD	was	was
+gross	gross	JJ	gro	oss
+revenue	revenue	NN	rev	nue
+for	for	IN	for	for
+batman	batman	NN	bat	man
+begins	begin	VVZ	beg	ins
+
+how	how	WRB	how	how
+much	much	RB	muc	uch
+has	have	VHZ	has	has
+black	black	JJ	bla	ack
+swan	swan	NN	swa	wan
+brought	bring	VVN	bro	ght
+in	in	IN	O	O
+
+find	find	VV	fin	ind
+the	the	DT	the	the
+revenue	revenue	NN	rev	nue
+for	for	IN	for	for
+downton	downton	NN	dow	ton
+abbey	abbey	NN	abb	bey
+
+find	find	VV	fin	ind
+the	the	DT	the	the
+revenue	revenue	NN	rev	nue
+of	of	IN	O	O
+edward	edward	NN	edw	ard
+scissor	scissor	VVP	sci	sor
+hands	hand	NNS	han	nds
+
+what	what	WP	wha	hat
+is	be	VBZ	O	O
+the	the	DT	the	the
+most	most	JJS	mos	ost
+a	a	DT	O	O
+movie	movie	NN	mov	vie
+made	make	VVD	mad	ade
+
+reviews	review	NNS	rev	ews
+for	for	IN	for	for
+dirty	dirty	JJ	dir	rty
+dancing	dancing	NN	dan	ing
+
+find	find	VV	fin	ind
+reviews	review	NNS	rev	ews
+for	for	IN	for	for
+dirty	dirty	JJ	dir	rty
+dancing	dancing	NN	dan	ing
+
+what	what	WP	wha	hat
+are	be	VBP	are	are
+reviews	review	NNS	rev	ews
+for	for	IN	for	for
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+what	what	WP	wha	hat
+are	be	VBP	are	are
+the	the	DT	the	the
+ratings	rating	NNS	rat	ngs
+and	and	CC	and	and
+review	review	NN	rev	iew
+on	on	IN	O	O
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+reviews	review	NNS	rev	ews
+for	for	IN	for	for
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+reviews	review	NNS	rev	ews
+for	for	IN	for	for
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+reviews	review	NNS	rev	ews
+for	for	IN	for	for
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+
+reviews	review	NNS	rev	ews
+for	for	IN	for	for
+movie	movie	NN	mov	vie
+
+reviews	review	NNS	rev	ews
+for	for	IN	for	for
+in	in	IN	O	O
+july	July	NN	jul	uly
+
+what	what	WP	wha	hat
+are	be	VBP	are	are
+the	the	DT	the	the
+reviewers	reviewer	NNS	rev	ers
+saying	say	VVG	say	ing
+about	about	IN	abo	out
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+episode	episode	NN	epi	ode
+four	four	CD	fou	our
+
+how	how	WRB	how	how
+long	long	RB	lon	ong
+is	be	VBZ	O	O
+life	life	NN	lif	ife
+is	be	VBZ	O	O
+beautiful	beautiful	JJ	bea	ful
+
+synopsis	synopsis	NN	syn	sis
+for	for	IN	for	for
+the	the	DT	the	the
+movie	movie	NN	mov	vie
+house	house	NN	hou	use
+at	at	IN	O	O
+the	the	DT	the	the
+end	end	NN	end	end
+of	of	IN	O	O
+the	the	DT	the	the
+street	street	NN	str	eet
+
+synopsis	synopsis	NN	syn	sis
+for	for	IN	for	for
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+four	four	CD	fou	our
+
+summary	summary	NN	sum	ary
+of	of	IN	O	O
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+four	four	CD	fou	our
+
+finding	find	VVG	fin	ing
+nemo	nemo	NN	nem	emo
+movie	movie	NN	mov	vie
+shortcut	shortcut	NN	sho	cut
+
+show	show	VV	sho	how
+me	me	PP	O	O
+the	the	DT	the	the
+trailer	trailer	NN	tra	ler
+for	for	IN	for	for
+house	house	NN	hou	use
+at	at	IN	O	O
+the	the	DT	the	the
+end	end	NN	end	end
+of	of	IN	O	O
+the	the	DT	the	the
+street	street	NN	str	eet
+
+life	life	NN	lif	ife
+is	be	VBZ	O	O
+beatiful	beatiful	JJ	bea	ful
+shortcut	shortcut	NN	sho	cut
+
+trailer	trailer	NN	tra	ler
+for	for	IN	for	for
+star	star	NN	sta	tar
+wars	war	NNS	war	ars
+a	a	DT	O	O
+new	new	JJ	new	new
+hope	hope	NN	hop	ope
+
+show	show	VV	sho	how
+resident	resident	JJ	res	ent
+evil	evil	JJ	evi	vil
+movies	movie	NNS	mov	ies
+with	with	IN	wit	ith
+trailers	trailer	NNS	tra	ers
+
+can	can	MD	can	can
+i	i	NNS	O	O
+see	see	VV	see	see
+previews	preview	NNS	pre	ews
+for	for	IN	for	for
+upcoming	upcoming	JJ	upc	ing
+warner	warner	NN	war	ner
+brothers	brother	NNS	bro	ers
+movies	movie	NNS	mov	ies
+
+how	how	WRB	how	how
+many	many	JJ	man	any
+woody	woody	JJ	woo	ody
+allen	allen	NN	all	len
+movies	movie	NNS	mov	ies
+are	be	VBP	are	are
+set	set	VVN	set	set
+in	in	IN	O	O
+new	new	JJ	new	new
+york	york	VVP	yor	ork
+city	city	NN	cit	ity
+
+how	how	WRB	how	how
+many	many	JJ	man	any
+scorsese	scorsese	JJ	sco	ese
+films	film	NNS	fil	lms
+were	be	VBD	wer	ere
+filmed	film	VVN	fil	med
+in	in	IN	O	O
+france	france	NN	fra	nce
+
